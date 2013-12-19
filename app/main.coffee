@@ -1,6 +1,7 @@
 require './config/ember'
-require './config/zooniverse'
+require './config/translation'
 require './config/routes'
+
 
 require './lib/helpers'
 require './routes/all'

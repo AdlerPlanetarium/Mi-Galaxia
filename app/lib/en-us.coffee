@@ -5,7 +5,7 @@ module.exports =
     welcome: 'Welcome To'
     project: "#{ PROJECT_NAME }"
     example: 'Example Authenticated Route'
-  
+
   profile:
     signInForProfile: 'Sign In'
     noAccount: 'No Account?'
@@ -13,6 +13,6 @@ module.exports =
     signIn: 'Sign In'
     username: 'Username'
     password: 'Password'
-  
+
   example:
     hi: 'Hi'
