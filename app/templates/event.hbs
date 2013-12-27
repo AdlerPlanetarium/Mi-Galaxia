@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col-md-3 btn_menu">
+    {{#linkTo 'event.about'}}<span>About</span>{{/linkTo}}
+    {{#linkTo 'event.schedule'}}<span>Schedule</span>{{/linkTo}}
+    {{#linkTo 'event.getting_here'}}<span>Getting Here</span>{{/linkTo}}
+    {{#linkTo 'event.questions'}}<span>Questions</span>{{/linkTo}}
+  </div>
+
+  <div class="col-md-9 menu_content">
+    {{outlet}}
+  </div>
+</div>
