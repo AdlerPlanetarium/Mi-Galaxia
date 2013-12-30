@@ -68,7 +68,7 @@
       </div>
       <div class="col-md-12">
         <div class="col-sm-4 col-md-2">
-          <h1>The Event</h1>
+          <h1>The Event</h1>{{!-- TODO: Combine action with linkTo helper if keeping --}}
           <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.about'}}About{{/linkTo}}</li>
           <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.schedule'}}Schedule{{/linkTo}}</li>
           <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.getting_here'}}Getting Here{{/linkTo}}</li>
@@ -84,10 +84,10 @@
         </div>
         <div class="col-sm-4 col-md-2">
           <h1>Resources</h1>
-          <li>{{#linkTo ''}}NASA en Español{{/linkTo}}</li>
-          <li>{{#linkTo ''}}Adler Activities{{/linkTo}}</li>
-          <li>{{#linkTo ''}}Summer Camps{{/linkTo}}</li>
-          <li>{{#linkTo ''}}Citizen Science{{/linkTo}}</li>
+          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.nasa'}}NASA en Español{{/linkTo}}</li>
+          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.adler_activities'}}Adler Activities{{/linkTo}}</li>
+          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.summer_camps'}}Summer Camps{{/linkTo}}</li>
+          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.citizen_science'}}Citizen Science{{/linkTo}}</li>
         </div>
       </div>
 
