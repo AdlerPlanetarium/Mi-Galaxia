@@ -7,7 +7,7 @@
 
       <div class="col-sm-8 col-md-7">
         <div class="links">
-          {{#linkTo 'event.about'}}{{translate 'span' 'nav.event'}}{{/linkTo}}
+          {{#linkTo 'event'}}{{translate 'span' 'nav.event'}}{{/linkTo}}
           {{#linkTo 'scientists'}}{{translate 'span' 'nav.scientists'}}{{/linkTo}}
           {{#linkTo 'resources'}}{{translate 'span' 'nav.resources'}}{{/linkTo}}
           {{#linkTo ''}}{{translate 'span' 'nav.getTickets'}}{{/linkTo}}
@@ -25,7 +25,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img src="http://dummyimage.com/300X300/000/fff.jpg">
+        <img src="http://dummyimage.com/375X375/000/fff.jpg" id="bannerImage">
       </div>
       <div class="col-md-6">
         {{translate 'h1' 'home.callout'}}
@@ -43,12 +43,18 @@
 
 <div id="sponsors">
   <div class="container">
-    <div class="row"id="sponsors">
-      <div class="col-sm-12">
+    <div class="row">
+      <div class="col-sm-6 col-md-3">
         <span>Thank you to our sponsors:</span>
-        <img src="http://dummyimage.com/200X200/211641/fcf5e2&text=apple">
-        <img src="http://dummyimage.com/200X200/211641/fcf5e2&text=walgreens">
-        <img src="http://dummyimage.com/200X200/211641/fcf5e2&text=bing">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=apple">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=walgreens">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=bing">
       </div>
     </div>
   </div>
@@ -60,29 +66,32 @@
       <div class="col-md-3" >
         <img src="http://dummyimage.com/225X150/32ae9b/fcf5e2&text=ADLER+PLANETARIUM">
       </div>
-      <div class="col-md-2" >
-        <h1>The Event</h1>
-        <li>{{#linkTo 'event.about'}}About{{/linkTo}}</li>
-        <li>{{#linkTo 'event.schedule'}}Schedule{{/linkTo}}</li>
-        <li>{{#linkTo 'event.getting_here'}}Getting Here{{/linkTo}}</li>
-        <li>{{#linkTo 'event.questions'}}Questions{{/linkTo}}</li>
+      <div class="col-md-12">
+        <div class="col-sm-4 col-md-2">
+          <h1>The Event</h1>
+          <li>{{#linkTo 'event.about'}}About{{/linkTo}}</li>
+          <li>{{#linkTo 'event.schedule'}}Schedule{{/linkTo}}</li>
+          <li>{{#linkTo 'event.getting_here'}}Getting Here{{/linkTo}}</li>
+          <li>{{#linkTo 'event.questions'}}Questions{{/linkTo}}</li>
+        </div>
+        <div class="col-sm-4 col-md-2">
+          <h1>Latino Scientists</h1>
+          <li>{{#linkTo ''}}Julietta Fierro{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Luis Nasser{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Ursala Perez-Salas{{/linkTo}}</li>
+          <li>{{#linkTo ''}}José Francisco Salgado{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Julieta Aguilera{{/linkTo}}</li>
+        </div>
+        <div class="col-sm-4 col-md-2">
+          <h1>Resources</h1>
+          <li>{{#linkTo ''}}NASA en Español{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Adler Activities{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Summer Camps{{/linkTo}}</li>
+          <li>{{#linkTo ''}}Citizen Science{{/linkTo}}</li>
+        </div>
       </div>
-      <div class="col-md-2" >
-        <h1>Latino Scientists</h1>
-        <li>{{#linkTo ''}}Julietta Fierro{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Luis Nasser{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Ursala Perez-Salas{{/linkTo}}</li>
-        <li>{{#linkTo ''}}José Francisco Salgado{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Julieta Aguilera{{/linkTo}}</li>
-      </div>
-      <div class="col-md-2" >
-        <h1>Resources</h1>
-        <li>{{#linkTo ''}}NASA en Español{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Adler Activities{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Summer Camps{{/linkTo}}</li>
-        <li>{{#linkTo ''}}Citizen Science{{/linkTo}}</li>
-      </div>
-      <div class="col-md-3" >
+
+      <div class="col-md-3">
         <p><button>Buy Tickets!</button><br></p>
         {{#linkTo ''}}<img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Facebook">{{/linkTo}}
         {{#linkTo ''}}<img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Twitter">{{/linkTo}}
