@@ -21,7 +21,43 @@ module.exports =
       name: "Julieta Fierro"
       bio:
         """
-        Dr. Julieta Fierro is a researcher at the Institute of Astronomy at UNAM and professor at the Faculty of Sciences of it. He has dabbled in work education at UNAM for 40 years . He has worked for museum exhibitions , written 40 books , science centers led and participated in radio and television activities . He was President of the Commission 46 of the International Astronomical Union , dedicated to the teaching of astronomy, and was President of the Mexican Academy of Natural Sciences Faculty . He was also General Director of Promotion of Science , UNAM and member of the board of the Astronomical Society of the Pacific, as well as president of the Mexican Society of Science Museums . For the quality of his work in this area, was assigned by the UN international developing basic astronomy programs . He contributed to the creation of a science museum in Puerto Rico and observatories Mc Donald , United States , and South Africa Suderland . He has received numerous national and international awards such as the UNESCO Kalinga Prize , the Klupke -Roberts and medals Rovis Primo , the Assembly of Representatives DF Benito Juárez and the Omecihuatl . Laboratories , astronomical societies and three schools now bear his name. In his role as researcher enjoys teaching " others how wonderful it is science, how beautiful , how fun ."
+        Dr. Julieta Fierro is a researcher at the Institute of Astronomy at UNAM and professor at the Faculty of Sciences of it. She has dabbled in work education at UNAM for 40 years. She has worked for museum exhibitions, written 40 books, science centers led and participated in radio and television activities. She was President of the Commission 46 of the International Astronomical Union, dedicated to the teaching of astronomy, and was President of the Mexican Academy of Natural Sciences Faculty. She was also General Director of Promotion of Science, UNAM and member of the board of the Astronomical Society of the Pacific, as well as president of the Mexican Society of Science Museums. For the quality of her work in this area, was assigned by the UN international developing basic astronomy programs. She contributed to the creation of a science museum in Puerto Rico and observatories Mc Donald, United States, and South Africa Suderland. She has received numerous national and international awards such as the UNESCO Kalinga Prize, the Klupke -Roberts and medals Rovis Primo, the Assembly of Representatives DF Benito Juárez and the Omecihuatl. Laboratories, astronomical societies and three schools now bear her name. In her role as researcher enjoys teaching "others how wonderful it is science, how beautiful, how fun."
+        """
+    LuisNasser:
+      name: "Luis Nasser"
+      bio:
+        """
+        Scientist, Musician, Freelance Science Writer at Argonne National Laboratory. Assistant Professor at Columbia College Chicago, as well as bassist in Might Could, Sonus Umbra, and Fanfare. He has spent most of his professional career teaching physics, with most of his research involving collaborations with other professionals, or else devoted to help develop the curriculum of advanced, motivated undergraduates. Luis has ample experience as a freelance writer and editor of scientific papers, books and grants. Since 2008 he has been leading efforts to develop the physics curriculum of the Science and Mathematics department at Columbia College. He is currently leading efforts to develop the visualization lab at the same institution, and also spends his time recording, performing and touring as a bassist.
+        """
+    UrsalaPerezSalas:
+      name: "Úrsula Pérez Salas"
+      bio:
+        """
+        Ursala's Bio
+        """
+    JoseFranciscoSalgado:
+      name: "Jose Francisco Salgado"
+      bio:
+        """
+        Jose's Bio
+        """
+    JulietaAguilera:
+      name: "Julieta Aguilera"
+      bio:
+        """
+        Julieta's Bio
+        """
+    IsabelCarrera:
+      name: "Isabel Carrera"
+      bio:
+        """
+        Zamanillo Isabel Carrera is a Mexican biologist with training in science education. In 2012 he moved to Chicago, looking for new career opportunities. He began working with Latino migrant communities through an outreach program of science that created in Evanston called Playing with Science. The objective of the program is to familiarize young people and parents with science, scientists inviting Latinos in the Chicago area to share their life stories and organizing fun activities that allow families to see some scientific principles into practice. During this period he discovered the importance of creating a space where parents can connect with their children, young people can learn Latin through the experiences of other young people and visiting scientists, but especially where science is fun showing part of everyday life.
+        """
+    LauraTrouille:
+      name: "Laura Trouille"
+      bio:
+        """
+        Not Latina, but almost :)
         """
 
   event:
@@ -70,12 +106,12 @@ module.exports =
       content:
         """
         <h2>Shows and Lectures</h2>
-          <li>Grainger:10:15-11:45am and 1:15-1:45pm Cosmic Wonder (presented by José Francisco)</li>
-          <li>Definiti: 10:30am AM One World, One Sky</li>
-          <li>Definiti: 12:30pm and 2:00pm IBEX Show</li>
-          <li>Johnson: 11:30am and 2:45 Astronomy 3D shorts</li>
-          <li>Johnson: 4:00 PM Julieta Fierro Lecture</li>
-          <li>SVL: 11am and 3pm Astronomy Conversations (45min)</li>
+          <li><strong>10:15am-11:45am and 1:15am-1:45pm</strong> Grainger: Cosmic Wonder (presented by José Francisco)</li>
+          <li><strong>10:30am</strong> Definiti: One World, One Sky</li>
+          <li><strong>12:30pm and 2:00pm</strong> Definiti: IBEX Show</li>
+          <li><strong>11:30am and 2:45pm</strong> Johnson: Astronomy 3D shorts</li>
+          <li><strong>4:00pm</strong> Johnson: Julieta Fierro Lecture</li>
+          <li><strong>11:00am and 3:00pm</strong> SVL: Astronomy Conversations (45min)</li>
         <h2>Museum Floor Demonstrations & Hands-on Activities</h2>
           <li>2 education carts in (by Adler staff)</li>
           <li>Zooniverse activity</li>
@@ -83,11 +119,11 @@ module.exports =
           <li>1 demo cart led by the Field Museum</li>
           <li>1 demo cart led by MSI</li>
         <h2>Cyberspace Activities</h2>
-          <li>10-11 AM: Math & Music activity - Luis Nasser (local guest)</li>
-          <li>11:30-12:30: Skype Session with a Chilean Astronomer w/ telescope in background</li>
-          <li>2:30-3:30 PM: Particles in Space activity - Edmundo García (local guest)</li>
+          <li><strong>10:00am-11:00am</strong>: Math & Music activity - Luis Nasser (local guest)</li>
+          <li><strong>11:30am-12:30pm</strong>: Skype Session with a Chilean Astronomer w/ telescope in background</li>
+          <li><strong>2:30pm-3:30pm</strong>: Particles in Space activity - Edmundo García (local guest)</li>
         <h2>Telescope Tours</h2>
-          <li>10 AM & 2 PM Sunspot Telescope viewing</li>
+          <li><strong>10:00am & 2:00pm</strong> Sunspot Telescope viewing</li>
         """
 
 

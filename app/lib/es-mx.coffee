@@ -23,6 +23,42 @@ module.exports =
         """
         La Dra. Julieta Fierro es investigadora del Instituto de Astronomía de la UNAM y profesora de la Facultad de Ciencias de la misma. Ha incursionado en labores de educación en la UNAM desde hace 40 años. Ha trabajado para exposiciones en museos, escrito 40 libros, dirigido centros de ciencia y participado en actividades de radio y televisión. Fue Presidente de la Comisión 46 de la Unión Astronómica Internacional, dedicada a la enseñanza de la astronomía, y fue Presidenta de la Academia Mexicana de Profesores de Ciencias Naturales. También fue directora General de Divulgación de la Ciencia de la UNAM y miembro de la mesa directiva de la Sociedad Astronómica del Pacífico, así como presidenta de la Sociedad Mexicana de Museos de Ciencia. Por la calidad de su trabajo en este rubro, le fue asignada por la ONU la elaboración de los programas básicos internacionales de astronomía. Contribuyó en la creación de un museo de ciencias en Puerto Rico y los observatorios Mc Donald, de Estados Unidos, y el Suderland de Sudáfrica. Ha recibido numerosos galardones nacionales e internacionales como el premio Kalinga de la UNESCO, el Klupke-Roberts y las medallas Primo Rovis, la de la Asamblea de Representantes del D.F., la Benito Juárez y la Omecíhuatl. Laboratorios, sociedades astronómicas y tres escuelas llevan actualmente su nombre. En su papel como investigadora disfruta de enseñar "a otras personas lo maravilloso que es la ciencia, lo bonita, lo divertida".
         """
+    LuisNasser:
+      name: "Luis Nasser"
+      bio:
+        """
+        Scientist, Músico, escritor independiente Ciencia en el Laboratorio Nacional de Argonne. Profesor Asistente en el Columbia College de Chicago, así como el bajista de Might Could, Sonus Umbra, y Fanfare. Ha desarrollado gran parte de su profesional de la enseñanza de la física de carrera, con la mayor parte de su investigación con la colaboración con otros profesionales, o de lo dedicado a ayudar a desarrollar el plan de estudios de los estudiantes de pregrado, motivados avanzados. Luis tiene una amplia experiencia como escritor independiente y editor de los trabajos científicos, libros y subvenciones. Desde 2008 ha estado al frente de los esfuerzos para desarrollar el plan de estudios de la física del departamento de Ciencias y Matemáticas en la Universidad de Columbia. Actualmente, encabeza los esfuerzos para desarrollar el laboratorio de visualización en la misma institución, y también pasa su tiempo de grabación, realización y haciendo giras como bajista.
+        """
+    UrsalaPerezSalas:
+      name: "Úrsula Pérez Salas"
+      bio:
+        """
+        Ursala's Bio
+        """
+    JoseFranciscoSalgado:
+      name: "Jose Francisco Salgado"
+      bio:
+        """
+          Jose's Bio
+        """
+    JulietaAguilera:
+      name: "Julieta Aguilera"
+      bio:
+        """
+          Julieta's Bio
+        """
+    IsabelCarrera:
+      name: "Isabel Carrera"
+      bio:
+        """
+        Isabel Carrera Zamanillo es una bióloga mexicana con formación en educación científica. En 2012 se mudó a Chicago, buscando nuevas oportunidades profesionales. Comenzó a trabajar con comunidades migrantes latinas a través de un programa de divulgación de la ciencia que creó en Evanston llamado Jugando con la Ciencia. El objetivo del programa es familiarizar a los jóvenes y padres de familia con la ciencia, invitando a científicos latinos del área de Chicago para que compartan sus historias de vida y organizando actividades divertidas que permitan a las familias ver en práctica algunos principios científicos. Durante este periodo descubrió la importancia de crear un espacio en donde los padres se pueden conectar con sus hijos, los jóvenes pueden conocer Latinoamérica a través de las experiencias de otros jóvenes y de los científicos invitados, pero sobre todo, en donde la ciencia sea divertida, mostrando que forma parte de la vida diaria.
+        """
+    LauraTrouille:
+      name: "Laura Trouille"
+      bio:
+        """
+        No Latina, pero casi :)
+        """
 
   event:
     title: "Event Page"

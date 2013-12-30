@@ -4,5 +4,12 @@ App.Router.map ->
     @route 'schedule'
     @route 'getting_here'
     @route 'questions'
-  @route 'scientists'
+  @resource 'scientists', ->
+    @route 'julieta_fierro'
+    @route 'luis_nasser'
+    @route 'ursala_perez_salas'
+    @route 'jose_francisco_salgado'
+    @route 'julieta_aguilera'
+    @route 'isabel_carrera'
+    @route 'laura_trouille'
   @route 'resources'
