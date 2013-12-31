@@ -64,38 +64,43 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3" >
-        <img src="http://dummyimage.com/225X150/32ae9b/fcf5e2&text=ADLER+PLANETARIUM">
-      </div>
-      <div class="col-md-12">
-        <div class="col-sm-4 col-md-2">
-          <h1>The Event</h1>{{!-- TODO: Combine action with linkTo helper if keeping --}}
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.about'}}About{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.schedule'}}Schedule{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.getting_here'}}Getting Here{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'event.questions'}}Questions{{/linkTo}}</li>
-        </div>
-        <div class="col-sm-4 col-md-2">
-          <h1>Latino Scientists</h1>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'scientists.julieta_fierro'}}Julieta Fierro{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'scientists.luis_nasser'}}Luis Nasser{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'scientists.ursala_perez_salas'}}Ursala Perez-Salas{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'scientists.jose_francisco_salgado'}}José Francisco Salgado{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'scientists.julieta_aguilera'}}Julieta Aguilera{{/linkTo}}</li>
-        </div>
-        <div class="col-sm-4 col-md-2">
-          <h1>Resources</h1>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.nasa'}}NASA en Español{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.adler_activities'}}Adler Activities{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.summer_camps'}}Summer Camps{{/linkTo}}</li>
-          <li {{action 'scrollToMainContent'}}>{{#linkTo 'resources.citizen_science'}}Citizen Science{{/linkTo}}</li>
-        </div>
+        <a href="http://www.adlerplanetarium.org/">
+          <img src="http://dummyimage.com/225X150/32ae9b/fcf5e2&text=ADLER+PLANETARIUM">
+        </a>
       </div>
 
+      <div class="col-sm-4 col-md-2">
+        <h1>The Event</h1>
+        {{#linkTo 'event.about'}}<span {{action 'scrollToMainContent'}}>About</span>{{/linkTo}}
+        {{#linkTo 'event.schedule'}}<span {{action 'scrollToMainContent'}}>Schedule</span>{{/linkTo}}
+        {{#linkTo 'event.getting_here'}}<span {{action 'scrollToMainContent'}}>Getting Here</span>{{/linkTo}}
+        {{#linkTo 'event.questions'}}<span {{action 'scrollToMainContent'}}>Questions</span>{{/linkTo}}
+      </div>
+
+      <div class="col-sm-4 col-md-2">
+        <h1>Latino Scientists</h1>
+        {{#linkTo 'scientists.julieta_fierro'}}<span {{action 'scrollToMainContent'}}>Julieta Fierro</span>{{/linkTo}}
+        {{#linkTo 'scientists.luis_nasser'}}<span {{action 'scrollToMainContent'}}>Luis Nasser</span>{{/linkTo}}
+        {{#linkTo 'scientists.ursala_perez_salas'}}<span {{action 'scrollToMainContent'}}>Ursala Perez-Salas</span>{{/linkTo}}
+        {{#linkTo 'scientists.jose_francisco_salgado'}}<span {{action 'scrollToMainContent'}}>José Francisco Salgado</span>{{/linkTo}}
+        {{#linkTo 'scientists.julieta_aguilera'}}<span {{action 'scrollToMainContent'}}>Julieta Aguilera</span>{{/linkTo}}
+      </div>
+
+      <div class="col-sm-4 col-md-2">
+        <h1>Resources</h1>
+        {{#linkTo 'resources.nasa'}}<span {{action 'scrollToMainContent'}}>NASA en Español</span>{{/linkTo}}
+        {{#linkTo 'resources.adler_activities'}}<span {{action 'scrollToMainContent'}}>Adler Activities</span>{{/linkTo}}
+        {{#linkTo 'resources.summer_camps'}}<span {{action 'scrollToMainContent'}}>Summer Camps</span>{{/linkTo}}
+        {{#linkTo 'resources.citizen_science'}}<span {{action 'scrollToMainContent'}}>Citizen Science</span>{{/linkTo}}
+      </div>
+
+      <div class="clearfix visible-sm"></div>
+
       <div class="col-md-3">
-        <p><button>Buy Tickets!</button><br></p>
-        {{#linkTo ''}}<img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Facebook">{{/linkTo}}
-        {{#linkTo ''}}<img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Twitter">{{/linkTo}}
-        {{#linkTo ''}}<img src="http://dummyimage.com/100X50/32ae9b/73e3d0.jpg&text=YouTube">{{/linkTo}}
+        <button>Buy Tickets!</button><br>
+        <a href='https://www.facebook.com/adlerplanetarium'><img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Facebook"></a>
+        <a href='https://twitter.com/adlerskywatch'><img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Twitter"></a>
+        <a href='http://www.youtube.com/adlerplanetarium'><img src="http://dummyimage.com/100X50/32ae9b/73e3d0.jpg&text=YouTube"></a>
       </div>
     </div>
   </div>
