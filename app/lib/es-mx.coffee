@@ -129,6 +129,15 @@ module.exports =
         <h2>Telescope Tours</h2>
           <li><strong>10:00 y 14:00</strong> visionado Sunspot Telescopio</li>
         """
+  resources:
+    adlerActivities:
+      title: "Adler Activities"
+    nasaEnEspanol:
+      title: "Nasa en Español"
+    summerCamps:
+      title: "Summer Camps"
+    citizenScience:
+      title: "Citizen Science"
 
 
 

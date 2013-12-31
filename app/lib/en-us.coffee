@@ -65,7 +65,8 @@ module.exports =
     content: "Content for the event page"
 
     about:
-      title: "Get Inspired By Science."
+      title: "About"
+      header: "Get Inspired By Science."
       content:
         """
         <p>
@@ -79,6 +80,7 @@ module.exports =
 
     gettingHere:
       title: "Getting Here"
+      header: "Getting Here"
       content:
         """
         <h2>From the North</h2>
@@ -108,6 +110,7 @@ module.exports =
         """
     schedule:
       title: "Schedule"
+      header: "Schedule"
       content:
         """
         <h2>Shows and Lectures</h2>
@@ -130,7 +133,19 @@ module.exports =
         <h2>Telescope Tours</h2>
           <li><strong>10:00am & 2:00pm</strong> Sunspot Telescope viewing</li>
         """
-
+    questions:
+      title: "Questions"
+      header: "Questions"
+      content: "This is the content for the questions section"
+  resources:
+    adlerActivities:
+      title: "Adler Activities"
+    nasaEnEspanol:
+      title: "Nasa en Español"
+    summerCamps:
+      title: "Summer Camps"
+    citizenScience:
+      title: "Citizen Science"
 
 
 
