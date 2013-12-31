@@ -1,5 +1,4 @@
 require './application'
-require './index'
 require './event'
 require './event/all'
 require './scientists'
