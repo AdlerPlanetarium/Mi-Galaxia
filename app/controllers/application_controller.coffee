@@ -19,7 +19,7 @@ module.exports = App.ApplicationController = Ember.Controller.extend
         document.getElementById("changeLang").innerHTML = "Español"
         translate.refresh()
 
-    scrollToMainContent: =>  # TODO: Does scrolling improve the UI?
+    scrollToMainContent: =>
       $("html, body").animate
         scrollTop: $("#main_content").offset().top
       , 250

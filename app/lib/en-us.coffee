@@ -101,6 +101,11 @@ module.exports =
         <h2>By Train</h2>
           <p>Roosevelt CTA stop servicing Red, Orange and Green lines. Offers connections to #146 bus located at State and Roosevelt Road.</p>
         """
+      map:
+        """
+        <h2>Map</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5942.546222415535!2d-87.61504420376588!3d41.86547009519773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2b6fb7b114b5%3A0x6920a3aa12218ea6!2sAdler+Planetarium%2C+South+Lake+Shore+Drive%2C+Chicago%2C+IL!5e0!3m2!1sen!2sus!4v1388512258682" width="100%" height="400" frameborder="0" style="border:0"></iframe>
+        """
     schedule:
       title: "Schedule"
       content:
