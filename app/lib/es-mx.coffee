@@ -17,6 +17,9 @@ module.exports =
     title: "Scientists Page"
     content: "Spanish Content"
 
+    overview:
+      header: "Participar científicos latinos"
+
     JulietaFierro:
       name: "Julieta Fierro"
       bio:
@@ -65,7 +68,8 @@ module.exports =
     content: "Spanish Content"
 
     about:
-      title: "Inspírate por la ciencia."
+      title: "Sobre"
+      header: "Inspírate por la ciencia."
       content:
         """
         <p>
@@ -78,6 +82,7 @@ module.exports =
         """
     gettingHere:
       title: "Cómo llegar"
+      header: "Cómo llegar"
       content:
         """
         <h2>Desde el Norte</h2>
@@ -106,29 +111,34 @@ module.exports =
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5942.546222415535!2d-87.61504420376588!3d41.86547009519773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2b6fb7b114b5%3A0x6920a3aa12218ea6!2sAdler+Planetarium%2C+South+Lake+Shore+Drive%2C+Chicago%2C+IL!5e0!3m2!1sen!2sus!4v1388512258682" width="100%" height="400" frameborder="0" style="border:0"></iframe>
         """
     schedule:
-      title: "Schedule"
+      title: "Horario"
+      header: "Horario"
       content:
         """
-        <h2>Shows and Lectures</h2>
+        <h2>Espectáculos y Conferencias</h2>
           <li><strong>10:15-11:45</strong>:<br> y 1:15-13:45 Grainger: Cosmic Wonder (presentada por José Francisco)</li>
           <li><strong>10:30</strong>:<br> Definiti: Un cielo, un mundo</li>
           <li><strong>12:30 y 2:00</strong>:<br> Definiti: IBEX Mostrar</li>
           <li><strong>11:30 y 2:45</strong>:<br> Johnson: Astronomía 3D cortos</li>
           <li><strong>16:00</strong>:<br> Johnson: Julieta Fierro Lecture</li>
           <li><strong>11:00 y 15:00</strong>:<br> SVL: Conversaciones Astronomía (45min)</li>
-        <h2>Museum Floor Demonstrations & Hands-on Activities</h2>
+        <h2>Demostraciones Museo de planta y actividades prácticas</h2>
           <li>2 carros de educación en (por parte del personal Adler)</li>
           <li>actividad Zooniverse</li>
           <li>Digitalizado español histórico libro de astronomía (por el personal Adler)</li>
           <li>1 demo cesta dirigido por el Museo Field</li>
           <li>1 demo cesta dirigido por MSI</li>
-        <h2>Cyberspace Activities</h2>
+        <h2>Ciberespacio Actividades</h2>
           <li><strong>10:00-11:00</strong>:<br> Actividad Matemáticas y Música - Luis Nasser (invitado local)</li>
           <li><strong>11:30-12:30</strong>:<br> Sesión de Skype con un astrónomo chileno w / telescopio en el fondo</li>
           <li><strong>2:30-15:30</strong>:<br> Las partículas en la actividad espacial - Edmundo García (invitado local)</li>
-        <h2>Telescope Tours</h2>
+        <h2>Telescopio Tours</h2>
           <li><strong>10:00 y 14:00</strong><br> visionado Sunspot Telescopio</li>
         """
+    questions:
+      title: "Preguntas"
+      header: "Preguntas"
+      content: "This is the content for the questions section."
   resources:
     adlerActivities:
       title: "Adler Activities"

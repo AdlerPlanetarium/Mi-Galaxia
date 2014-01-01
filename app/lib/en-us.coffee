@@ -17,6 +17,9 @@ module.exports =
     title: "Scientists Page"
     content: "Content for the Scientists page"
 
+    overview:
+      header: "Participating Latino Scientists"
+
     JulietaFierro:
       name: "Julieta Fierro"
       bio:
