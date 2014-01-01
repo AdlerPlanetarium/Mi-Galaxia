@@ -114,12 +114,12 @@ module.exports =
       content:
         """
         <h2>Shows and Lectures</h2>
-          <li><strong>10:15am-11:45am and 1:15am-1:45pm</strong> Grainger: Cosmic Wonder (presented by José Francisco)</li>
-          <li><strong>10:30am</strong> Definiti: One World, One Sky</li>
-          <li><strong>12:30pm and 2:00pm</strong> Definiti: IBEX Show</li>
-          <li><strong>11:30am and 2:45pm</strong> Johnson: Astronomy 3D shorts</li>
-          <li><strong>4:00pm</strong> Johnson: Julieta Fierro Lecture</li>
-          <li><strong>11:00am and 3:00pm</strong> SVL: Astronomy Conversations (45min)</li>
+          <li><strong>10:15am-11:45am and 1:15am-1:45pm</strong>:<br> Grainger: Cosmic Wonder (presented by José Francisco)</li>
+          <li><strong>10:30am</strong>:<br> Definiti: One World, One Sky</li>
+          <li><strong>12:30pm and 2:00pm</strong>:<br> Definiti: IBEX Show</li>
+          <li><strong>11:30am and 2:45pm</strong>:<br> Johnson: Astronomy 3D shorts</li>
+          <li><strong>4:00pm</strong>:<br> Johnson: Julieta Fierro Lecture</li>
+          <li><strong>11:00am and 3:00pm</strong>:<br> SVL: Astronomy Conversations (45min)</li>
         <h2>Museum Floor Demonstrations & Hands-on Activities</h2>
           <li>2 education carts in (by Adler staff)</li>
           <li>Zooniverse activity</li>
@@ -127,11 +127,11 @@ module.exports =
           <li>1 demo cart led by the Field Museum</li>
           <li>1 demo cart led by MSI</li>
         <h2>Cyberspace Activities</h2>
-          <li><strong>10:00am-11:00am</strong>: Math & Music activity - Luis Nasser (local guest)</li>
-          <li><strong>11:30am-12:30pm</strong>: Skype Session with a Chilean Astronomer w/ telescope in background</li>
+          <li><strong>10:00am-11:00am</strong>:<br> Math & Music activity - Luis Nasser (local guest)</li>
+          <li><strong>11:30am-12:30pm</strong>:<br> Skype Session with a Chilean Astronomer w/ telescope in background</li>
           <li><strong>2:30pm-3:30pm</strong>: Particles in Space activity - Edmundo García (local guest)</li>
         <h2>Telescope Tours</h2>
-          <li><strong>10:00am & 2:00pm</strong> Sunspot Telescope viewing</li>
+          <li><strong>10:00am & 2:00pm</strong>:<br> Sunspot Telescope viewing</li>
         """
     questions:
       title: "Questions"

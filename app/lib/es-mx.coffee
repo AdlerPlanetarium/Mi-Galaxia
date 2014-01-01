@@ -110,12 +110,12 @@ module.exports =
       content:
         """
         <h2>Shows and Lectures</h2>
-          <li><strong>10:15-11:45</strong> y 1:15-13:45 Grainger: Cosmic Wonder (presentada por José Francisco)</li>
-          <li><strong>10:30</strong> Definiti: Un cielo, un mundo</li>
-          <li><strong>12:30 y 2:00</strong> Definiti: IBEX Mostrar</li>
-          <li><strong>11:30 y 2:45</strong> Johnson: Astronomía 3D cortos</li>
-          <li><strong>16:00</strong> Johnson: Julieta Fierro Lecture</li>
-          <li><strong>11:00 y 15:00</strong> SVL: Conversaciones Astronomía (45min)</li>
+          <li><strong>10:15-11:45</strong>:<br> y 1:15-13:45 Grainger: Cosmic Wonder (presentada por José Francisco)</li>
+          <li><strong>10:30</strong>:<br> Definiti: Un cielo, un mundo</li>
+          <li><strong>12:30 y 2:00</strong>:<br> Definiti: IBEX Mostrar</li>
+          <li><strong>11:30 y 2:45</strong>:<br> Johnson: Astronomía 3D cortos</li>
+          <li><strong>16:00</strong>:<br> Johnson: Julieta Fierro Lecture</li>
+          <li><strong>11:00 y 15:00</strong>:<br> SVL: Conversaciones Astronomía (45min)</li>
         <h2>Museum Floor Demonstrations & Hands-on Activities</h2>
           <li>2 carros de educación en (por parte del personal Adler)</li>
           <li>actividad Zooniverse</li>
@@ -123,11 +123,11 @@ module.exports =
           <li>1 demo cesta dirigido por el Museo Field</li>
           <li>1 demo cesta dirigido por MSI</li>
         <h2>Cyberspace Activities</h2>
-          <li><strong>10:00-11:00</strong>: Actividad Matemáticas y Música - Luis Nasser (invitado local)</li>
-          <li><strong>11:30-12:30</strong>: Sesión de Skype con un astrónomo chileno w / telescopio en el fondo</li>
-          <li><strong>2:30-15:30</strong>: Las partículas en la actividad espacial - Edmundo García (invitado local)</li>
+          <li><strong>10:00-11:00</strong>:<br> Actividad Matemáticas y Música - Luis Nasser (invitado local)</li>
+          <li><strong>11:30-12:30</strong>:<br> Sesión de Skype con un astrónomo chileno w / telescopio en el fondo</li>
+          <li><strong>2:30-15:30</strong>:<br> Las partículas en la actividad espacial - Edmundo García (invitado local)</li>
         <h2>Telescope Tours</h2>
-          <li><strong>10:00 y 14:00</strong> visionado Sunspot Telescopio</li>
+          <li><strong>10:00 y 14:00</strong><br> visionado Sunspot Telescopio</li>
         """
   resources:
     adlerActivities:
