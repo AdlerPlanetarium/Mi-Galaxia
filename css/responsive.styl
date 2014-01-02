@@ -1,8 +1,11 @@
 OFF_WHITE = #fcf5e2
 
 @media $media-max-phone
+  *       // TODO: Does this look good? Use on tablets as well?
+    text-align center
+
   #banner
-    img       // TODO: center on mobile
+    img
       width 250px
 
   .links
@@ -18,10 +21,8 @@ OFF_WHITE = #fcf5e2
         padding 6px 10px
         border-radius 5px
 
-  *       // TODO: Does this look good? Use on tablets as well?
-    text-align center
   #main_content
-    p, h2, li       // Centered or left justified paragraphs/li?
+    p, h2, li       // TODO: Centered or left justified paragraphs/li?
       text-align left
     #schedule
       div

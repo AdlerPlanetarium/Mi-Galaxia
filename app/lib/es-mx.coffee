@@ -86,7 +86,7 @@ module.exports =
       busing:
         """
         <h2>Special Event Busing</h2>
-        <p>The Adler will provide busing for this event to and from community center locations around the city. When you <a href="">Get Tickets</a>, you will have the opportunity to sign up for these special event buses.</p>
+        <p>El Adler proporcionará transporte escolar para este evento hacia y desde ubicaciones de los centros de la comunidad alrededor de la ciudad. Cuando usted <a href="">Consigue Boletos</a>, usted tendrá la oportunidad de inscribirse en estos autobuses de eventos especiales.</p>
         """
       content:
         """

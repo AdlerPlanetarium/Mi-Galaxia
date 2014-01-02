@@ -1,6 +1,7 @@
 OFF_WHITE = #fcf5e2
 MAIN_AQUA = #32ae9b
 LIGHTER_RED = #D14431
+DARKER_RED = #B1362A
 
 p, li
   line-height 1.5em
@@ -13,7 +14,7 @@ p, li
   width 100%
 
 #navigation
-  background-color #B1362A
+  background-color DARKER_RED
   min-height 80px
   line-height 80px
 
@@ -35,7 +36,7 @@ p, li
         border-radius 5px
 
   #changeLang
-    color #a62119
+    color DARKER_RED
     font-weight 800
     font-size 20px
     outline none
@@ -47,7 +48,7 @@ p, li
 
 #banner
   color OFF_WHITE
-  background-color #D14431
+  background-color LIGHTER_RED
   padding-top 30px
 
   img
@@ -114,8 +115,8 @@ p, li
 
       a
         color #917070
-      a:hover
-        color MAIN_AQUA
+        &:hover
+          color MAIN_AQUA
 
   #schedule
     .row
