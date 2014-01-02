@@ -4,7 +4,7 @@ module.exports =
     callout: "Discover the Adler in Spanish on March 8"
     intro:
       """
-      This event is an effort of the Adler Planetarium and Latino community organizations to welcome Latino families into the world of science and to inspire youth to consider science, technology, engineering, and math related careers.
+      Enjoy astronomy shows and lectures in Spanish, meet outstanding Latino scientists, and learn more about what it takes to be a scientists. This event is an effort by the Adler Planetarium and Latino community organizations to inspire youth to consider science, technology, engineering, and math related careers.
       """
   nav:
     home: "Home"
