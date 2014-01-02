@@ -3,7 +3,7 @@ App.Router.map ->
     @route 'about'
     @route 'schedule'
     @route 'getting_here'
-    @route 'questions'
+    @route 'contact_us'
   @resource 'scientists', ->
     @route 'julieta_fierro'
     @route 'luis_nasser'

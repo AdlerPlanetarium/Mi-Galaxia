@@ -84,6 +84,11 @@ module.exports =
     gettingHere:
       title: "Getting Here"
       header: "Getting Here"
+      busing:
+        """
+        <h2>Special Event Busing</h2>
+        <p>The Adler will provide busing for this event to and from community center locations around the city. When you <a href="">Get Tickets</a>, you will have the opportunity to sign up for these special event buses.</p>
+        """
       content:
         """
         <h2>From the North</h2>
@@ -176,10 +181,10 @@ module.exports =
           <li>1 demo cart led by the Field Museum</li>
           <li>1 demo cart led by MSI</li>
         """
-    questions:
-      title: "Questions"
-      header: "Questions"
-      content: "This is the content for the questions section"
+    contactUs:
+      title: "Contact Us"
+      header: "Contact Us"
+      content: "This is the content for the contact us section"
   resources:
     adlerActivities:
       title: "Adler Activities"
