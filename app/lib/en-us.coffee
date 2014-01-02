@@ -4,7 +4,7 @@ module.exports =
     callout: "Discover the Adler in Spanish on March 8"
     intro:
       """
-      Enjoy astronomy shows and lectures in Spanish, meet outstanding Latino scientists, and learn more about what it takes to be a scientists. This event is an effort by the Adler Planetarium and Latino community organizations to inspire youth to consider science, technology, engineering, and math related careers.
+      We welcome you to the Adler to enjoy astronomy shows, activities, and lectures in Spanish and hang out with Latino scientists.
       """
   nav:
     home: "Home"
@@ -48,7 +48,7 @@ module.exports =
       name: "Julieta Aguilera"
       bio:
         """
-        Julieta's Bio
+        Growing up "good at art", Julieta has been thinking about space ever since she started reading science fiction books in the 5th grade near the Andes mountains in Chile, her native country. She wants to have the best understanding of all the various media she can use in collaboration with other professionals to find new knowledge. Her curiosity led her to graphic design and electronic visualization, but also art history, film, philosophy, programming, gaming, and mathematics, all in their relation to space. She blames her eagerness to study human behavior on the influence of her parents' detective-like practice of medicine, reflected in family dinner conversations growing up. At the Adler Julieta explores the space of the human mind, channelled by the body we use to navigate and interact with physical space as well as in the visualizations we create to experience the vast Universe. Besides her work at Adler, where she is the Associate Director of the Space Visualization Laboratory (SVL), she is a PhD candidate in interactive arts at the Universe of Plymouth, UK.
         """
     IsabelCarrera:
       name: "Isabel Carrera"
@@ -60,7 +60,7 @@ module.exports =
       name: "Laura Trouille"
       bio:
         """
-        Not Latina, but almost :)
+        Laura Trouille grew up in the Chicago area and got her first taste for astronomy through school field trips to the Adler Planetarium. It’s a dream come true for her to now be an astronomer at the Adler and at Northwestern University. Her research is on black holes; understanding how massive black holes affect how their host galaxies evolve over billions of year timescales. She also mentor students in research, teaches astronomy, gives public talks, and works with teachers. She is passionate about helping the next generation of women and minorities access education and careers in math, science, and technology and works with the American Astronomical Society Committee on the Status of Women in Astronomy in these efforts. She spent a lot of time as a kid in France on her grandmother’s farm, which is surely part of the reason why she loves to cook. She also has two cats and a wonderful and supportive husband.
         """
 
   event:
@@ -73,11 +73,11 @@ module.exports =
       content:
         """
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        The Adler Planetarium has partnered with Latino community organizations to welcome Latino families into the fascinating world of science and to inspire youth to consider science, technology, engineering, and math related careers.
         </p>
 
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+        From exploring planets around other stars to seeing faraway galaxies to understanding why we are all made of stardust, the Adler Planetarium inspires us to wonder, observe, and discover.
         </p>
         """
 
@@ -184,7 +184,10 @@ module.exports =
     contactUs:
       title: "Contact Us"
       header: "Contact Us"
-      content: "This is the content for the contact us section"
+      content:
+        """
+        To get in touch, send us an email anytime at <a href="mailto: MGESG@adlerplanetarium.org">MGESG@adlerplanetarium.org</a>
+        """
   resources:
     adlerActivities:
       title: "Adler Activities"
@@ -193,19 +196,14 @@ module.exports =
         title: "Volunteer Opportunities and Internship Opportunities"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Volunteers are a vital presence at the Adler, helping carry out the mission of the museum by directly engaging with guests or assisting behind-the-scenes. We recruit on a seasonal basis and match potential volunteers with opportunities that meet a combination of their skills, interests, background, and schedule availability.
           """
-      k12:
-        title: "K-12 opportunities (camps, field trips, etc.)"
-        content:
-          """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          """
+
       membership:
         title: "Museum Membership"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          There has never been a better time to be an Adler member - membership is a great value, especially for families, and pays for itself in just one visit. <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Join</a> or <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">renew</a> today and enjoy FREE <a href="http://www.adlerplanetarium.org/">general admission</a>, FREE <a href="http://www.adlerplanetarium.org/shows">sky shows</a>, members-only events and previews, plus receive discounts throughout the museum and on our popular summer camps for kids! Your membership provides for new <a href="http://www.adlerplanetarium.org/exhibits/">exhibitions</a>, <a href="http://www.adlerplanetarium.org/shows/">sky shows</a>, <a href="http://www.adlerplanetarium.org/field-trip/">education and outreach programs</a>, <a href="http://www.adlerplanetarium.org/collections/">collections conservation</a>, and frontier science research.
           """
     nasaEnEspanol:
       title: "NASA en Español"
@@ -214,36 +212,49 @@ module.exports =
         header: "NASA Twitter"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Explore the universe and discover our home planet with <a href="https://twitter.com/@NASA_es">@NASA</a>
           """
       wavelength:
         header: "NASA Wavelength"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          A full spectrum of NASA resources for Earth and Space Science education.
           """
       exploration:
         header: "NASA Exploration"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Learn about the different ways NASA is expanding human presence into the solar system.
           """
       women:
         header: "Women@NASA"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Explore links to articles and reviews in Spanish from inspiring women working in STEM (science, technology, engineering and math) fields.
           """
       social:
         header: "Social Media"
         content:
           """
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Follow, share, and be a part of the conversation on popular social media sites with NASA.
           """
     summerCamps:
       title: "Summer Camps"
+      header: "Summer Camps at the Adler"
+      content:
+        """
+        <p>The Adler offers a variety of unique summer day camp experiences for children ages 5 through 14. Young space and technology enthusiasts alike will have the opportunity to spend part of their summer designing a spacesuit, building rockets, programming robots, launching high altitude balloons, and much more.</p>
+        <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
+        """
+
     citizenScience:
       title: "Citizen Science"
+      zooniverse:
+        title: "Zooniverse"
+        content:
+          """
+          The Adler's Citizen Science department designs and develops web applications using data sets that would normally take a science team over 100 years to analyze and, with the help of a worldwide network of volunteers, complete the analysis with a high level of accuracy in weeks or months.
+          """
 
 
 
