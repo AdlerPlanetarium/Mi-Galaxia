@@ -282,3 +282,16 @@ module.exports =
           """
           The Adler's Citizen Science department designs and develops web applications using data sets that would normally take a science team over 100 years to analyze and, with the help of a worldwide network of volunteers, complete the analysis with a high level of accuracy in weeks or months.
           """
+    roleModels:
+      title: "Role Models"
+      content:
+        """
+        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Latino Astronauts & Scientists</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/lwon/index.html">Latina Women of NASA</a></h2>
+        <h2><a href="http://women.nasa.gov/spanish/">Women at NASA</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">NASA Hispanic Astronauts</a></h2>
+        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Hispanic Physicists</a></h2>
+        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Latino Scientists & Inventors</a></h2>
+        <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
+        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famous Latino Scientists</a></h2>
+        """

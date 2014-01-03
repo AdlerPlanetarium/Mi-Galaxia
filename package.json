@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "scripts": {
     "start": "haw serve",
-    "stage": "haw build && publisssh build demo.zooniverse.org/ember-app && rm -rf build"
+    "stage": "haw build && publisssh build migalaxia.adlerplanetarium.org && rm -rf build"
   },
   "dependencies": {
     "haw": "~0.2.15",

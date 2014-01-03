@@ -19,3 +19,4 @@ App.Router.map ->
     @route 'nasa'
     @route 'the_adler'
     @route 'citizen_science'
+    @route 'role_models'

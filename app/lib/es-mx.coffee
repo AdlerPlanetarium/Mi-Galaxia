@@ -272,3 +272,16 @@ module.exports =
           """
           Ciencia Ciudadana del Adler diseños de departamento y desarrolla aplicaciones web que utilizan conjuntos de datos que normalmente tomaría un equipo científico de más de 100 años para analizar y, con la ayuda de una red mundial de voluntarios, completar el análisis con un alto nivel de precisión en semanas o meses.
           """
+    roleModels:
+      title: "Mal ejemplo"
+      content:
+        """
+        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Los astronautas y científicos latinos</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/lwon/index.html">Mujeres Latinas de la NASA</a></h2>
+        <h2><a href="http://women.nasa.gov/spanish/">Las mujeres de la NASA</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">Los astronautas de la NASA hispanos</a></h2>
+        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Los físicos hispanos</a></h2>
+        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Científicos e inventores latinos</a></h2>
+        <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
+        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Los científicos latinos famosos</a></h2>
+        """
