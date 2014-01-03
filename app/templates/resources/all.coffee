@@ -1,6 +1,6 @@
 require "./nasa"
 require "./the_adler"
-require "./citizen_science"
 require "./role_models"
 require "./organizations"
 require "./planetariums"
+require "./additional"

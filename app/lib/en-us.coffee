@@ -273,15 +273,6 @@ module.exports =
         <p>The Adler offers a variety of unique summer day camp experiences for children ages 5 through 14. Young space and technology enthusiasts alike will have the opportunity to spend part of their summer designing a spacesuit, building rockets, programming robots, launching high altitude balloons, and much more.</p>
         <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
         """
-
-    citizenScience:
-      title: "Citizen Science"
-      zooniverse:
-        title: "Zooniverse"
-        content:
-          """
-          The Adler's Citizen Science department designs and develops web applications using data sets that would normally take a science team over 100 years to analyze and, with the help of a worldwide network of volunteers, complete the analysis with a high level of accuracy in weeks or months.
-          """
     roleModels:
       title: "Role Models"
       content:
@@ -317,4 +308,15 @@ module.exports =
         <h2><a href="http://www.planetmad.es/">Madrid, Spanish</a></h2>
         <h2><a href="http://www.planetario.gov.ar/">Buenos Aires, Argentina</a></h2>
         <h2><a href="http://www.cedicyt.ipn.mx/Planetario/Paginas/Planetario.aspx">Mexico</a></h2>
+        """
+    additional:
+      title: "Additional"
+      header: "Additional Resources"
+      content:
+        """
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1-Minute Astronomy in Spanish </a></h2>
+        <h2><a href="http://www.tudiscovery.com/">Discovery in Spanish</a></h2>
+        <h2><a href="http://ciencianet.com/">Fun facts and activities in Spanish</a></h2>
+        <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Activities for elementary & middle school students in Spanish</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">High School Physics tips in Spanish</a></h2>
         """

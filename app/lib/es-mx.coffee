@@ -232,7 +232,7 @@ module.exports =
           """
 
     nasa:
-      title: "NASA en Español"
+      title: "NASA"
 
       twitter:
         header: "NASA Twitter"
@@ -263,14 +263,6 @@ module.exports =
         content:
           """
           Siga, compartir y ser parte de la conversación en las redes sociales más populares con la NASA.
-          """
-    citizenScience:
-      title: "Citizen Science"
-      zooniverse:
-        title: "Zooniverse"
-        content:
-          """
-          Ciencia Ciudadana del Adler diseños de departamento y desarrolla aplicaciones web que utilizan conjuntos de datos que normalmente tomaría un equipo científico de más de 100 años para analizar y, con la ayuda de una red mundial de voluntarios, completar el análisis con un alto nivel de precisión en semanas o meses.
           """
     roleModels:
       title: "Mal ejemplo"
@@ -307,4 +299,15 @@ module.exports =
         <h2><a href="http://www.planetmad.es/">Madrid, Spanish</a></h2>
         <h2><a href="http://www.planetario.gov.ar/">Buenos Aires, Argentina</a></h2>
         <h2><a href="http://www.cedicyt.ipn.mx/Planetario/Paginas/Planetario.aspx">Mexico</a></h2>
+        """
+    additional:
+      title: "Adicional"
+      header: "Recursos Adicionales"
+      content:
+        """
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1 Minuto Astronomía en Español</a></h2>
+        <h2><a href="http://www.tudiscovery.com/">Discovery en Español</a></h2>
+        <h2><a href="http://ciencianet.com/">Hechos y actividades de diversión en Español</a></h2>
+        <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades para estudiantes de escuelas primarias y secundarias en Español</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Altas consejos Física Escolar en Español</a></h2>
         """

@@ -18,7 +18,7 @@ App.Router.map ->
   @resource 'resources', ->
     @route 'nasa'
     @route 'the_adler'
-    @route 'citizen_science'
     @route 'role_models'
     @route 'organizations'
     @route 'planetariums'
+    @route 'additional'
