@@ -12,6 +12,9 @@ App.Router.map ->
     @route 'julieta_aguilera'
     @route 'isabel_carrera'
     @route 'laura_trouille'
+    @route 'juan_carlos_campuzano'
+    @route 'cecilia_gerber'
+    @route 'mark_subbarao'
   @resource 'resources', ->
     @route 'nasa'
     @route 'adler_activities'

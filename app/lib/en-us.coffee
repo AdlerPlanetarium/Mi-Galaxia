@@ -4,7 +4,7 @@ module.exports =
     callout: "Discover the Adler in Spanish on March 8"
     intro:
       """
-      We welcome you to the Adler to enjoy astronomy shows, activities, and lectures in Spanish and hang out with Latino scientists.
+      The Adler Planetarium, in partnership with Latino community organizations, welcomes Latino families into the exciting and universal world of science. Meet Latino scientists & enjoy astronomy shows, activities, and talks in Spanish.
       """
   nav:
     home: "Home"
@@ -36,7 +36,7 @@ module.exports =
       name: "Úrsula Pérez Salas"
       bio:
         """
-        Ursala's Bio
+        Úrsula Perez-Salas is a professor in the Department of Physics at the University of Illinois. Started in 2009 with the appointment of a Deputy National Laboratory Argonne, but from autumn 2012 is full professor at the University of Illinois. Born and raised in Mexico City. She graduated in Physics from the Universidad Autonoma Metropolitana Iztapalapa in 1994, where she received the University Medal of Merit. Her advisor, Dr. Leopoldo Garcia-Colin Scherer encouraged her to continue studies at the University of Maryland-College Park. She completed her doctorate in 2000. In 2001 she joined the National Institute of Standards and Technology (NIST), Maryland, and worked on several projects in biophysics. Professor Pérez-Salas is a young researcher teacher and lives with her husband, Luis, her 8 year old daughter Julia, and their two cats in Lincoln Park.
         """
     JoseFranciscoSalgado:
       name: "Jose Francisco Salgado"
@@ -62,6 +62,24 @@ module.exports =
         """
         Laura Trouille grew up in the Chicago area and got her first taste for astronomy through school field trips to the Adler Planetarium. It’s a dream come true for her to now be an astronomer at the Adler and at Northwestern University. Her research is on black holes; understanding how massive black holes affect how their host galaxies evolve over billions of year timescales. She also mentor students in research, teaches astronomy, gives public talks, and works with teachers. She is passionate about helping the next generation of women and minorities access education and careers in math, science, and technology and works with the American Astronomical Society Committee on the Status of Women in Astronomy in these efforts. She spent a lot of time as a kid in France on her grandmother’s farm, which is surely part of the reason why she loves to cook. She also has two cats and a wonderful and supportive husband.
         """
+    JuanCarlosCampuzano:
+      name: "Juan Carlos Campuzano"
+      bio:
+        """
+        Juan Carlos Campuzano completed his Ph. D. degree at the University of Wisconsin-Milwaukee in 1978, with a thesis on infrared spectroscopy on metal surfaces under the supervision of Prof. R.G. Greenler. He developed techniques for the study of vibrations at surfaces. From 1978 to 1981, he was a postdoctoral fellow and then a Research Associate at the Donnan Laboratories, University of Liverpool, working with Prof. D.A. King, on photoemission and photoabsorption studies of various solids. In 1981, he joined the Cavendish Laboratory, University of Cambridge, as Research Associate, working on two-dimensional phase transitions and critical phenomena. In 1985 he joined the Department of Physics at the University of Illinois at Chicago, and in 1987 he also joined the Materials Science Division at Argonne National Laboratory. Currently, professor Campuzano's research is in many areas of condensed matter physics.
+        """
+    CeciliaGerber:
+      name: "Cecilia Gerber"
+      bio:
+        """
+        Cecilia's Bio
+        """
+    MarkSubbarao:
+      name: "Mark Subbarao"
+      bio:
+        """
+        Mark's Bio
+        """
 
   event:
     title: "Event Page"
@@ -72,13 +90,14 @@ module.exports =
       header: "Get Inspired By Science."
       content:
         """
-        <p>
-        The Adler Planetarium has partnered with Latino community organizations to welcome Latino families into the fascinating world of science and to inspire youth to consider science, technology, engineering, and math related careers.
-        </p>
-
-        <p>
-        From exploring planets around other stars to seeing faraway galaxies to understanding why we are all made of stardust, the Adler Planetarium inspires us to wonder, observe, and discover.
-        </p>
+        <p>From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the <a href="http://www.adlerplanetarium.org/">Adler Planetarium</a> inspires us to wonder, observe, and discover.
+        Through this event and <a href="/#/resources/adler_activities">continued engagement</a>, we hope to:</p>
+        <ul>
+          <li>Strengthen the relationship between The Adler Planetarium and the Latino community</li>
+          <li>Provide Latino scientist role models for Latino youth to connect with and be inspired by to explore science, technology, engineering, and math related careers</li>
+          <li>Address the achievement gap between Latino and non-Latino students</li>
+          <li>Create a public space where Latino youth can practice their Spanish</li>
+        </ul>
         """
 
     gettingHere:
@@ -255,6 +274,3 @@ module.exports =
           """
           The Adler's Citizen Science department designs and develops web applications using data sets that would normally take a science team over 100 years to analyze and, with the help of a worldwide network of volunteers, complete the analysis with a high level of accuracy in weeks or months.
           """
-
-
-

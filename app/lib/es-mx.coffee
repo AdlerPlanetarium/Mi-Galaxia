@@ -4,7 +4,7 @@ module.exports =
     callout: "Descubre el Adler en Español el 8 de marzo"
     intro:
       """
-      Le damos la bienvenida a la Adler disfrutar de espectáculos de astronomía, actividades y conferencias en español y pasar el rato con los científicos latinos.
+      El Planetario Adler, en asociación con organizaciones de la comunidad latina, da la bienvenida a las familias latinas en el apasionante y universal mundo de la ciencia. Conocé los científicos latinos y disfrutar de espectáculos de astronomía, actividades y charlas en español.
       """
   nav:
     home: "Casa"
@@ -36,7 +36,7 @@ module.exports =
       name: "Úrsula Pérez Salas"
       bio:
         """
-        Ursala's Bio
+        Úrsula Pérez-Salas es profesora del Departamento de Física de la Universidad de Illinois. Comenzó en el año 2009 un nombramiento adjunto con el Laboratorio Nacional  de Argonne, pero a partir del otoño de 2012 es profesora de tiempo completo en la Universidad de Illinois. Nació y creció en la ciudad de México. Obtuvo la licenciatura en Física en la Universidad Autónoma Metropolitana de Iztapalapa en 1994, donde recibió la Medalla al Mérito  Universitario. Su asesor, el Dr. Leopoldo García Colín-Scherer la alentó a continuar sus estudios en la Universidad de Maryland-College Park. Concluyó su doctorado en el 2000. En el 2001 se incorporó al Instituto Nacional de Estándares y Tecnología (NIST), en Maryland, y trabajó en en varios proyectos de biofísica. La profesora Pérez-Salas es una investigadora joven y vive con su esposo, Luis, su hija de 8 años Julia, y sus dos gatos en Lincoln Park.
         """
     JoseFranciscoSalgado:
       name: "Jose Francisco Salgado"
@@ -62,6 +62,24 @@ module.exports =
         """
         Laura Trouille creció en el área de Chicago y obtuvo su primer gusto por la astronomía a través de excursiones escolares al Planetario Adler. Es un sueño hecho realidad para ella ahora sea un astrónomo del Adler y en la Universidad Northwestern. Su investigación es sobre los agujeros negros, la comprensión de cómo los agujeros negros masivos afectan a la forma de sus galaxias anfitrionas evolucionan a lo largo de millones de años calendarios. Ella también mentor de los estudiantes en la investigación, la enseña astronomía, da charlas públicas, y trabaja con los maestros. Ella es un apasionado de ayudar a la próxima generación de mujeres y minorías acceso a la educación y la carrera profesional en matemáticas, ciencias y tecnología y trabaja con el Comité de la Sociedad Astronómica Americana sobre la Condición Jurídica y Social de la Mujer en la Astronomía en estos esfuerzos. Ella pasó mucho tiempo cuando era un niño en Francia en la granja de su abuela, que sin duda es parte de la razón por la que le encanta cocinar. Ella también tiene dos gatos y un maravilloso y solidario marido.
         """
+    JuanCarlosCampuzano:
+      name: "Juan Carlos Campuzano"
+      bio:
+        """
+        Juan Carlos Campuzano completó su doctorado grado en la Universidad de Wisconsin-Milwaukee en 1978, con una tesis sobre la espectroscopia infrarroja sobre superficies metálicas bajo la supervisión del Prof. RG Greenler. Desarrolló técnicas para el estudio de las vibraciones en las superficies. De 1978 a 1981 fue becario postdoctoral y luego como investigador asociado en el Donnan laboratorios de la Universidad de Liverpool, en colaboración con el Prof. DA King, de fotoemisión y fotoabsorción estudios de diversos sólidos. En 1981, ingresó en el Laboratorio Cavendish de la Universidad de Cambridge, como investigador asociado, trabajando en las transiciones de fase de dos dimensiones y fenómenos críticos. En 1985 se incorporó al Departamento de Física de la Universidad de Illinois en Chicago, y en 1987 también se unió a la División de Ciencia de los Materiales en el Laboratorio Nacional de Argonne. Actualmente, la investigación del profesor Campuzano se encuentra en muchas áreas de la física de la materia condensada.
+        """
+    CeciliaGerber:
+      name: "Cecilia Gerber"
+      bio:
+        """
+        Cecilia's Bio
+        """
+    MarkSubbarao:
+      name: "Mark Subbarao"
+      bio:
+        """
+        Mark's Bio
+        """
 
   event:
     title: "Event Page"
@@ -72,13 +90,14 @@ module.exports =
       header: "Inspírate por la ciencia."
       content:
         """
-        <p>
-        El Planetario Adler se ha asociado con organizaciones de la comunidad latina para dar la bienvenida a las familias latinas en el fascinante mundo de la ciencia y para inspirar a los jóvenes a considerar la ciencia, la tecnología, la ingeniería y las carreras relacionadas con las matemáticas.
-        </p>
-
-        <p>
-        Desde la exploración de planetas alrededor de otras estrellas para ver galaxias lejanas para entender por qué todos estamos hechos de polvo de estrellas, el Planetario Adler nos inspira a pensar, observar y descubrir.
-        </p>
+        <p>Desde la exploración de planetas alrededor de otras estrellas a ver galaxias lejanas colisionar para entender por qué todos estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org/">Planetario Adler</a> nos inspira a preguntarnos, observar y descubrir.
+        A través de este evento y la <a href="/#/resources/adler_activities">participación continua</a>, esperamos:</p>
+        <ul>
+          <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
+          <li>Proporcionar modelos de rol científico latinos para los jóvenes latinos a conectarse y ser inspirados por explorar la ciencia, la tecnología, la ingeniería y las carreras relacionadas con las matemáticas</li>
+          <li>Abordar la brecha de logros entre los estudiantes latinos y no latinos</li>
+          <li>Crear un espacio público donde los jóvenes latinos puede practicar su español</li>
+        </ul>
         """
     gettingHere:
       title: "Cómo llegar"
@@ -253,6 +272,3 @@ module.exports =
           """
           Ciencia Ciudadana del Adler diseños de departamento y desarrolla aplicaciones web que utilizan conjuntos de datos que normalmente tomaría un equipo científico de más de 100 años para analizar y, con la ayuda de una red mundial de voluntarios, completar el análisis con un alto nivel de precisión en semanas o meses.
           """
-
-
-
