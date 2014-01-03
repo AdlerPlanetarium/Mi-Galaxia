@@ -234,37 +234,14 @@ module.exports =
           """
     nasa:
       title: "NASA"
-
-      twitter:
-        header: "NASA Twitter"
-        content:
-          """
-          Explore the universe and discover our home planet with <a href="https://twitter.com/@NASA_es">@NASA</a>
-          """
-      wavelength:
-        header: "NASA Wavelength"
-        content:
-          """
-          A full spectrum of NASA resources for Earth and Space Science education.
-          """
-      exploration:
-        header: "NASA Exploration"
-        content:
-          """
-          Learn about the different ways NASA is expanding human presence into the solar system.
-          """
-      women:
-        header: "Women@NASA"
-        content:
-          """
-          Explore links to articles and reviews in Spanish from inspiring women working in STEM (science, technology, engineering and math) fields.
-          """
-      social:
-        header: "Social Media"
-        content:
-          """
-          Follow, share, and be a part of the conversation on popular social media sites with NASA.
-          """
+      content:
+        """
+        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">NASA Resources in Spanish</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA & You in Spanish</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Train like an Astronaut in Spanish</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Multiwavelength Astronomy in Spanish</a></h2>
+        <h2><a href="https://twitter.com/NASA_es">NASA Twitter in Spanish</a></h2>
+        """
     summerCamps:
       title: "Summer Camps"
       header: "Summer Camps at the Adler"

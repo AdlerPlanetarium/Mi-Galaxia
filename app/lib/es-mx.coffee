@@ -233,37 +233,15 @@ module.exports =
 
     nasa:
       title: "NASA"
+      content:
+        """
+        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">Recursos de la NASA en español</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA y Tú en español</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entrena como un astronauta en Español</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía Multiwavelength en Español</a></h2>
+        <h2><a href="https://twitter.com/NASA_es">NASA Twitter en Español</a></h2>
+        """
 
-      twitter:
-        header: "NASA Twitter"
-        content:
-          """
-          Explora el universo y descubre nuestro planeta con <a href="https://twitter.com/@NASA_es">@NASA</a>
-          """
-      wavelength:
-        header: "NASA Wavelength"
-        content:
-          """
-          Un espectro completo de recursos para la educación de la NASA de la Tierra y Ciencias del Espacio.
-          """
-      exploration:
-        header: "NASA Exploration"
-        content:
-          """
-          Aprenda sobre las diferentes formas de la NASA se está expandiendo la presencia humana en el sistema solar.
-          """
-      women:
-        header: "Women@NASA"
-        content:
-          """
-          En esta página encontrará enlaces a artículos y reseñas en español de mujeres inspiradoras que trabajan en los campos STEM (ciencia, tecnología, ingeniería y matemáticas).
-          """
-      social:
-        header: "Social Media"
-        content:
-          """
-          Siga, compartir y ser parte de la conversación en las redes sociales más populares con la NASA.
-          """
     roleModels:
       title: "Mal ejemplo"
       content:
