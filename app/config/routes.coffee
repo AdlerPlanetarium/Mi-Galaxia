@@ -17,6 +17,5 @@ App.Router.map ->
     @route 'mark_subbarao'
   @resource 'resources', ->
     @route 'nasa'
-    @route 'adler_activities'
-    @route 'summer_camps'
+    @route 'the_adler'
     @route 'citizen_science'

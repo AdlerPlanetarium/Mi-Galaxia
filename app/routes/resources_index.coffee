@@ -1,3 +1,3 @@
 module.exports = App.ResourcesIndexRoute = Ember.Route.extend
   redirect: ->
-    @transitionTo 'resources.adler_activities'
+    @transitionTo 'resources.the_adler'

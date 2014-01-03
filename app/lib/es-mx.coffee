@@ -91,7 +91,7 @@ module.exports =
       content:
         """
         <p>Desde la exploración de planetas alrededor de otras estrellas a ver galaxias lejanas colisionar para entender por qué todos estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org/">Planetario Adler</a> nos inspira a preguntarnos, observar y descubrir.
-        A través de este evento y la <a href="/#/resources/adler_activities">participación continua</a>, esperamos:</p>
+        A través de este evento y la <a href="/#/resources/the_adler">participación continua</a>, esperamos:</p>
         <ul>
           <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
           <li>Proporcionar modelos de rol científico latinos para los jóvenes latinos a conectarse y ser inspirados por explorar la ciencia, la tecnología, la ingeniería y las carreras relacionadas con las matemáticas</li>
@@ -207,8 +207,8 @@ module.exports =
         Para ponerse en contacto, envíenos un correo electrónico en cualquier momento en <a href="mailto: MGESG@adlerplanetarium.org">MGESG@adlerplanetarium.org</a>
         """
   resources:
-    adlerActivities:
-      title: "Adler Activities"
+    theAdler:
+      title: "The Adler"
 
       volunteer:
         title: "Oportunidades para Voluntarios y oportunidades de prácticas"
@@ -223,6 +223,14 @@ module.exports =
           """
           Nunca ha habido un mejor momento para ser un miembro de Adler - la afiliación es un gran valor, especialmente para las familias, y se amortiza en una sola visita.<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J"> Únase</a> o <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">renovar</a> hoy y gozan de <a href="http://www.adlerplanetarium.org/">acceso gratuito en general</a>, GRATIS <a href="http://www.adlerplanetarium.org/shows">cielo shows</a>, sólo para miembros acontecimientos y avances, además de recibir descuentos en todo el museo y en nuestros campamentos de verano más populares para los niños! Su membresía contempla nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exposiciones</a>, <a href="http://www.adlerplanetarium.org/shows/">cielo shows</a>, <a href="http://www.adlerplanetarium.org/field-trip/">programas de educación y divulgación</a>, <a href="http://www.adlerplanetarium.org/collections/">conservación de colecciones</a> y la investigación en ciencias de la frontera.
           """
+      summerCamps:
+        title: "Los campamentos de verano"
+        content:
+          """
+          <p>El Adler ofrece una variedad de experiencias únicas campamento de verano para niños de 5 a 14. Entusiastas del espacio y de la tecnología por igual jóvenes tendrán la oportunidad de pasar parte de sus vacaciones de verano el diseño de un traje espacial, la construcción de cohetes, la programación de robots, el lanzamiento de globos de gran altitud, y mucho más.</p>
+          <p>Campamento de verano de Adler para los niños, los adolescentes y los preadolescentes introducir a los niños a conceptos de la ciencia mientras que la participación de su creatividad.</p>
+          """
+
     nasaEnEspanol:
       title: "NASA en Español"
 
@@ -256,14 +264,6 @@ module.exports =
           """
           Siga, compartir y ser parte de la conversación en las redes sociales más populares con la NASA.
           """
-    summerCamps:
-      title: "Summer Camps"
-      header: "Los campamentos de verano en el Adler"
-      content:
-        """
-        <p>El Adler ofrece una variedad de experiencias únicas campamento de verano para niños de 5 a 14. Entusiastas del espacio y de la tecnología por igual jóvenes tendrán la oportunidad de pasar parte de sus vacaciones de verano el diseño de un traje espacial, la construcción de cohetes, la programación de robots, el lanzamiento de globos de gran altitud, y mucho más.</p>
-        <p>Campamento de verano de Adler para los niños, los adolescentes y los preadolescentes introducir a los niños a conceptos de la ciencia mientras que la participación de su creatividad.</p>
-        """
     citizenScience:
       title: "Citizen Science"
       zooniverse:

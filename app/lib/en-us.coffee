@@ -91,7 +91,7 @@ module.exports =
       content:
         """
         <p>From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the <a href="http://www.adlerplanetarium.org/">Adler Planetarium</a> inspires us to wonder, observe, and discover.
-        Through this event and <a href="/#/resources/adler_activities">continued engagement</a>, we hope to:</p>
+        Through this event and <a href="/#/resources/the_adler">continued engagement</a>, we hope to:</p>
         <ul>
           <li>Strengthen the relationship between The Adler Planetarium and the Latino community</li>
           <li>Provide Latino scientist role models for Latino youth to connect with and be inspired by to explore science, technology, engineering, and math related careers</li>
@@ -208,8 +208,8 @@ module.exports =
         To get in touch, send us an email anytime at <a href="mailto: MGESG@adlerplanetarium.org">MGESG@adlerplanetarium.org</a>
         """
   resources:
-    adlerActivities:
-      title: "Adler Activities"
+    theAdler:
+      title: "The Adler"
 
       volunteer:
         title: "Volunteer Opportunities and Internship Opportunities"
@@ -223,6 +223,14 @@ module.exports =
         content:
           """
           There has never been a better time to be an Adler member - membership is a great value, especially for families, and pays for itself in just one visit. <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Join</a> or <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">renew</a> today and enjoy FREE <a href="http://www.adlerplanetarium.org/">general admission</a>, FREE <a href="http://www.adlerplanetarium.org/shows">sky shows</a>, members-only events and previews, plus receive discounts throughout the museum and on our popular summer camps for kids! Your membership provides for new <a href="http://www.adlerplanetarium.org/exhibits/">exhibitions</a>, <a href="http://www.adlerplanetarium.org/shows/">sky shows</a>, <a href="http://www.adlerplanetarium.org/field-trip/">education and outreach programs</a>, <a href="http://www.adlerplanetarium.org/collections/">collections conservation</a>, and frontier science research.
+          """
+
+      summerCamps:
+        title: "Summer Camps at the Adler"
+        content:
+          """
+          <p>The Adler offers a variety of unique summer day camp experiences for children ages 5 through 14. Young space and technology enthusiasts alike will have the opportunity to spend part of their summer designing a spacesuit, building rockets, programming robots, launching high altitude balloons, and much more.</p>
+          <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
           """
     nasaEnEspanol:
       title: "NASA en Español"
