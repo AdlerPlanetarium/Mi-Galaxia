@@ -231,7 +231,7 @@ module.exports =
           <p>Campamento de verano de Adler para los niños, los adolescentes y los preadolescentes introducir a los niños a conceptos de la ciencia mientras que la participación de su creatividad.</p>
           """
 
-    nasaEnEspanol:
+    nasa:
       title: "NASA en Español"
 
       twitter:

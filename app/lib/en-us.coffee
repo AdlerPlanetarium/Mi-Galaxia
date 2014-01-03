@@ -87,7 +87,7 @@ module.exports =
 
     about:
       title: "About"
-      header: "Get Inspired By Science."
+      header: "Get Inspired by Science."
       content:
         """
         <p>From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the <a href="http://www.adlerplanetarium.org/">Adler Planetarium</a> inspires us to wonder, observe, and discover.
@@ -232,7 +232,7 @@ module.exports =
           <p>The Adler offers a variety of unique summer day camp experiences for children ages 5 through 14. Young space and technology enthusiasts alike will have the opportunity to spend part of their summer designing a spacesuit, building rockets, programming robots, launching high altitude balloons, and much more.</p>
           <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
           """
-    nasaEnEspanol:
+    nasa:
       title: "NASA en Español"
 
       twitter:

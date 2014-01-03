@@ -25,7 +25,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img src="http://dummyimage.com/375X375/#/fff.jpg">
+        <img src="./images/adler-375.jpg">
       </div>
       <div class="col-md-6">
         {{translate 'h1' 'home.callout'}}
@@ -53,13 +53,13 @@
         <span>Thank you to our sponsors:</span>
       </div>
       <div class="col-sm-6 col-md-3">
-        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=apple">
+        <img src="http://dummyimage.com/150X75/2d1f53/acacac&text=apple">
       </div>
       <div class="col-sm-6 col-md-3">
-        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=walgreens">
+        <img src="http://dummyimage.com/150X75/2d1f53/acacac&text=walgreens">
       </div>
       <div class="col-sm-6 col-md-3">
-        <img src="http://dummyimage.com/150X75/211641/fcf5e2&text=bing">
+        <img src="http://dummyimage.com/150X75/2d1f53/acacac&text=bing">
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@
     <div class="row">
       <div class="col-md-3" >
         <a href="http://www.adlerplanetarium.org/">
-          <img src="http://dummyimage.com/225X150/32ae9b/fcf5e2&text=ADLER+PLANETARIUM">
+          <img src="./images/adler-logo.png" id="adler_logo">
         </a>
       </div>
 
@@ -93,8 +93,8 @@
 
       <div class="col-sm-4 col-md-2">
         <h1>Resources</h1>
+        {{#linkTo 'resources.the_adler'}}<span {{action 'scrollToMainContent'}}>The Adler</span>{{/linkTo}}
         {{#linkTo 'resources.nasa'}}<span {{action 'scrollToMainContent'}}>NASA en Español</span>{{/linkTo}}
-        {{#linkTo 'resources.the_adler'}}<span {{action 'scrollToMainContent'}}>Adler Activities</span>{{/linkTo}}
         {{#linkTo 'resources.citizen_science'}}<span {{action 'scrollToMainContent'}}>Citizen Science</span>{{/linkTo}}
       </div>
 
@@ -112,13 +112,13 @@
         <div class="container">
           <div class="row">
             <div class="col-xs-2 col-sm-1 col-md-3">
-              <a href='https://www.facebook.com/adlerplanetarium'><img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Facebook"></a>
+              <a href='https://www.facebook.com/adlerplanetarium'><img src="./images/fb-icon.png"></a>
             </div>
             <div class="col-xs-2 col-sm-1 col-md-3">
-              <a href='https://twitter.com/adlerskywatch'><img src="http://dummyimage.com/50X50/32ae9b/73e3d0.jpg&text=Twitter"></a>
+              <a href='https://twitter.com/adlerskywatch'><img src="./images/twitter-icon.png"></a>
             </div>
             <div class="col-xs-4 col-sm-1 col-md-6">
-              <a href='http://www.youtube.com/adlerplanetarium'><img src="http://dummyimage.com/100X50/32ae9b/73e3d0.jpg&text=YouTube"></a>
+              <a href='http://www.youtube.com/adlerplanetarium'><img src="./images/youtube-icon.png"></a>
             </div>
           </div>
         </div>
