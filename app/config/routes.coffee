@@ -20,3 +20,5 @@ App.Router.map ->
     @route 'the_adler'
     @route 'citizen_science'
     @route 'role_models'
+    @route 'organizations'
+    @route 'planetariums'

@@ -233,7 +233,7 @@ module.exports =
           <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
           """
     nasa:
-      title: "NASA en Español"
+      title: "NASA"
 
       twitter:
         header: "NASA Twitter"
@@ -294,4 +294,27 @@ module.exports =
         <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Latino Scientists & Inventors</a></h2>
         <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
         <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famous Latino Scientists</a></h2>
+        """
+    organizations:
+      header: "Professional and Youth Organizations"
+      title: "Organizations"
+      content:
+        """
+        <h2><a href="http://aspira.org/">ASPIRA</a></h2>
+        <h2><a href="http://sacnas.org/">Advancing Hispanics/Chicanos and Native Americans in Science</a></h2>
+        <h2><a href="http://www.hispanicphysicists.org/">National Society of Hispanic Physicists</a></h2>
+        <h2><a href="http://www.shpe.org/">Society of Hispanic Professional Engineers</a></h2>
+        <h2><a href="http://mymaes.org/programs/">Latinos in Science and Engineering</a></h2>
+        <h2><a href="http://www.hacu.net/hacu/default.asp">Hispanic Association of Colleges and Universities</a></h2>
+        """
+    planetariums:
+      title: "Planetariums"
+      header: "Planetariums around the World"
+      content:
+        """
+        <h2><a href="http://www.planetariodorio.com.br/">Rio de Janeiro, Brazil</a></h2>
+        <h2><a href="http://www.planetariochile.cl/">Santiago, Chile</a></h2>
+        <h2><a href="http://www.planetmad.es/">Madrid, Spanish</a></h2>
+        <h2><a href="http://www.planetario.gov.ar/">Buenos Aires, Argentina</a></h2>
+        <h2><a href="http://www.cedicyt.ipn.mx/Planetario/Paginas/Planetario.aspx">Mexico</a></h2>
         """
