@@ -14,11 +14,12 @@ module.exports =
     getTickets: "Get Tickets"
 
   scientists:
-    title: "Scientists Page"
-    content: "Content for the Scientists page"
-
     overview:
       header: "Participating Latino Scientists"
+      talkBy: "Public Talk By "
+      workshops: "Hands-on demos and workshops led by "
+      skype: "Skype sessions with Chilean astronomers"
+      organizers: "Organizers:"
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -54,7 +55,7 @@ module.exports =
       name: "Isabel Carrera"
       bio:
         """
-        Zamanillo Isabel Carrera is a Mexican biologist with training in science education. In 2012 he moved to Chicago, looking for new career opportunities. He began working with Latino migrant communities through an outreach program of science that created in Evanston called Playing with Science. The objective of the program is to familiarize young people and parents with science, scientists inviting Latinos in the Chicago area to share their life stories and organizing fun activities that allow families to see some scientific principles into practice. During this period he discovered the importance of creating a space where parents can connect with their children, young people can learn Latin through the experiences of other young people and visiting scientists, but especially where science is fun showing part of everyday life.
+        Zamanillo Isabel Carrera is a Mexican biologist with training in science education. In 2012 she moved to Chicago, looking for new career opportunities. She began working with Latino migrant communities through an outreach program of science that created in Evanston called Playing with Science. The objective of the program is to familiarize young people and parents with science, scientists inviting Latinos in the Chicago area to share their life stories and organizing fun activities that allow families to see some scientific principles into practice. During this period she discovered the importance of creating a space where parents can connect with their children, young people can learn Latin through the experiences of other young people and visiting scientists, but especially where science is fun showing part of everyday life.
         """
     LauraTrouille:
       name: "Laura Trouille"

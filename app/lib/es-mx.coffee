@@ -14,11 +14,12 @@ module.exports =
     getTickets: "Comprar Entradas"
 
   scientists:
-    title: "Scientists Page"
-    content: "Spanish Content"
-
     overview:
       header: "Participar científicos latinos"
+      talkBy: "Conferencia pública por "
+      workshops: "Hands-on demos y talleres dirigidos por"
+      skype: "Sesiones de Skype con astrónomos chilenos"
+      organizers: "Organiza:"
 
     JulietaFierro:
       name: "Julieta Fierro"
