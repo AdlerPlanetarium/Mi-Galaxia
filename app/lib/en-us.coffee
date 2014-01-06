@@ -1,7 +1,8 @@
 module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
-    callout: "Discover the Adler in Spanish on March 8"
+    # callout: "Discover the Adler in Spanish on March 8"
+    callout: "This March 8 Discover the Adler in Spanish"
     intro:
       """
       The Adler Planetarium, in partnership with Latino community organizations, welcomes Latino families into the exciting and universal world of science. Meet Latino scientists & enjoy astronomy shows, activities, and talks in Spanish.
@@ -43,7 +44,8 @@ module.exports =
       name: "Jose Francisco Salgado"
       bio:
         """
-        Jose's Bio
+        <p>José Francisco Salgado is an astronomer, photographer, visual artist and a public speaker who uses art as a vehicle to communicate science in non traditional settings such as art museums and concert halls. Co-founder of KV 265 –a non for profit educational organization–, Salgado collaborates with symphonic orchestras, chamber musicians and composers aiming to produce multimedia performances that awaken curiosity and a sense of wonder towards our home planet Earth, as well as the Universe. These “Science and Symphony” performances have been presented in fourteen countries around the world together with orchestras such as the San Francisco Symphony, the Chicago Symphony, Boston Pops and the Czech National Symphony. Its two first productions were designated Special Projects by UNESCO and the International Astronomical Union for the International Year of Astronomy (AIA2009, por sus siglas en inglés).</p>
+        <p>Salgado also collaborates communicating science with chamber musicians like the harp duet Beyond Pluck and with electronic musician and composer Tom Bailey lead of the british pop group Thompson Twins). Salgado is also an experimental photographer and  and in that role he has visited more than thirty scientific sites located in remote areas such as the South Pole the Atacama Desert, the Karoo in South Africa, and even an astrophysics laboratory at almost 1,500 meters deep in Lead, South Dakota.</p>
         """
     JulietaAguilera:
       name: "Julieta Aguilera"

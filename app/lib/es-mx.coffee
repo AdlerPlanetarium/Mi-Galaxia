@@ -1,7 +1,7 @@
 module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
-    callout: "Este 8 de Marzo <br> descubre al Adler en español"
+    callout: "Este 8 de Marzo descubre al Adler en español"
     intro:
       """
       El Planetario Adler, en conjunto con organizaciones de la comunidad latina, da la bienvenida a familias de habla española al apasionante y universal mundo de la ciencia. Esta es una oportunidad para conocer científicos latinos y disfrutar de charlas, actividades y espectáculos en español.
@@ -43,7 +43,8 @@ module.exports =
       name: "Jose Francisco Salgado"
       bio:
         """
-          Jose's Bio
+        <p>José Francisco Salgado es astrónomo, fotógrafo, artista visual y un orador que utiliza el arte como vehículo para comunicar ciencia en ámbitos no tradicionales tales como museos de arte y salas de conciertos. Co-fundador de KV 265 –organización educativa sin fines de lucro–, Salgado colabora con orquestas sinfónicas, músicos de cámara y compositores con el fin de producir funciones multimedia que despiertan curiosidad y un sentido de asombro por nuestro planeta Tierra así como por el Universo. Estas funciones de “Ciencia y Sinfonía” han sido presentadas más de noventa veces en catorce países alrededor del mundo con orquestas como la Sinfónica de San Francisco, la Orquesta Sinfónica de Chicago, la Boston Pops y la Orquesta Sinfónica Nacional Checa. Sus dos primeras producciones  fueron nombradas por la UNESCO y la Unión Astronómica Internacional como Proyectos Especiales del Año Internacional de la Astronomía (AIA2009).</p>
+        <p>Salgado también colabora comunicando ciencia con músicos de cámara como el dúo de arpas Beyond Pluck y con el compositor y músico electrónico Tom Bailey (líder del grupo pop británico Thompson Twins). Salgado es también fotógrafo experimental y en tal calidad ha visitado más de treinta estaciones científicas situadas en remotos lugares como el Polo Sur, el desierto de Atacama, el Karoo en Sudáfrica e incluso un laboratorio de astrofísica a casi 1,500 metros de profundidad ubicado en Lead, Dakota del Sur.</p>
         """
     JulietaAguilera:
       name: "Julieta Aguilera"
