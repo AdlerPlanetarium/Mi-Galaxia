@@ -1,10 +1,10 @@
 module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
-    callout: "Descubre el Adler en Español el 8 de marzo"
+    callout: "Este 8 de Marzo <br> descubre al Adler en español"
     intro:
       """
-      El Planetario Adler, en asociación con organizaciones de la comunidad latina, da la bienvenida a las familias latinas en el apasionante y universal mundo de la ciencia. Conocé los científicos latinos y disfrutar de espectáculos de astronomía, actividades y charlas en español.
+      El Planetario Adler, en conjunto con organizaciones de la comunidad latina, da la bienvenida a familias de habla española al apasionante y universal mundo de la ciencia. Esta es una oportunidad para conocer científicos latinos y disfrutar de charlas, actividades y espectáculos en español.
       """
   nav:
     home: "Casa"
@@ -88,16 +88,16 @@ module.exports =
 
     about:
       title: "Sobre"
-      header: "Inspírate por la ciencia."
+      header: "Inspirándose por la ciencia."
       content:
         """
-        <p>Desde la exploración de planetas alrededor de otras estrellas a ver galaxias lejanas colisionar para entender por qué todos estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org/">Planetario Adler</a> nos inspira a preguntarnos, observar y descubrir.
-        A través de este evento y la <a href="/#/resources/the_adler">participación continua</a>, esperamos:</p>
+        <p>Desde la exploración de planetas alrededor de otras estrellas a examinar galaxias lejanas en plena colisión para poder entender el cómo es que estamos hechos de polvo de estrellas, el Planetario Adler nos inspira a preguntarnos, a observar y a descubrir. A través de este evento
+        y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:</p>
         <ul>
-          <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
+          <li>Facilitar el encuentro con científicos latinos que inspiren a jóvenes latinos a conectarse y explorar la ciencia, la tecnología, la ingeniería y otras carreras relacionadas con las matemáticas</li>
           <li>Proporcionar modelos de rol científico latinos para los jóvenes latinos a conectarse y ser inspirados por explorar la ciencia, la tecnología, la ingeniería y las carreras relacionadas con las matemáticas</li>
-          <li>Abordar la brecha de logros entre los estudiantes latinos y no latinos</li>
-          <li>Crear un espacio público donde los jóvenes latinos puede practicar su español</li>
+          <li>Contribuir a cerrar la brecha de logros que existe entre estudiantes latinos y no latinos</li>
+          <li>Crear un espacio público donde familias latinas puedan practicar su español en relación con temas de ciencia</li>
         </ul>
         """
     gettingHere:
