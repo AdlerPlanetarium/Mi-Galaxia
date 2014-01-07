@@ -43,8 +43,7 @@ module.exports =
       name: "Jose Francisco Salgado"
       bio:
         """
-        <p>José Francisco Salgado es astrónomo, fotógrafo, artista visual y un orador que utiliza el arte como vehículo para comunicar ciencia en ámbitos no tradicionales tales como museos de arte y salas de conciertos. Co-fundador de KV 265 –organización educativa sin fines de lucro–, Salgado colabora con orquestas sinfónicas, músicos de cámara y compositores con el fin de producir funciones multimedia que despiertan curiosidad y un sentido de asombro por nuestro planeta Tierra así como por el Universo. Estas funciones de “Ciencia y Sinfonía” han sido presentadas más de noventa veces en catorce países alrededor del mundo con orquestas como la Sinfónica de San Francisco, la Orquesta Sinfónica de Chicago, la Boston Pops y la Orquesta Sinfónica Nacional Checa. Sus dos primeras producciones  fueron nombradas por la UNESCO y la Unión Astronómica Internacional como Proyectos Especiales del Año Internacional de la Astronomía (AIA2009).</p>
-        <p>Salgado también colabora comunicando ciencia con músicos de cámara como el dúo de arpas Beyond Pluck y con el compositor y músico electrónico Tom Bailey (líder del grupo pop británico Thompson Twins). Salgado es también fotógrafo experimental y en tal calidad ha visitado más de treinta estaciones científicas situadas en remotos lugares como el Polo Sur, el desierto de Atacama, el Karoo en Sudáfrica e incluso un laboratorio de astrofísica a casi 1,500 metros de profundidad ubicado en Lead, Dakota del Sur.</p>
+        José Francisco Salgado es un astrónomo, fotógrafo, artista visual y orador que utiliza el arte como vehículo para comunicar ciencia en ámbitos no tradicionales tales como museos de arte y salas de conciertos. Salgado colabora con orquestas sinfónicas y compositores con el fin de producir funciones multimedia que despiertan curiosidad y un sentido de asombro por nuestro planeta Tierra y el Universo. Estas funciones de “Ciencia y Sinfonía” han sido presentadas más de noventa veces en catorce países alrededor del mundo con orquestas como la Sinfónica de San Francisco, la Orquesta Sinfónica de Chicago y la Boston Pops. Salgado también comunica ciencia con músicos como el dúo de arpas Beyond Pluck y con Tom Bailey. Salgado es también fotógrafo experimental y en tal calidad ha visitado más de treinta sitios científicos situados en remotos lugares como el Polo Sur, el desierto de Atacama y el Karoo en Sudáfrica.
         """
     JulietaAguilera:
       name: "Julieta Aguilera"
@@ -93,10 +92,10 @@ module.exports =
       content:
         """
         <p>Desde la exploración de planetas alrededor de otras estrellas a examinar galaxias lejanas en plena colisión para poder entender el cómo es que estamos hechos de polvo de estrellas, el Planetario Adler nos inspira a preguntarnos, a observar y a descubrir. A través de este evento
-        y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:</p>
+        y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:
         <ul>
-          <li>Facilitar el encuentro con científicos latinos que inspiren a jóvenes latinos a conectarse y explorar la ciencia, la tecnología, la ingeniería y otras carreras relacionadas con las matemáticas</li>
-          <li>Proporcionar modelos de rol científico latinos para los jóvenes latinos a conectarse y ser inspirados por explorar la ciencia, la tecnología, la ingeniería y las carreras relacionadas con las matemáticas</li>
+          <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
+          <li>Facilitar el encuentro con científicos latinos que inspiren los jóvenes a conectarse y explorar la ciencia, tecnología, ingeniería y otras carreras relacionadas con las matemáticas</li>
           <li>Contribuir a cerrar la brecha de logros que existe entre estudiantes latinos y no latinos</li>
           <li>Crear un espacio público donde familias latinas puedan practicar su español en relación con temas de ciencia</li>
         </ul>
@@ -106,21 +105,21 @@ module.exports =
       header: "Cómo llegar"
       busing:
         """
-        <h2>Special Event Busing</h2>
-        <p>El Adler proporcionará transporte escolar para este evento hacia y desde ubicaciones de los centros de la comunidad alrededor de la ciudad. Cuando usted <a href="">Consigue Boletos</a>, usted tendrá la oportunidad de inscribirse en estos autobuses de eventos especiales.</p>
+        <h2>Autobuses de eventos especiales</h2>
+        <p>El Adler proporcionará transporte escolar para este evento hacia y desde ubicaciones de los centros de la comunidad alrededor de la ciudad. Cuando usted Consiga Boletos, tendrá la oportunidad de inscribirse en estos autobuses de eventos especiales.</p>
         """
       content:
         """
-        <h2>Desde el Norte</h2>
-          <p>Desde la ciudad, al norte del museo, tomar Lake Shore Drive (US-41) sur pasando Grant Park. Continúe hacia el sur en Lake Shore Drive hasta la salida de la calle 18.</p>
-          <p>Gire a la izquierda en la calle 18 y continúe como se dobla izquierda, convirtiéndose en el Museum Campus Drive. Gire a la derecha en Solidaridad Drive. Para la entrada de la playa de estacionamiento, gire a la derecha en Lynn White Drive, la entrada al estacionamiento estará a su izquierda.</p>
+        <h2>Desde el norte</h2>
+          <p>Desde la ciudad, al norte del museo, tome Lake Shore Drive (US-41) sur pasando Grant Park. Continúe hacia el sur por Lake Shore Drive hasta llegar a la salida 18th Street.</p>
+          <p>Vire a la izquierda en 18th Street y continúe. La calle doblará a la izquierda convirtiéndose en Museum Campus Drive. Vire a la derecha en Solidarity Drive. Para llegar al estacionamiento vire la derecha en Lynn White Drive. La entrada al estacionamiento estará a su izquierda.</p>
 
         <h2>Desde el Oeste</h2>
-          <p>Tome la autopista Eisenhower, la I-290 este. Siga Congress Parkway.</p>
-          <p>Gire a la derecha en Columbus Drive en Lake Shore Drive (US-41). Continúe hacia el sur hasta la salida de la calle 18.</p>
-          <p>Gire a la derecha en la calle 18 y seguir Museum Campus. Gire a la derecha en Solidaridad Drive. Gire a la derecha en Lynn White Drive, entrada al estacionamiento estará a su izquierda.</p>
+          <p>Tome Eisenhower Expressway, la I-290 este. Continúe a Congress Parkway.</p>
+          <p>Vire a la derecha en Columbus Drive hacia Lake Shore Drive (US-41). Continúe hacia el sur hasta la salida 18th Street.</p>
+          <p>Vire a la derecha en 18th Street y continúe a Museum Campus. Vire a la derecha en Solidarity Drive. Vire a la derecha en Lynn White Drive.  entrada al estacionamiento estará a su izquierda.</p>
 
-        <h2>Desde el Sur</h2>
+        <h2>Desde el sur</h2>
           <p>Desde la ciudad, al sur del museo, tomar Lake Shore Drive North (US-41) al norte. Continúe por Lake Shore Drive hasta la salida de la calle 18.</p>
           <p>Gire a la derecha en la 18th Street y continúe como se dobla izquierda, convirtiéndose en el Museum Campus Drive. Gire a la derecha en Solidaridad Drive. Para la entrada de la playa de estacionamiento, gire a la derecha en Lynn White Drive, la entrada al estacionamiento estará a su izquierda.</p>
 
@@ -129,7 +128,7 @@ module.exports =
           <p># 130 Museum Campus (mediados de mayo hasta el Día del Trabajo)</p>
 
         <h2>En tren</h2>
-          <p>Roosevelt CTA detener el servicio de Red, Orange y las líneas verdes. Ofrece conexiones con el n º 146 de autobús situada a nivel estatal y Roosevelt Road.</p>
+          <p>Tome el Red, Orange, o Green line del tren CTA a Roosevelt. Se ofrecen conexiones a través del autobús #146. La parada esta situada en Roosevelt Road y State. El Planetario Adler es la última parada.</p>
         """
       map:
         """
@@ -210,52 +209,51 @@ module.exports =
         """
   resources:
     theAdler:
-      title: "The Adler"
+      title: "El Adler"
 
       volunteer:
-        title: "Oportunidades para Voluntarios y oportunidades de prácticas"
+        title: "Oportunidades para internados y actividades voluntarias"
         content:
           """
-          Los voluntarios son una presencia vital en el Adler, ayudando a llevar a cabo la misión del museo mediante la participación directa con los clientes o ayudando detrás de las escenas. Reclutamos sobre una base estacional y coincidir con los posibles voluntarios con oportunidades que cumplen con una combinación de sus habilidades, intereses, antecedentes y disponibilidad horaria.
+          Los voluntarios del Adler son de suma importancia ya que ayudan a llevar a cabo la misión del museo, la cual es interaccionar con los visitantes o asistir tras bastidores. Reclutamos voluntarios cada temporada y ofrecemos oportunidades de acuerdo a sus habilidades, intereses, experiencias, y disponibilidades.
           """
 
       membership:
-        title: "Membresía Museo"
+        title: "Membresía del museo"
         content:
           """
-          Nunca ha habido un mejor momento para ser un miembro de Adler - la afiliación es un gran valor, especialmente para las familias, y se amortiza en una sola visita.<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J"> Únase</a> o <a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">renovar</a> hoy y gozan de <a href="http://www.adlerplanetarium.org/">acceso gratuito en general</a>, GRATIS <a href="http://www.adlerplanetarium.org/shows">cielo shows</a>, sólo para miembros acontecimientos y avances, además de recibir descuentos en todo el museo y en nuestros campamentos de verano más populares para los niños! Su membresía contempla nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exposiciones</a>, <a href="http://www.adlerplanetarium.org/shows/">cielo shows</a>, <a href="http://www.adlerplanetarium.org/field-trip/">programas de educación y divulgación</a>, <a href="http://www.adlerplanetarium.org/collections/">conservación de colecciones</a> y la investigación en ciencias de la frontera.
+          Nunca ha habido un mejor tiempo para ser miembro del Adler. Le ofrecemos una buena oferta, especialmente para familias, la cual se paga por sí mismo en tan solo una visita. ¡<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Inscríbase hoy</a> y disfrute de <a href="http://www.adlerplanetarium.org/">admisión general</a> GRATIS, "<a href="http://www.adlerplanetarium.org/shows">sky shows</a>" GRATIS, más acceso a eventos, estrenos de espectáculos, y descuentos a través de todo el museo! Su membresía nos ayudará a pagar por la creación de nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exhibiciones</a>, "<a href="http://www.adlerplanetarium.org/shows/">sky shows</a>," <a href="http://www.adlerplanetarium.org/field-trip/">programas educativos</a>, y <a href="http://www.adlerplanetarium.org/collections/">la restauración de documentos y artefactos</a>.
           """
       summerCamps:
-        title: "Los campamentos de verano"
+        title: "Campamentos de verano en al Adler"
         content:
           """
-          <p>El Adler ofrece una variedad de experiencias únicas campamento de verano para niños de 5 a 14. Entusiastas del espacio y de la tecnología por igual jóvenes tendrán la oportunidad de pasar parte de sus vacaciones de verano el diseño de un traje espacial, la construcción de cohetes, la programación de robots, el lanzamiento de globos de gran altitud, y mucho más.</p>
-          <p>Campamento de verano de Adler para los niños, los adolescentes y los preadolescentes introducir a los niños a conceptos de la ciencia mientras que la participación de su creatividad.</p>
+          <p>El Alder ofrece una variedad de experiencias únicas a través de su campamento de verano para niños entre 5 y 14 años de edad. Jóvenes aficionados al espacio y a la tecnología tendrán la oportunidad de disfrutar el verano diseñando trajes espaciales, armando cohetes, programando robots, lanzando globos a gran altitud, entre otras cosas.</p>
+          <p>El campamento de verano presenta a sus niños conceptos relacionados a la ciencia y a la vez les ayuda a explorar su creatividad.</p>
           """
 
     nasa:
       title: "NASA"
       content:
         """
-        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">Recursos de la NASA en español</a></h2>
-        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA y Tú en español</a></h2>
-        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entrena como un astronauta en Español</a></h2>
-        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía Multiwavelength en Español</a></h2>
-        <h2><a href="https://twitter.com/NASA_es">NASA Twitter en Español</a></h2>
+        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">Recursos de NASA en español</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">Tú y NASA en español</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entrénate como un astronauta en español</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía de múltiples londitudes de hondas</a></h2>
+        <h2><a href="https://twitter.com/NASA_es">NASA Twitter en español</a></h2>
         """
 
     roleModels:
-      title: "Mal ejemplo"
+      title: "Personas Ejemplares"
       content:
         """
-        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Los astronautas y científicos latinos</a></h2>
-        <h2><a href="http://oeop.larc.nasa.gov/hep/lwon/index.html">Mujeres Latinas de la NASA</a></h2>
-        <h2><a href="http://women.nasa.gov/spanish/">Las mujeres de la NASA</a></h2>
-        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">Los astronautas de la NASA hispanos</a></h2>
-        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Los físicos hispanos</a></h2>
-        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Científicos e inventores latinos</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Astronautas y científicos latinos</a></h2>
+        <h2><a href="http://women.nasa.gov/spanish/">Mujeres en NASA</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">Astronautas hispanos en NASA</a></h2>
+        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Físicos hispanos</a></h2>
+        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Científicos e inversores latinos</a></h2>
         <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
-        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Los científicos latinos famosos</a></h2>
+        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famosos científicos latinos</a></h2>
         """
     organizations:
       header: "Profesionales y Organizaciones Juveniles"
@@ -282,12 +280,12 @@ module.exports =
         """
     additional:
       title: "Adicional"
-      header: "Recursos Adicionales"
+      header: "Recursos adicionales"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1 Minuto Astronomía en Español</a></h2>
-        <h2><a href="http://www.tudiscovery.com/">Discovery en Español</a></h2>
-        <h2><a href="http://ciencianet.com/">Hechos y actividades de diversión en Español</a></h2>
-        <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades para estudiantes de escuelas primarias y secundarias en Español</a></h2>
-        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Altas consejos Física Escolar en Español</a></h2>
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto (en espanõl)</a></h2>
+        <h2><a href="http://www.tudiscovery.com/">Discovery en español</a></h2>
+        <h2><a href="http://ciencianet.com/">Datos divertidos y actividades en español</a></h2>
+        <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades en español para estudiantes de escuela primaria y secundaria</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudientes de preparatoria (high-school) en español</a></h2>
         """
