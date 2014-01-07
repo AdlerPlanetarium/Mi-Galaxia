@@ -232,6 +232,12 @@ module.exports =
           <p>El campamento de verano presenta a sus niños conceptos relacionados a la ciencia y a la vez les ayuda a explorar su creatividad.</p>
           """
 
+      socialMedia:
+        title: "Medios de comunicación social"
+        youtube: "Adler YouTube"
+        twitter:  "Adler Twitter"
+        facebook: "Adler Facebook"
+
     nasa:
       title: "NASA"
       content:

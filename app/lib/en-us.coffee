@@ -234,6 +234,13 @@ module.exports =
           <p>The Adler offers a variety of unique summer day camp experiences for children ages 5 through 14. Young space and technology enthusiasts alike will have the opportunity to spend part of their summer designing a spacesuit, building rockets, programming robots, launching high altitude balloons, and much more.</p>
           <p>Adler's summer camp for kids, teens, and tweens introduce children to science concepts while engaging their creativity.</p>
           """
+
+      socialMedia:
+        title: "Social Media"
+        youtube: "Adler YouTube"
+        twitter:  "Adler Twitter"
+        facebook: "Adler Facebook"
+
     nasa:
       title: "NASA"
       content:
