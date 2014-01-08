@@ -15,11 +15,12 @@ module.exports =
 
   scientists:
     overview:
-      header: "Participar científicos latinos"
+      title : "Resumen"
+      header: "Participantes científicos"
       talkBy: "Conferencia pública por "
-      workshops: "Hands-on demos y talleres dirigidos por"
+      workshops: "Demostraciones prácticas y talleres dirigidos por"
       skype: "Sesiones de Skype con astrónomos chilenos"
-      organizers: "Organiza:"
+      organizers: "Organizadores:"
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -106,7 +107,7 @@ module.exports =
       busing:
         """
         <h2>Autobuses de eventos especiales</h2>
-        <p>El Adler proporcionará transporte escolar para este evento hacia y desde ubicaciones de los centros de la comunidad alrededor de la ciudad. Cuando usted Consiga Boletos, tendrá la oportunidad de inscribirse en estos autobuses de eventos especiales.</p>
+        <p>El Adler proporcionará transporte escolar para este evento hacia y desde ubicaciones de los centros de la comunidad alrededor de la ciudad. Cuando usted <a href="">Consiga Boletos</a>, tendrá la oportunidad de inscribirse en estos autobuses de eventos especiales.</p>
         """
       content:
         """
@@ -250,20 +251,21 @@ module.exports =
         """
 
     roleModels:
-      title: "Personas Ejemplares"
+      title: "Personas"
+      header: "Personas Ejemplares"
       content:
         """
         <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Astronautas y científicos latinos</a></h2>
         <h2><a href="http://women.nasa.gov/spanish/">Mujeres en NASA</a></h2>
         <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">Astronautas hispanos en NASA</a></h2>
         <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Físicos hispanos</a></h2>
-        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Científicos e inversores latinos</a></h2>
+        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Científicos e inventores latinos</a></h2>
         <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
         <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famosos científicos latinos</a></h2>
         """
     organizations:
-      header: "Profesionales y Organizaciones Juveniles"
-      title: "Organizations"
+      header: "Organizaciones Profesionales y Juveniles"
+      title: "Organizaciones"
       content:
         """
         <h2><a href="http://aspira.org/">ASPIRA</a></h2>

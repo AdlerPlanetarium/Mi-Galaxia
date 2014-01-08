@@ -1,7 +1,6 @@
 module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
-    # callout: "Discover the Adler in Spanish on March 8"
     callout: "This March 8 Discover the Adler in Spanish"
     intro:
       """
@@ -16,6 +15,7 @@ module.exports =
 
   scientists:
     overview:
+      title: "Overview"
       header: "Participating Latino Scientists"
       talkBy: "Public Talk By "
       workshops: "Hands-on demos and workshops led by "
@@ -261,6 +261,7 @@ module.exports =
         """
     roleModels:
       title: "Role Models"
+      header: "Role Models"
       content:
         """
         <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Latino Astronauts & Scientists</a></h2>
