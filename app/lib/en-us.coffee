@@ -1,10 +1,10 @@
 module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
-    callout: "This March 8 Discover the Adler in Spanish"
+    callout: "Mi Galaxia <br> es su Galaxia"
     intro:
       """
-      The Adler Planetarium, in partnership with Latino community organizations, welcomes Latino families into the exciting and universal world of science. Meet Latino scientists & enjoy astronomy shows, activities, and talks in Spanish.
+      On March 8, discover the Adler's shows, exhibitions, and more –in Spanish!
       """
   nav:
     home: "Home"
@@ -89,16 +89,18 @@ module.exports =
 
     about:
       title: "About"
-      header: "Get Inspired by Science."
+      header: "Get Inspired by Science"
       content:
         """
-        <p>From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the <a href="http://www.adlerplanetarium.org/">Adler Planetarium</a> inspires us to wonder, observe, and discover.
-        Through this event and <a href="/#/resources/the_adler">continued engagement</a>, we hope to:</p>
+        <p>
+          The Adler Planetarium, in partnership with Latino community organizations, welcomes Latino families into the exciting and universal world of science. Meet Latino scientists & enjoy astronomy shows, activities, and talks in Spanish.
+          From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the Adler Planetarium inspires us to wonder, observe, and discover. Through this event and <a href="/#/resources/the_adler">continued engagement</a>, we hope to:
+        </p>
         <ul>
           <li>Strengthen the relationship between The Adler Planetarium and the Latino community</li>
           <li>Provide Latino scientist role models for Latino youth to connect with and be inspired by to explore science, technology, engineering, and math related careers</li>
           <li>Address the achievement gap between Latino and non-Latino students</li>
-          <li>Create a public space where Latino youth can practice their Spanish</li>
+          <li>Create a public space where Latino families can utilize the Spanish language in relation to science subjects</li>
         </ul>
         """
 
@@ -137,6 +139,33 @@ module.exports =
         <h2>Map</h2>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5942.546222415535!2d-87.61504420376588!3d41.86547009519773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2b6fb7b114b5%3A0x6920a3aa12218ea6!2sAdler+Planetarium%2C+South+Lake+Shore+Drive%2C+Chicago%2C+IL!5e0!3m2!1sen!2sus!4v1388512258682" width="100%" height="400" frameborder="0" style="border:0"></iframe>
         """
+    contributors:
+      title: "Contributors"
+      header: "Contributors"
+      content:
+        """
+        <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS-NU</a></h2>
+        <h2>Ariel Finkielsztein</h2>
+        <h2>Ariel Finkielsztein Jr.</h2>
+        <h2>Vanessa Montoya</h2>
+        <h2>David Krist</h2>
+        <h2>Juan Jimenez</h2>
+        <h2>Constanza Vasquéz Doorman</h2>
+        <h2>Nicolas Pelaez</h2>
+        <h2>Elsy Buitrago</h2>
+        <h2>Eudald Lerga</h2>
+        <h2>Eduardo Sampedro</h2>
+        <h2>Santiago Pauni</h2>
+        <h2>Iliana Vargas</h2>
+        <h2>Mayo Seanez</h2>
+        <h2><a href="http://www.msichicago.org/">Museum of Science and Industry</a></h2>
+        <h2><a href="http://fieldmuseum.org/">Field Museum</a></h2>
+        """
+
+    organizers:
+      title: "Organizers"
+      header: "Organizers"
+
     schedule:
       title: "Schedule"
       header: "Schedule"
@@ -245,10 +274,10 @@ module.exports =
       title: "NASA"
       content:
         """
-        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">NASA Resources in Spanish</a></h2>
-        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA & You in Spanish</a></h2>
-        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Train like an Astronaut in Spanish</a></h2>
-        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Multiwavelength Astronomy in Spanish</a></h2>
+        <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">NASA Resources in Spanish (en)</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA & You in Spanish (es)</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Train like an Astronaut in Spanish (en)</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Multiwavelength Astronomy in Spanish (es)</a></h2>
         <h2><a href="https://twitter.com/NASA_es">NASA Twitter in Spanish</a></h2>
         """
     summerCamps:
@@ -264,33 +293,32 @@ module.exports =
       header: "Role Models"
       content:
         """
-        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Latino Astronauts & Scientists</a></h2>
-        <h2><a href="http://oeop.larc.nasa.gov/hep/lwon/index.html">Latina Women of NASA</a></h2>
-        <h2><a href="http://women.nasa.gov/spanish/">Women at NASA</a></h2>
-        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">NASA Hispanic Astronauts</a></h2>
-        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Hispanic Physicists</a></h2>
-        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Latino Scientists & Inventors</a></h2>
-        <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired</a></h2>
-        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famous Latino Scientists</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Latino Astronauts & Scientists (es)</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/lwon/index.html">Latina Women of NASA (es)</a></h2>
+        <h2><a href="http://women.nasa.gov/spanish/">Women at NASA (es)</a></h2>
+        <h2><a href="http://oeop.larc.nasa.gov/hep/hep-astronauts.html">NASA Hispanic Astronauts (en)</a></h2>
+        <h2><a href="http://www.aps.org/programs/minorities/publications/upload/minbroc-spanish.PDF">Hispanic Physicists (es)</a></h2>
+        <h2><a href="http://www2.illinois.gov/gov/latino-heritage/Pages/innovation.aspx">Latino Scientists & Inventors (en)</a></h2>
+        <h2><a href="http://www.maswired.com/5-latino-role-models-for-students-in-stem/">Mas Wired (en)</a></h2>
+        <h2><a href="http://teacher.scholastic.com/activities/hispanic/">Famous Latino Scientists (en)</a></h2>
         """
     organizations:
       header: "Professional and Youth Organizations"
       title: "Organizations"
       content:
         """
-        <h2><a href="http://aspira.org/">ASPIRA</a></h2>
-        <h2><a href="http://sacnas.org/">Advancing Hispanics/Chicanos and Native Americans in Science</a></h2>
+        <h2><a href="http://aspira.org/">ASPIRA: National Hispanic organization dedicated to developing the educational and leadership capacity of Hispanic youth</a></h2>
+        <h2><a href="http://sacnas.org/">SACNAS: Advancing Hispanics/Chicanos and Native Americans in Science</a></h2>
         <h2><a href="http://www.hispanicphysicists.org/">National Society of Hispanic Physicists</a></h2>
-        <h2><a href="http://www.shpe.org/">Society of Hispanic Professional Engineers</a></h2>
-        <h2><a href="http://mymaes.org/programs/">Latinos in Science and Engineering</a></h2>
-        <h2><a href="http://www.hacu.net/hacu/default.asp">Hispanic Association of Colleges and Universities</a></h2>
+        <h2><a href="http://www.shpe.org/">SHPE: Society of Hispanic Professional Engineers</a></h2>
+        <h2><a href="http://mymaes.org/programs/">MAES: Latinos in Science and Engineering</a></h2>
+        <h2><a href="http://www.hacu.net/hacu/default.asp">HACU: Hispanic Association of Colleges and Universities</a></h2>
         """
     planetariums:
       title: "Planetariums"
       header: "Planetariums around the World"
       content:
         """
-        <h2><a href="http://www.planetariodorio.com.br/">Rio de Janeiro, Brazil</a></h2>
         <h2><a href="http://www.planetariochile.cl/">Santiago, Chile</a></h2>
         <h2><a href="http://www.planetmad.es/">Madrid, Spanish</a></h2>
         <h2><a href="http://www.planetario.gov.ar/">Buenos Aires, Argentina</a></h2>
