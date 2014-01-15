@@ -4,20 +4,20 @@ module.exports =
     callout: "Mi Galaxia <br> es su Galaxia"
     intro:
       """
-      El 8 de marzo, descubrir los espectáculos de El Planetario Adler, exposiciones, y más en español!
+      Este 8 de marzo descubre al Adler a través de espectáculos, exhibiciones y mucho más - en español!
       """
   nav:
     home: "Casa"
     event: "Evento"
-    scientists: "Los Científicos Latinos"
+    scientists: "Científicos Latinos"
     resources: "Recursos"
     getTickets: "Comprar Entradas"
 
   scientists:
     overview:
       title : "Resumen"
-      header: "Participantes científicos"
-      talkBy: "Conferencia pública por "
+      header: "Científicos Participantes"
+      talkBy: "Charla presentada por <a href='/#/scientists/julieta_fierro'>Julieta Fierro</a> en el Johnson Star Theater a las 3:30-4:30pm"
       workshops: "Demostraciones prácticas y talleres dirigidos por"
       skype: "Sesiones de Skype con astrónomos chilenos"
       organizers: "Organizadores:"
@@ -89,11 +89,11 @@ module.exports =
 
     about:
       title: "Sobre"
-      header: "Inspirándose por la ciencia."
+      header: "Inspirándose con la ciencia."
       content:
         """
-        <p>Desde la exploración de planetas alrededor de otras estrellas a examinar galaxias lejanas en plena colisión para poder entender el cómo es que estamos hechos de polvo de estrellas, el Planetario Adler nos inspira a preguntarnos, a observar y a descubrir. A través de este evento
-        y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:
+        <p>Desde el explorar planetas que orbitan alrededor de otras estrellas, a examinar lejanas galaxias en plena colisión con el fin de entender el cómo es que estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org">Planetario Adler</a> nos inspira a preguntarnos, a observar y a descubrir.
+        A través de este evento y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:</p>
         <ul>
           <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
           <li>Facilitar el encuentro con científicos latinos que inspiren los jóvenes a conectarse y explorar la ciencia, tecnología, ingeniería y otras carreras relacionadas con las matemáticas</li>
@@ -113,23 +113,23 @@ module.exports =
         """
         <h2>Desde el norte</h2>
           <p>Desde la ciudad, al norte del museo, tome Lake Shore Drive (US-41) sur pasando Grant Park. Continúe hacia el sur por Lake Shore Drive hasta llegar a la salida 18th Street.</p>
-          <p>Vire a la izquierda en 18th Street y continúe. La calle doblará a la izquierda convirtiéndose en Museum Campus Drive. Vire a la derecha en Solidarity Drive. Para llegar al estacionamiento vire la derecha en Lynn White Drive. La entrada al estacionamiento estará a su izquierda.</p>
+          <p>Vire a la izquierda en 18th Street y continúe adelante. La calle doblará a la izquierda convirtiéndose en Museum Campus Drive. Vire a la derecha en Solidarity Drive. Para llegar al estacionamiento vire a la derecha en Lynn White Drive. La entrada al estacionamiento estará a su izquierda.</p>
 
         <h2>Desde el Oeste</h2>
           <p>Tome Eisenhower Expressway, la I-290 este. Continúe a Congress Parkway.</p>
           <p>Vire a la derecha en Columbus Drive hacia Lake Shore Drive (US-41). Continúe hacia el sur hasta la salida 18th Street.</p>
-          <p>Vire a la derecha en 18th Street y continúe a Museum Campus. Vire a la derecha en Solidarity Drive. Vire a la derecha en Lynn White Drive.  entrada al estacionamiento estará a su izquierda.</p>
+          <p>Vire a la derecha en 18th Street y continúe a Museum Campus. Vire a la derecha en Solidarity Drive. Vire a la derecha en Lynn White Drive.  La entrada al estacionamiento estará a su izquierda.</p>
 
         <h2>Desde el sur</h2>
-          <p>Desde la ciudad, al sur del museo, tomar Lake Shore Drive North (US-41) al norte. Continúe por Lake Shore Drive hasta la salida de la calle 18.</p>
-          <p>Gire a la derecha en la 18th Street y continúe como se dobla izquierda, convirtiéndose en el Museum Campus Drive. Gire a la derecha en Solidaridad Drive. Para la entrada de la playa de estacionamiento, gire a la derecha en Lynn White Drive, la entrada al estacionamiento estará a su izquierda.</p>
+          <p>Desde la ciudad, al sur del museo, tome Lake Shore Drive North (US-41) al norte. Continúe por Lake Shore Drive hasta la salida de 18th Street.</p>
+          <p>Vire a la derecha en la 18th Street y continúe por el camino que irá doblando a la izquierda, convirtiéndose en el Museum Campus Drive. Gire a la derecha en Solidarity Drive. Para encontrar la entrada de la playa de estacionamiento, vire a la derecha en Lynn White Drive y la entrada al estacionamiento estará a su izquierda.</p>
 
         <h2>En autobús</h2>
           <p># 146 Inner Drive / Michigan expreso / Museum Campus</p>
-          <p># 130 Museum Campus (mediados de mayo hasta el Día del Trabajo)</p>
+          <p># 130 Museum Campus (corre desde mediados de mayo hasta El Dia del Trabajo)</p>
 
         <h2>En tren</h2>
-          <p>Tome el Red, Orange, o Green line del tren CTA a Roosevelt. Se ofrecen conexiones a través del autobús #146. La parada esta situada en Roosevelt Road y State. El Planetario Adler es la última parada.</p>
+          <p>Tome el Red, Orange, o Green line del tren CTA a Roosevelt. EstosSe ofrecen conexiones a través del autobús #146. La parada esta situada cerca de la esquina de en Roosevelt Road y State. El Planetario Adler es la última parada del trayecto.</p>
         """
       map:
         """
@@ -160,8 +160,8 @@ module.exports =
         """
 
     organizers:
-      title: "Organizadores"
-      header: "Organizadores"
+      title: "Contribuidores"
+      header: "Contribuidores"
 
     schedule:
       title: "Horario"
@@ -247,17 +247,17 @@ module.exports =
           """
 
       membership:
-        title: "Membresía del museo"
+        title: "Membresía"
         content:
           """
-          Nunca ha habido un mejor tiempo para ser miembro del Adler. Le ofrecemos una buena oferta, especialmente para familias, la cual se paga por sí mismo en tan solo una visita. ¡<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Inscríbase hoy</a> y disfrute de <a href="http://www.adlerplanetarium.org/">admisión general</a> GRATIS, "<a href="http://www.adlerplanetarium.org/shows">sky shows</a>" GRATIS, más acceso a eventos, estrenos de espectáculos, y descuentos a través de todo el museo! Su membresía nos ayudará a pagar por la creación de nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exhibiciones</a>, "<a href="http://www.adlerplanetarium.org/shows/">sky shows</a>," <a href="http://www.adlerplanetarium.org/field-trip/">programas educativos</a>, y <a href="http://www.adlerplanetarium.org/collections/">la restauración de documentos y artefactos</a>.
+          Nunca ha habido un mejor momento para ser miembro del Adler. La opción de membresía familiar se paga por sí misma en tan solo una visita. ¡<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Inscríbase hoy</a> y disfrute de <a href="http://www.adlerplanetarium.org/">admisión general</a> GRATIS, "<a href="http://www.adlerplanetarium.org/shows">sky shows</a>" GRATIS, además de acceso a eventos, estrenos de espectáculos, y descuentos en todo el museo! Su membresía nos ayuda a financiar nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exhibiciones</a>, "<a href="http://www.adlerplanetarium.org/shows/">sky shows</a>," <a href="http://www.adlerplanetarium.org/field-trip/">programas educativos</a>programas educativos</a>, y de <a href="http://www.adlerplanetarium.org/collections/">restauración de documentos y artefactos historicos</a>.
           """
       summerCamps:
         title: "Campamentos de verano en al Adler"
         content:
           """
-          <p>El Alder ofrece una variedad de experiencias únicas a través de su campamento de verano para niños entre 5 y 14 años de edad. Jóvenes aficionados al espacio y a la tecnología tendrán la oportunidad de disfrutar el verano diseñando trajes espaciales, armando cohetes, programando robots, lanzando globos a gran altitud, entre otras cosas.</p>
-          <p>El campamento de verano presenta a sus niños conceptos relacionados a la ciencia y a la vez les ayuda a explorar su creatividad.</p>
+          <p>El Alder ofrece una gran variedad de distintos campamentos de veranos para niños entre 5 y 14 años de edad. Jóvenes aficionados al espacio y a la tecnología tienen la opción de disfrutar del verano diseñando trajes espaciales, armando cohetes, programando robots, lanzando globos a gran altitud, entre otras cosas.</p>
+          <p>Los campamentos de verano presentan conceptos relacionados con la ciencia y a la vez ayudan a que sus niños exploren su creatividad.</p>
           """
 
       socialMedia:
@@ -271,15 +271,15 @@ module.exports =
       content:
         """
         <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">Recursos de NASA en español (en)</a></h2>
-        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">Tú y NASA en español (es)</a></h2>
-        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entrénate como un astronauta en español (en)</a></h2>
-        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía de múltiples londitudes de hondas (es)</a></h2>
+        <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA y Tú en español (es)</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entréna como un astronauta en español (en)</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía de múlti ondas (es)</a></h2>
         <h2><a href="https://twitter.com/NASA_es">NASA Twitter en español</a></h2>
         """
 
     roleModels:
-      title: "Personas"
-      header: "Personas Ejemplares"
+      title: "Personalidades"
+      header: "Personalidades"
       content:
         """
         <h2><a href="http://www.nasa.gov/pdf/375091main_Tu_Futuro_y_el_nuestro_poster_tagged.pdf">Astronautas y científicos latinos (es)</a></h2>
@@ -295,12 +295,12 @@ module.exports =
       title: "Organizaciones"
       content:
         """
-        <h2><a href="http://aspira.org/">ASPIRA: National Hispanic organization dedicated to developing the educational and leadership capacity of Hispanic youth</a></h2>
-        <h2><a href="http://sacnas.org/">SACNAS: Advancing Hispanics/Chicanos and Native Americans in Science</a></h2>
-        <h2><a href="http://www.hispanicphysicists.org/">National Society of Hispanic Physicists</a></h2>
-        <h2><a href="http://www.shpe.org/">SHPE: Society of Hispanic Professional Engineers</a></h2>
-        <h2><a href="http://mymaes.org/programs/">MAES: Latinos in Science and Engineering</a></h2>
-        <h2><a href="http://www.hacu.net/hacu/default.asp">HACU: Hispanic Association of Colleges and Universities</a></h2>
+        <h2><a href="http://aspira.org/">ASPIRA: Organización nacional hispana dedicada al desarollo de la capacidad educacional y el liderazgo de la juventud hispana</a></h2>
+        <h2><a href="http://sacnas.org/">SACNAS: Sociedad que promueve el avance de hispanos, chicanos y nativos americanos en la ciencia</a></h2>
+        <h2><a href="http://www.hispanicphysicists.org/">Sociedad nacional de físicos hispanos</a></h2>
+        <h2><a href="http://www.shpe.org/">SHPE: Sociedad de ingenieros profesionales hispanos</a></h2>
+        <h2><a href="http://mymaes.org/programs/">MAES: Latinos en ciencia e ingenieria</a></h2>
+        <h2><a href="http://www.hacu.net/hacu/default.asp">HACU: Asociación hispana de colegios y universidades</a></h2>
         """
     planetariums:
       title: "Planetariums"
