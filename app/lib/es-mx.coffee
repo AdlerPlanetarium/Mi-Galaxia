@@ -88,8 +88,8 @@ module.exports =
     content: "Spanish Content"
 
     about:
-      title: "Sobre"
-      header: "Inspirándose con la ciencia."
+      title: "Detalles"
+      header: "Inspírate con la ciencia"
       content:
         """
         <p>Desde el explorar planetas que orbitan alrededor de otras estrellas, a examinar lejanas galaxias en plena colisión con el fin de entender el cómo es que estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org">Planetario Adler</a> nos inspira a preguntarnos, a observar y a descubrir.
@@ -129,7 +129,7 @@ module.exports =
           <p># 130 Museum Campus (corre desde mediados de mayo hasta El Dia del Trabajo)</p>
 
         <h2>En tren</h2>
-          <p>Tome el Red, Orange, o Green line del tren CTA a Roosevelt. EstosSe ofrecen conexiones a través del autobús #146. La parada esta situada cerca de la esquina de en Roosevelt Road y State. El Planetario Adler es la última parada del trayecto.</p>
+          <p>Tome el Red, Orange, o Green line del tren CTA a Roosevelt. Estos ofrecen conexiones a través del autobús #146. La parada esta situada cerca de la esquina de Roosevelt Road y State. El Planetario Adler es la última parada del trayecto.</p>
         """
       map:
         """
@@ -137,8 +137,8 @@ module.exports =
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5942.546222415535!2d-87.61504420376588!3d41.86547009519773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2b6fb7b114b5%3A0x6920a3aa12218ea6!2sAdler+Planetarium%2C+South+Lake+Shore+Drive%2C+Chicago%2C+IL!5e0!3m2!1sen!2sus!4v1388512258682" width="100%" height="400" frameborder="0" style="border:0"></iframe>
         """
     contributors:
-      title: "Colaboradores"
-      header: "Colaboradores"
+      title: "Contribuidores"
+      header: "Contribuidores"
       content:
         """
         <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS-NU</a></h2>
@@ -160,8 +160,8 @@ module.exports =
         """
 
     organizers:
-      title: "Contribuidores"
-      header: "Contribuidores"
+      title: "Organizadores"
+      header: "Organizadores"
 
     schedule:
       title: "Horario"
@@ -250,13 +250,13 @@ module.exports =
         title: "Membresía"
         content:
           """
-          Nunca ha habido un mejor momento para ser miembro del Adler. La opción de membresía familiar se paga por sí misma en tan solo una visita. ¡<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Inscríbase hoy</a> y disfrute de <a href="http://www.adlerplanetarium.org/">admisión general</a> GRATIS, "<a href="http://www.adlerplanetarium.org/shows">sky shows</a>" GRATIS, además de acceso a eventos, estrenos de espectáculos, y descuentos en todo el museo! Su membresía nos ayuda a financiar nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exhibiciones</a>, "<a href="http://www.adlerplanetarium.org/shows/">sky shows</a>," <a href="http://www.adlerplanetarium.org/field-trip/">programas educativos</a>programas educativos</a>, y de <a href="http://www.adlerplanetarium.org/collections/">restauración de documentos y artefactos historicos</a>.
+          Nunca ha habido un mejor momento para ser miembro del Adler. La opción de membresía familiar se paga por sí misma en tan solo una visita. ¡<a href="https://tickets.adlerplanetarium.org/WebStore/shop/ViewItems.aspx?CG=M&amp;C=J">Inscríbase hoy</a> y disfrute de <a href="http://www.adlerplanetarium.org/">admisión general</a> GRATIS, "<a href="http://www.adlerplanetarium.org/shows">sky shows</a>" GRATIS, además de acceso a eventos, estrenos de espectáculos, y descuentos en todo el museo! Su membresía nos ayuda a financiar nuevas <a href="http://www.adlerplanetarium.org/exhibits/">exhibiciones</a>, "<a href="http://www.adlerplanetarium.org/shows/">sky shows</a>," <a href="http://www.adlerplanetarium.org/field-trip/">programas educativos</a>, y de <a href="http://www.adlerplanetarium.org/collections/">restauración de documentos y artefactos históricos</a>.
           """
       summerCamps:
         title: "Campamentos de verano en al Adler"
         content:
           """
-          <p>El Alder ofrece una gran variedad de distintos campamentos de veranos para niños entre 5 y 14 años de edad. Jóvenes aficionados al espacio y a la tecnología tienen la opción de disfrutar del verano diseñando trajes espaciales, armando cohetes, programando robots, lanzando globos a gran altitud, entre otras cosas.</p>
+          <p>El Alder ofrece una gran variedad de distintos campamentos de veranos para niños entre 5 y 14 años de edad. Jóvenes aficionados al espacio y a la tecnología tienen la opción de disfrutar del verano diseñando trajes espaciales, armando cohetes, programando robots o lanzando globos a gran altitud, entre otras cosas.</p>
           <p>Los campamentos de verano presentan conceptos relacionados con la ciencia y a la vez ayudan a que sus niños exploren su creatividad.</p>
           """
 
@@ -272,8 +272,8 @@ module.exports =
         """
         <h2><a href="http://nasawavelength.org/resource-search?qq=spanish&educationalLevel=">Recursos de NASA en español (en)</a></h2>
         <h2><a href="http://www.nasa.gov/pdf/375089main_NASA_Home_CITY_en_espanol_tagged.pdf">NASA y Tú en español (es)</a></h2>
-        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entréna como un astronauta en español (en)</a></h2>
-        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía de múlti ondas (es)</a></h2>
+        <h2><a href="http://www.nasa.gov/audience/foreducators/trainlikeanastronaut/home/index.html">Entrena como un astronauta en español (en)</a></h2>
+        <h2><a href="http://legacy.spitzer.caltech.edu/espanol//edu/multi/index.html">Astronomía de multi ondas (es)</a></h2>
         <h2><a href="https://twitter.com/NASA_es">NASA Twitter en español</a></h2>
         """
 
@@ -303,7 +303,7 @@ module.exports =
         <h2><a href="http://www.hacu.net/hacu/default.asp">HACU: Asociación hispana de colegios y universidades</a></h2>
         """
     planetariums:
-      title: "Planetariums"
+      title: "Planetarios"
       header: "Planetarios de todo el mundo"
       content:
         """
@@ -317,9 +317,9 @@ module.exports =
       header: "Recursos adicionales"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto (en espanõl)</a></h2>
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto (es)</a></h2>
         <h2><a href="http://www.tudiscovery.com/">Discovery en español</a></h2>
-        <h2><a href="http://ciencianet.com/">Datos divertidos y actividades en español</a></h2>
+        <h2><a href="http://ciencianet.com/">Datos divertidos y actividades (es)</a></h2>
         <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades en español para estudiantes de escuela primaria y secundaria</a></h2>
-        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudientes de preparatoria (high-school) en español</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudiantes de preparatoria (high-school) (es)l</a></h2>
         """
