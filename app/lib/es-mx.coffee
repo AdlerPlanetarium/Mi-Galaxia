@@ -92,7 +92,9 @@ module.exports =
       header: "Inspírate con la ciencia"
       content:
         """
-        <p>Desde el explorar planetas que orbitan alrededor de otras estrellas, a examinar lejanas galaxias en plena colisión con el fin de entender el cómo es que estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org">Planetario Adler</a> nos inspira a preguntarnos, a observar y a descubrir.
+        <p>El Planetario Adler, en conjunto con organizaciones de la comunidad latina, da la bienvenida a familias de habla española al apasionante y universal mundo de la ciencia.
+        Esta es una oportunidad para conocer científicos latinos y disfrutar de charlas, actividades y espectáculos en español. Desde el explorar planetas que orbitan alrededor de otras estrellas,
+        a examinar lejanas galaxias en plena colisión con el fin de entender el cómo es que estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org">Planetario Adler</a> nos inspira a preguntarnos, a observar y a descubrir.
         A través de este evento y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:</p>
         <ul>
           <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
