@@ -64,12 +64,6 @@ module.exports =
         """
         Laura Trouille creció en el área de Chicago y obtuvo su primer gusto por la astronomía a través de excursiones escolares al Planetario Adler. Para ella es un sueño hecho realidad el ahora ser astrónoma en Adler y en la Universidad Northwestern. Su investigación cubre temas de agujeros negros tales como la comprensión de cómo los agujeros negros masivos afectan la forma de sus galaxias anfitrionas que evolucionan en rangos de millones de años. Laura también es mentora de estudiantes en investigación, enseña astronomía, da charlas públicas, y trabaja con maestros. Su pasión es el ayudar a la próxima generación de mujeres y minorías a acceder a educación y carreras profesionales en matemáticas, ciencias y tecnología. Por esta razón trabaja con el Comité de la Sociedad Astronómica Americana sobre la Condición Jurídica y Social de la Mujer en la Astronomía. Laura pasó gran parte de su niñez en la granja de su abuela en Francia, lo que sin duda es parte de la razón por la cual le encanta cocinar. También tiene dos gatos y un maravilloso y solidario marido.
         """
-    JuanCarlosCampuzano:
-      name: "Juan Carlos Campuzano"
-      bio:
-        """
-        Juan Carlos Campuzano completó su doctorado grado en la Universidad de Wisconsin-Milwaukee en 1978, con una tesis sobre la espectroscopia infrarroja sobre superficies metálicas bajo la supervisión del Prof. RG Greenler. Desarrolló técnicas para el estudio de las vibraciones en superficies. De 1978 a 1981 fue becario postdoctoral y luego como investigador asociado en el Donnan laboratorios de la Universidad de Liverpool, en colaboración con el Prof. DA King, de estudios sobre fotoemisión y fotoabsorción en diversos sólidos. En 1981, ingresó al Laboratorio Cavendish de la Universidad de Cambridge, como investigador asociado, trabajando en las transiciones de fase de dos dimensiones así como fenómenos críticos. En 1985 se incorporó al Departamento de Física de la Universidad de Illinois en Chicago, y en 1987 se integró a la División de Ciencia de los Materiales en el Laboratorio Nacional de Argonne. Actualmente, la investigación del profesor Campuzano cubre varias áreas de la física de materia condensada.
-        """
     CeciliaGerber:
       name: "Cecilia Gerber"
       bio:

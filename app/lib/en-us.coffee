@@ -64,12 +64,6 @@ module.exports =
         """
         Laura Trouille grew up in the Chicago area and got her first taste for astronomy through school field trips to the Adler Planetarium. It’s a dream come true for her to now be an astronomer at the Adler and at Northwestern University. Her research is on black holes; understanding how massive black holes affect how their host galaxies evolve over billions of year timescales. She also mentor students in research, teaches astronomy, gives public talks, and works with teachers. She is passionate about helping the next generation of women and minorities access education and careers in math, science, and technology and works with the American Astronomical Society Committee on the Status of Women in Astronomy in these efforts. She spent a lot of time as a kid in France on her grandmother’s farm, which is surely part of the reason why she loves to cook. She also has two cats and a wonderful and supportive husband.
         """
-    JuanCarlosCampuzano:
-      name: "Juan Carlos Campuzano"
-      bio:
-        """
-        Juan Carlos Campuzano completed his Ph. D. degree at the University of Wisconsin-Milwaukee in 1978, with a thesis on infrared spectroscopy on metal surfaces under the supervision of Prof. R.G. Greenler. He developed techniques for the study of vibrations at surfaces. From 1978 to 1981, he was a postdoctoral fellow and then a Research Associate at the Donnan Laboratories, University of Liverpool, working with Prof. D.A. King, on photoemission and photoabsorption studies of various solids. In 1981, he joined the Cavendish Laboratory, University of Cambridge, as Research Associate, working on two-dimensional phase transitions and critical phenomena. In 1985 he joined the Department of Physics at the University of Illinois at Chicago, and in 1987 he also joined the Materials Science Division at Argonne National Laboratory. Currently, professor Campuzano's research is in many areas of condensed matter physics.
-        """
     CeciliaGerber:
       name: "Cecilia Gerber"
       bio:
