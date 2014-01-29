@@ -18,7 +18,7 @@ module.exports =
       title: "Overview"
       header: "Participating Latino Scientists"
       talkBy: "Public Talk by <a href='/#/scientists/julieta_fierro'>Julieta Fierro</a> in the Johnson Star Theater from 3:30-4:30pm"
-      workshops: "Hands-on demos and workshops led by "
+      workshops: "Hands-on demos and workshops led by <a href='/#/scientists/luis_nasser'>Luis Nasser</a> and <a href='/#/scientists/ursala_perez_salas'>Úrsula Pérez-Salas</a>"
       skype: "Skype sessions with Chilean astronomers"
       organizers: "Organizers:"
 
