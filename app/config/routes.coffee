@@ -23,3 +23,5 @@ App.Router.map ->
     @route 'organizations'
     @route 'planetariums'
     @route 'additional'
+  @route 'stay_tuned'
+
