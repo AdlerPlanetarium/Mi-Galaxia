@@ -316,7 +316,7 @@ module.exports =
       content:
         """
         <h2><a href="http://www.planetariochile.cl/">Santiago, Chile</a></h2>
-        <h2><a href="http://www.planetmad.es/">Madrid, Spanish</a></h2>
+        <h2><a href="http://www.planetmad.es/">Madrid, Spain</a></h2>
         <h2><a href="http://www.planetario.gov.ar/">Buenos Aires, Argentina</a></h2>
         <h2><a href="http://www.cedicyt.ipn.mx/Planetario/Paginas/Planetario.aspx">Mexico</a></h2>
         """
