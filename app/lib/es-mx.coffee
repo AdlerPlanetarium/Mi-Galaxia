@@ -7,7 +7,7 @@ module.exports =
       Este 8 de marzo descubre al Adler a través de espectáculos, exhibiciones y mucho más - en español!
       """
   stayTuned:
-    "A partir del 8 de febrero los boletos estarán a la venta."
+    "Los boletos estarán a la venta a partir del 8 de febrero."
   nav:
     home: "Casa"
     event: "Evento"
