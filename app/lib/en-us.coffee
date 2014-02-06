@@ -148,22 +148,41 @@ module.exports =
       header: "Contributors"
       content:
         """
-        <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS-NU</a></h2>
+        <h2><a href="http://fieldmuseum.org/">The Field Museum</a></h2>
+        <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS at Northwestern University</a></h2>
         <h2>Ariel Finkielsztein</h2>
-        <h2>Ariel Finkielsztein Jr.</h2>
         <h2>Vanessa Montoya</h2>
         <h2>David Krist</h2>
         <h2>Juan Jimenez</h2>
         <h2>Constanza Vasquéz Doorman</h2>
         <h2>Nicolas Pelaez</h2>
         <h2>Elsy Buitrago</h2>
-        <h2>Eudald Lerga</h2>
-        <h2>Eduardo Sampedro</h2>
         <h2>Santiago Pauni</h2>
         <h2>Iliana Vargas</h2>
         <h2>Mayo Seanez</h2>
-        <h2><a href="http://www.msichicago.org/">Museum of Science and Industry</a></h2>
-        <h2><a href="http://fieldmuseum.org/">Field Museum</a></h2>
+        <h2>Lidice Toledo</h2>
+        <h2>Jose Alvarado</h2>
+        <h2>Martha Alvarado</h2>
+        <h2>Eudald Lerga</h2>
+        <h2>Eduardo Sampedro</h2>
+        <h2>Francisco Aguilar</h2>
+        <h2>Emma Flores</h2>
+        <h2>Leidamarie Tirado</h2>
+        <h2>Michael Bravo</h2>
+        <h2>Jaime Encarnacion</h2>
+        <h2>Felix Morales</h2>
+        <h2>Catherine Santis</h2>
+        <h2>Victor Cueto</h2>
+        <h2>Joel Mendoza</h2>
+        <h2>Diana Vera</h2>
+        <h2>Jorjethe Roca</h2>
+        <h2>Irving Daniel Sandoval Gonzalez</h2>
+        <h2>Francisco Restrepo</h2>
+        <h2>Joseph Adams</h2>
+        <h2>Astrid Trujillo</h2>
+        <h2>Yesenia Herrera</h2>
+        <h2>Adriana Roman</h2>
+        <h2>Oscar Herrera</h2>
         """
 
     organizers:
