@@ -7,7 +7,7 @@ module.exports =
       On March 8, discover the Adler's shows, exhibitions, and more –in Spanish!
       """
   stayTuned:
-    "Tickets will go on sale February 8th."
+    "Tickets will go on sale February 11th."
   nav:
     home: "Home"
     event: "The Event"
@@ -83,7 +83,7 @@ module.exports =
       bio:
         """
         Claudio Ugalde was born and raised in Mexico City. He decided to become an astrophysicist when he was 7 years old and went on to obtain his degree on physics from Universidad Nacional Autónoma de México. He then received a doctorate in astrophysics from the University of Notre Dame, Indiana.  Claudio is the first nuclear astrophysicist from Mexican origin.
-        Claudio worked as a Researcher at the University of North Carolina, at Argonne Laboratory and at the University of Chicago. He currently teaches and does research at the physics department at the University of Illinois. He is co-author of varios scientific publications in the area of nuclear astrophysics. He is also member of various scientific collaborations of the American Society of Physics, and of the American Association for the Advancement of Science. He has also received awards and scholarships from the Universidad Nacional Autónoma de México (UNAM), from the National Consortium of Science and Technology in Mexico, from Control Data Company, from the Institute of Physics at UNAM, from Kavli Institute of Cosmological Physics at the University of Chicago, and from the Carl Storm Fund for minorities at Gordon Research Conferences. 
+        Claudio worked as a Researcher at the University of North Carolina, at Argonne Laboratory and at the University of Chicago. He currently teaches and does research at the physics department at the University of Illinois. He is co-author of varios scientific publications in the area of nuclear astrophysics. He is also member of various scientific collaborations of the American Society of Physics, and of the American Association for the Advancement of Science. He has also received awards and scholarships from the Universidad Nacional Autónoma de México (UNAM), from the National Consortium of Science and Technology in Mexico, from Control Data Company, from the Institute of Physics at UNAM, from Kavli Institute of Cosmological Physics at the University of Chicago, and from the Carl Storm Fund for minorities at Gordon Research Conferences.
         In his free time Claudio enjoys riding his bike, listening to minimalist music, dance with his family, and preparing, eating, cooking and experimenting with Mexican cuisine.
         """
 

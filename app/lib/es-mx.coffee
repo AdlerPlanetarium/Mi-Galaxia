@@ -7,7 +7,7 @@ module.exports =
       Este 8 de marzo descubre al Adler a través de espectáculos, exhibiciones y mucho más - en español!
       """
   stayTuned:
-    "Los boletos estarán a la venta a partir del 8 de febrero."
+    "Los boletos estarán a la venta a partir del 11 de febrero."
   nav:
     home: "Casa"
     event: "Evento"
@@ -83,7 +83,7 @@ module.exports =
       bio:
         """
         Claudio Ugalde nació y creció en la Ciudad de México. Decidió que sería astrofísico cuando tenía siete años y luego obtuvo el grado de físico por la Universidad Nacional Autónoma de México. Posteriormente estudió un doctorado en astrofísica nuclear en la Universidad de Notre Dame, en Indiana. Claudio es el primer astrofísico nuclear de origen mexicano.
-        Claudio trabajó como investigador en la Universidad de Carolina de Norte, en el laboratorio nacional de Argonne y en la Universidad de Chicago. Actualmente enseña e investiga en el departamento de física de la Universidad de Illinois. Es coautor de varias publicaciones científicas en el area de astrofísica nuclear. También es miembro de varias colaboraciones científicas, de la Sociedad Americana de Física, y de la Asociación Americana para el Avance de la Ciencia. También ha recibido reconocimientos y becas por la Universidad Nacional Autónoma de México, por el Consejo Nacional de Ciencia y Tecnología en México, por Control Data Company, por el Instituto de Física de la UNAM, por el Instituto Kavli para la Cosmología Física de la Universidad de Chicago, y por el fondo Carl Storm de la iniciativa  para la minorías del Gordon Research Conferences. 
+        Claudio trabajó como investigador en la Universidad de Carolina de Norte, en el laboratorio nacional de Argonne y en la Universidad de Chicago. Actualmente enseña e investiga en el departamento de física de la Universidad de Illinois. Es coautor de varias publicaciones científicas en el area de astrofísica nuclear. También es miembro de varias colaboraciones científicas, de la Sociedad Americana de Física, y de la Asociación Americana para el Avance de la Ciencia. También ha recibido reconocimientos y becas por la Universidad Nacional Autónoma de México, por el Consejo Nacional de Ciencia y Tecnología en México, por Control Data Company, por el Instituto de Física de la UNAM, por el Instituto Kavli para la Cosmología Física de la Universidad de Chicago, y por el fondo Carl Storm de la iniciativa  para la minorías del Gordon Research Conferences.
         En su tiempo libre Claudio disfruta de andar en bicicleta, de escuchar música minimalista, de bailar con su familia, y de preparar, comer, y experimentar con la cocina mexicana.
         """
 
