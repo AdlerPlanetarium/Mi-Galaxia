@@ -24,6 +24,46 @@ module.exports =
       skype: "Skype sessions with Chilean astronomers"
       organizers: "Organizers:"
 
+    talks:
+      julieta:
+        title: "The Universe: Does it also evolve?"
+        desc:
+          """
+          Astronomers believe that the Universe we live in originated some 13700 million years ago. The topic of how the standar model of the Big Bang emerged will be addressed through a series of demonstrations. During this presentation some astronomical means of the production of elements will be described, as well as the reasons that have led astronomers to think that this is a valid model. It will be mentioned that the Universe is everything: space, time, matter and energy, and that its evolution continues. The bodies that form the cosmos as well as their spatial distribution will be briefly described. Cosmic expansion, chemical abundance of the elements and problems of night darkenss and dark matter will be addressed. The talk will conclude by mentioning problems related to energy release, chaos and the future of our Universe.
+          """
+      luis:
+        title: "The Universe through a lens"
+        desc:
+          """
+          Have you ever wondered how does a telescope work, what is fiver optic, or simply, what is light? Ligh posesses specific properties and the study of these properties is called optics. The development of optics has been very important in the development of scientific and technical  knowledge. The presence of the Sun is necessary for our eyes to be able to see. Why do you think that is? Through scientific demonstrations and activities related with optics, families qill be able to understand principles linked tolight and vision, which have served as the basis to the development of observing instruments.
+          """
+      ursala:
+        title: "The nanoscopic world in our daily life"
+        desc:
+          """
+          Have you ever wondered if states of matter are enough to explain: from what stars are made of, to everything that surrounds us? We are taught at school that matter can only be found in trhee states: solid, liquid and gaseous. But, have you ever wondered what stars are made of? In this workshop we will cover topics such as what matter is, and what is its composition. Through interactive experiences, a Latino physicist will explain some physical and chemical phenomena, through which you will be able to discover basic principles that present in objects of nature, and are utilized for the development of materials through history.
+          """
+      claudio:
+        title: "SN2014J: The closest thermonuclear runaway observed in 41 years"
+        desc:
+          """
+          While teaching his astronomy class this January, Steve Fossey discovered a supernova in M82, a beautiful starburst galaxy. The event has been identified as a Type Ia supernova, which is a kind of stellar explosion, and is used in our measurement of cosmological distances. This new supernova provides a wonderful opportunity to better understand how thermonuclear reactions operate in these extreme environments.
+          """
+      juan:
+        title: "What are superconductors?"
+        desc:
+          """
+          Have you ever envisioned yourself having an extremely fast computer, or riding a train that levitates over its train tracks instead of touching them? Some materials such as lead of alluminum shift their electrical and magnetic properties qhen exposed to very low temperatures. Superconductors are used today in applications related to electricity, the environment, tramsportation, health and technology.. In this presentation we will describe what superconductors are, how they are made, wnd what could be their impact in the XXIst century lifestyle.
+          """
+      jose:
+        title: "Cosmic Wonder"
+        desc:
+          """
+          Take an exciting journey of discovery as the world’s most technologically advanced dome theater transforms into a virtual observatory in "Cosmic Wonder".
+          Throughout time, humans have connected with the cosmos in an ongoing cycle of observation, wonder, and discovery.  In "Cosmic Wonder", visitors are invited to look up!  The night sky reveals the mysteries of our Universe in the most immersive space environment ever created.  As we observe and form an understanding of our cosmos, leading-edge technology allows audiences to experience the night sky like never before, bringing the Universe to you.
+          Presented as a live show, Cosmic Wonder tells the compelling story of how, through time, we have pieced together an understanding of the cosmos, inviting audiences to ask questions and help scientists unlock modern mysteries of the unknown.
+          """
+
     JulietaFierro:
       name: "Julieta Fierro"
       bio:

@@ -24,6 +24,46 @@ module.exports =
       skype: "Sesiones de Skype con astrónomos chilenos"
       organizers: "Organizadores:"
 
+    talks:
+      julieta:
+        title: "El universo, ¿también evoluciona?"
+        desc:
+          """
+          Los astrónomos piensan que hace 13 700 millones de años se originó el Universo en el que vivimos. A través de una serie de demostraciones se abordará el tema de cómo surgió el modelo estándar de la gran explosión o Big Bang. Durante la conferencia se describirán algunas de las maneras de producción astronómica de los elementos y varias razones que han llevado a los astrónomos a pensar que este modelo estándar de la Gran Explosión es válido. Se mencionará que el Universo es todo: espacio, tiempo, materia y energía y que está en evolución continua. Se describirá brevemente a los cuerpos que forman al cosmos y su distribución espacial. Se explicarán la expansión cósmica, la abundancia química de los elementos y los problemas de la oscuridad de la noche y de la materia oscura. Se concluirá la charla mencionando problemas referentes a liberación de energía, caos y el futuro de nuestro Universo.
+          """
+      luis:
+        title: "El universo a través de una lente"
+        desc:
+          """
+          ¿Te has preguntado cómo funciona un telescopio, qué es la fibra óptica o por simplemente, qué es la luz? La luz posee ciertas propiedades y al estudio de estas propiedades se le denomina óptica. El desarrollo de la óptica ha sido muy importante en el desarrollo del conocimiento científico y de la tecnología. La presencia del Sol es necesaria para que nuestros ojos puedan ver, ¿por qué crees? A través de demostraciones y actividades relacionadas con la óptica las familias podrán comprender principios ligados a la luz y a la visión, que han servido de base para el desarrollo de instrumentos de observación.
+          """
+      ursala:
+        title: "El mundo nanoscópico en nuestra vida cotidiana"
+        desc:
+          """
+          ¿Te has preguntado si estos estados de la materia son suficientes para explicar desde el qué están hechas las estrellas hasta todo lo que nos rodea? En la escuela nos enseñan que la materia se puede encontrar en solo tres estados: sólido, líquido  y gaseoso. Pero, ¿te has preguntado de qué están hechas las estrellas? En esta muestra se dará cuenta de qué es la materia y cuál es su composición. Por medio de experiencias interactivas, una doctora en física explicará ciertos fenómenos físicos y químicos a través de los cuales podrás descubrir principios básicos presentes en objetos de la naturaleza y utilizados para el desarrollo de los materiales a lo largo de la historia.
+          """
+      claudio:
+        title: "SN2014J: La explosion termonuclear más cercana en los últimos 40 años"
+        desc:
+          """
+          Mientras daba su clase de astronomía este enero recién pasado, Steve Fossey descubrió fortuitamente una supernova en M82, hermosa y colorida galaxia. El evento ya ha sido identificado como una supernova de tipo Ia, que es una clase de explosión estelar normalmente utilizada para medir distancias a escalas cosmológicas. Se presenta ante nosotros una maravillosa oportunidad para mejor entender el cómo las reacciones termonucleares operan en estas extremas condiciones.
+          """
+      juan:
+        title: "¿Qué son los Superconductores?"
+        desc:
+          """
+          ¿Te has imaginado tener una supercomputadora extremadamente veloz o andar en un tren que levita sobre las vías en lugar de tocarlas? A muy bajas temperaturas algunos materiales tales como el plomo y el aluminio cambian sus propiedades eléctricas y magnéticas.  Los superconductores se utilizan en la actualidad para aplicaciones relacionadas a la eletricidad, el medio ambiente, el transporte, la salud y la tecnología. En esta presentación describiremos qué son los superconductores, cómo se forman y cuál podría ser su impacto en el estilo de vida del siglo XXI.
+          """
+      jose:
+        title: "Maravilla Cósmica"
+        desc:
+          """
+          Emprende un viaje de descubrimientos increíble mientras ves cómo el más tecnológicamente avanzado teatro de domo se transforma en un observatorio virtual en "Maravilla Cósmica"
+          A través del tiempo, los seres humanos se han conectado con el cosmos en un ciclo interminable de observación, asombro y descubrimiento. En "Maravilla Cósmica", invitamos al el público a mirar hacia arriba! El cielo nocturno revela los misterios de nuestro Universo en el ambiente de más inmersión que se haya creado nunca. Mientras observamos y formamos un entendimiento de nuestro cosmos, las tecnologías de punta permiten a la audiencia experimentar la noche como nunca antes, trayendo el Universo hacia ti.
+          Presentado como espectáculo en vivo, Maravilla Cósmica cuenta la poderosa historia de cómo a través del tiempo, hemos reconstruído un entendimiento del cosmos, invitando a la gente a formular preguntas y ayudar a los científicos a abrir los misterios de lo desconocido.
+          """
+
     JulietaFierro:
       name: "Julieta Fierro"
       bio:
