@@ -86,6 +86,12 @@ module.exports =
         Claudio trabajó como investigador en la Universidad de Carolina de Norte, en el laboratorio nacional de Argonne y en la Universidad de Chicago. Actualmente enseña e investiga en el departamento de física de la Universidad de Illinois. Es coautor de varias publicaciones científicas en el area de astrofísica nuclear. También es miembro de varias colaboraciones científicas, de la Sociedad Americana de Física, y de la Asociación Americana para el Avance de la Ciencia. También ha recibido reconocimientos y becas por la Universidad Nacional Autónoma de México, por el Consejo Nacional de Ciencia y Tecnología en México, por Control Data Company, por el Instituto de Física de la UNAM, por el Instituto Kavli para la Cosmología Física de la Universidad de Chicago, y por el fondo Carl Storm de la iniciativa  para la minorías del Gordon Research Conferences.
         En su tiempo libre Claudio disfruta de andar en bicicleta, de escuchar música minimalista, de bailar con su familia, y de preparar, comer, y experimentar con la cocina mexicana.
         """
+    JuanCarlos:
+      name: "Juan Carlos Campuzano"
+      bio:
+        """
+        Juan Carlos Campuzano completó su doctorado grado en la Universidad de Wisconsin-Milwaukee en 1978, con una tesis sobre la espectroscopia infrarroja sobre superficies metálicas bajo la supervisión del Prof. RG Greenler. Desarrolló técnicas para el estudio de las vibraciones en superficies. De 1978 a 1981 fue becario postdoctoral y luego como investigador asociado en el Donnan laboratorios de la Universidad de Liverpool, en colaboración con el Prof. DA King, de estudios sobre fotoemisión y fotoabsorción en diversos sólidos. En 1981, ingresó al Laboratorio Cavendish de la Universidad de Cambridge, como investigador asociado, trabajando en las transiciones de fase de dos dimensiones así como fenómenos críticos. En 1985 se incorporó al Departamento de Física de la Universidad de Illinois en Chicago, y en 1987 se integró a la División de Ciencia de los Materiales en el Laboratorio Nacional de Argonne. Actualmente, la investigación del profesor Campuzano cubre varias áreas de la física de materia condensada.
+        """
 
   event:
     title: "Event Page"

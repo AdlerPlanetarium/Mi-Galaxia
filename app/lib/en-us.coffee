@@ -86,6 +86,12 @@ module.exports =
         Claudio worked as a Researcher at the University of North Carolina, at Argonne Laboratory and at the University of Chicago. He currently teaches and does research at the physics department at the University of Illinois. He is co-author of varios scientific publications in the area of nuclear astrophysics. He is also member of various scientific collaborations of the American Society of Physics, and of the American Association for the Advancement of Science. He has also received awards and scholarships from the Universidad Nacional Autónoma de México (UNAM), from the National Consortium of Science and Technology in Mexico, from Control Data Company, from the Institute of Physics at UNAM, from Kavli Institute of Cosmological Physics at the University of Chicago, and from the Carl Storm Fund for minorities at Gordon Research Conferences.
         In his free time Claudio enjoys riding his bike, listening to minimalist music, dance with his family, and preparing, eating, cooking and experimenting with Mexican cuisine.
         """
+    JuanCarlos:
+      name: "Juan Carlos Campuzano"
+      bio:
+        """
+        Juan Carlos Campuzano completed his Ph. D. degree at the University of Wisconsin-Milwaukee in 1978, with a thesis on infrared spectroscopy on metal surfaces under the supervision of Prof. R.G. Greenler. He developed techniques for the study of vibrations at surfaces. From 1978 to 1981, he was a postdoctoral fellow and then a Research Associate at the Donnan Laboratories, University of Liverpool, working with Prof. D.A. King, on photoemission and photoabsorption studies of various solids. In 1981, he joined the Cavendish Laboratory, University of Cambridge, as Research Associate, working on two-dimensional phase transitions and critical phenomena. In 1985 he joined the Department of Physics at the University of Illinois at Chicago, and in 1987 he also joined the Materials Science Division at Argonne National Laboratory. Currently, professor Campuzano's research is in many areas of condensed matter physics.
+        """
 
   event:
     title: "Event Page"
