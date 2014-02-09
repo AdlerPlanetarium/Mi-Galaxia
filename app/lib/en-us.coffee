@@ -53,7 +53,7 @@ module.exports =
         title: "What are superconductors?"
         desc:
           """
-          Have you ever envisioned yourself having an extremely fast computer, or riding a train that levitates over its train tracks instead of touching them? Some materials such as lead of alluminum shift their electrical and magnetic properties qhen exposed to very low temperatures. Superconductors are used today in applications related to electricity, the environment, tramsportation, health and technology.. In this presentation we will describe what superconductors are, how they are made, wnd what could be their impact in the XXIst century lifestyle.
+          Have you ever envisioned yourself having an extremely fast computer, or riding a train that levitates over its train tracks instead of touching them? Some materials such as lead or alluminum shift their electrical and magnetic properties when exposed to very low temperatures. Superconductors are used today in applications related to electricity, the environment, transportation, health and technology. In this presentation we will describe what superconductors are, how they are made, and what could be their impact in the XXIst century lifestyle.
           """
       jose:
         title: "Cosmic Wonder"
