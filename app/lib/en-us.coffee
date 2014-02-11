@@ -63,6 +63,14 @@ module.exports =
           Throughout time, humans have connected with the cosmos in an ongoing cycle of observation, wonder, and discovery.  In "Cosmic Wonder", visitors are invited to look up!  The night sky reveals the mysteries of our Universe in the most immersive space environment ever created.  As we observe and form an understanding of our cosmos, leading-edge technology allows audiences to experience the night sky like never before, bringing the Universe to you.
           Presented as a live show, Cosmic Wonder tells the compelling story of how, through time, we have pieced together an understanding of the cosmos, inviting audiences to ask questions and help scientists unlock modern mysteries of the unknown.
           """
+      roberto:
+        title: "Technology Development for Very Large Telescopes"
+        desc:
+          """
+          This presentation will be held directly from the telescope in Cerro Paranal in Chile.
+          </br></br>
+          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European Astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. 
+          """
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -131,6 +139,12 @@ module.exports =
       bio:
         """
         Juan Carlos Campuzano completed his Ph. D. degree at the University of Wisconsin-Milwaukee in 1978, with a thesis on infrared spectroscopy on metal surfaces under the supervision of Prof. R.G. Greenler. He developed techniques for the study of vibrations at surfaces. From 1978 to 1981, he was a postdoctoral fellow and then a Research Associate at the Donnan Laboratories, University of Liverpool, working with Prof. D.A. King, on photoemission and photoabsorption studies of various solids. In 1981, he joined the Cavendish Laboratory, University of Cambridge, as Research Associate, working on two-dimensional phase transitions and critical phenomena. In 1985 he joined the Department of Physics at the University of Illinois at Chicago, and in 1987 he also joined the Materials Science Division at Argonne National Laboratory. Currently, professor Campuzano's research is in many areas of condensed matter physics.
+        """
+    RobertoCastillo:
+      name: "Roberto Castillo"
+      bio:
+        """
+        I was born in the city of Concepción in Chile and I received my degree of Mechanical Civil Engineer from the University of Concepción. I am an amateur astronomer and have been building telescopes for more than 35 years. For the past 26 years, I've been connected with the Southern European Observatory. I started my professional career in 1987, working on the site study for the Very Large Telescope (VLT). I then worked as an engineer for the La Silla observatory. Since 2003 I have worked at the Paranal Observatory as part of the instrumentation group. We are responsible for the cryogenics and optics for the telescope. I am also the lead engineer for several of the telescope's instruments.
         """
 
   event:

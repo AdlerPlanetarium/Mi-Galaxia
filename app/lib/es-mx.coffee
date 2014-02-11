@@ -63,6 +63,17 @@ module.exports =
           A través del tiempo, los seres humanos se han conectado con el cosmos en un ciclo interminable de observación, asombro y descubrimiento. En "Maravilla Cósmica", invitamos al el público a mirar hacia arriba! El cielo nocturno revela los misterios de nuestro Universo en el ambiente de más inmersión que se haya creado nunca. Mientras observamos y formamos un entendimiento de nuestro cosmos, las tecnologías de punta permiten a la audiencia experimentar la noche como nunca antes, trayendo el Universo hacia ti.
           Presentado como espectáculo en vivo, Maravilla Cósmica cuenta la poderosa historia de cómo a través del tiempo, hemos reconstruído un entendimiento del cosmos, invitando a la gente a formular preguntas y ayudar a los científicos a abrir los misterios de lo desconocido.
           """
+      roberto:
+        title: "El Desarrollo de Tecnologías Para Grandes Telescopios"
+        desc:
+          """
+          La creación del Observatorio Europeo Austral (ESO, por sus siglas en inglés) y el emplazamiento de observatorios en Chile ha permitido a la comunidad astronómica europea estar a la vanguardia en la innovación de técnicas astronómicas. La ESO ha sido pionera en la aplicación de nuevas técnicas en la construcción de grandes telescopios. La óptica activa puesta en funcionamiento en el NTT (New Technology Telescope) en el año 1989 posibilitó la construcción de los espejos monolíticos del VLT (Very Large Telescope). El desarrollo de la aplicación de óptica adaptativa ha permitido estar a la vanguardia en la adquisición de imágenes de alta resolución. El constante mejoramiento en la eficiencia de detectores e instrumentos ha empujado a la ESO al desarrollo del ELT (Extremely LArge Telescope).
+          </br></br>
+          La ESO en Chile también ha creado la necesidad de preparar personal especializado tanto en astronomía como en instrumentación astronómica y también ha impuesto la necesidad de que Chile proteja sus cielos de contaminación.
+          </br></br>
+          Esta será una presentación en directo desde el telescopio en Cerro Paranal, Chile.
+          """
+
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -131,6 +142,12 @@ module.exports =
       bio:
         """
         Juan Carlos Campuzano completó su doctorado grado en la Universidad de Wisconsin-Milwaukee en 1978, con una tesis sobre la espectroscopia infrarroja sobre superficies metálicas bajo la supervisión del Prof. RG Greenler. Desarrolló técnicas para el estudio de las vibraciones en superficies. De 1978 a 1981 fue becario postdoctoral y luego como investigador asociado en el Donnan laboratorios de la Universidad de Liverpool, en colaboración con el Prof. DA King, de estudios sobre fotoemisión y fotoabsorción en diversos sólidos. En 1981, ingresó al Laboratorio Cavendish de la Universidad de Cambridge, como investigador asociado, trabajando en las transiciones de fase de dos dimensiones así como fenómenos críticos. En 1985 se incorporó al Departamento de Física de la Universidad de Illinois en Chicago, y en 1987 se integró a la División de Ciencia de los Materiales en el Laboratorio Nacional de Argonne. Actualmente, la investigación del profesor Campuzano cubre varias áreas de la física de materia condensada.
+        """
+    RobertoCastillo:
+      name: "Roberto Castillo"
+      bio:
+        """
+        Nací en la ciudad de Concepción en Chile y me titulé de Ingeniero Civil Mecánico en la Universidad de Concepción. Soy astrónomo aficionado y he estado construyendo telescopios desde hace más de 35 años, estando ligado al Observatorio Europeo Austral por más de 26 años. Mi carrera profesional la inicie en el año 1987 participando en el estudio de sitio para el VLT (Very Large Telescope) y luego trabajando como ingeniero en el grupo de operaciones del Observatorio La Silla hasta el año 2002. Desde el año 2003 trabajo en el Observatorio Paranal e integro el grupo de instrumentación responsable del área de criogenia, opto-mecánica y soy primer responsable de varios instrumentos.
         """
 
   event:
