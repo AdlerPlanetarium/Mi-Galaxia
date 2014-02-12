@@ -6,8 +6,6 @@ module.exports =
       """
       On March 8, discover the Adler's shows, exhibitions, and more –in Spanish!
       """
-  stayTuned:
-    "Tickets will go on sale February 11th."
   nav:
     home: "Home"
     event: "The Event"
