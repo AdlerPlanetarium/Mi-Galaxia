@@ -27,19 +27,19 @@ module.exports =
         title: "The Universe: Does it also evolve?"
         desc:
           """
-          Astronomers believe that the Universe we live in originated some 13700 million years ago. The topic of how the standar model of the Big Bang emerged will be addressed through a series of demonstrations. During this presentation some astronomical means of the production of elements will be described, as well as the reasons that have led astronomers to think that this is a valid model. It will be mentioned that the Universe is everything: space, time, matter and energy, and that its evolution continues. The bodies that form the cosmos as well as their spatial distribution will be briefly described. Cosmic expansion, chemical abundance of the elements and problems of night darkenss and dark matter will be addressed. The talk will conclude by mentioning problems related to energy release, chaos and the future of our Universe.
+          Astronomers believe that the Universe we live in originated some 13700 million years ago. The topic of how the standard model of the Big Bang emerged will be addressed through a series of demonstrations. During this presentation some astronomical means of the production of elements will be described, as well as the reasons that have led astronomers to think that this is a valid model. It will be mentioned that the Universe is everything: space, time, matter and energy, and that its evolution continues. The bodies that form the cosmos as well as their spatial distribution will be briefly described. Cosmic expansion, chemical abundance of the elements and problems of night darkenss and dark matter will be addressed. The talk will conclude by mentioning problems related to energy release, chaos and the future of our Universe.
           """
       luis:
         title: "The Universe through a lens"
         desc:
           """
-          Have you ever wondered how does a telescope work, what is fiver optic, or simply, what is light? Ligh posesses specific properties and the study of these properties is called optics. The development of optics has been very important in the development of scientific and technical  knowledge. The presence of the Sun is necessary for our eyes to be able to see. Why do you think that is? Through scientific demonstrations and activities related with optics, families qill be able to understand principles linked tolight and vision, which have served as the basis to the development of observing instruments.
+          Have you ever wondered how a telescope works, what is fiver optic, or simply, what is light? Ligh posesses specific properties and the study of these properties is called optics. The development of optics has been very important in the development of scientific and technical knowledge. The presence of the Sun is necessary for our eyes to be able to see. Why do you think that is? Through scientific demonstrations and activities related with optics, families will be able to understand principles linked to light and vision, which have served as the basis to the development of observation instruments.
           """
       ursala:
         title: "The nanoscopic world in our daily life"
         desc:
           """
-          Have you ever wondered if states of matter are enough to explain: from what stars are made of, to everything that surrounds us? We are taught at school that matter can only be found in trhee states: solid, liquid and gaseous. But, have you ever wondered what stars are made of? In this workshop we will cover topics such as what matter is, and what is its composition. Through interactive experiences, a Latino physicist will explain some physical and chemical phenomena, through which you will be able to discover basic principles that present in objects of nature, and are utilized for the development of materials through history.
+          Have you ever wondered if states of matter are enough to explain what stars are made of to everything that surrounds us? We are taught at school that matter can only be found in three states: solid, liquid and gaseous. Have you ever wondered what stars are made of? In this workshop we will cover topics such as what matter is and its composition. Through interactive experiences, a Latino physicist will explain some physical and chemical phenomena, through which you will be able to discover basic principles that are present in objects of nature, and have been utilized for the development of materials throughout history.
           """
       claudio:
         title: "SN2014J: The closest thermonuclear runaway observed in 41 years"
@@ -51,7 +51,7 @@ module.exports =
         title: "What are superconductors?"
         desc:
           """
-          Have you ever envisioned yourself having an extremely fast computer, or riding a train that levitates over its train tracks instead of touching them? Some materials such as lead or alluminum shift their electrical and magnetic properties when exposed to very low temperatures. Superconductors are used today in applications related to electricity, the environment, transportation, health and technology. In this presentation we will describe what superconductors are, how they are made, and what could be their impact in the XXIst century lifestyle.
+          Have you ever envisioned yourself having an extremely fast computer, or riding a train that levitates over its train tracks instead of touching them? Some materials such as lead or alluminum shift their electrical and magnetic properties when exposed to very low temperatures. Superconductors are used today in applications related to electricity, the environment, transportation, health and technology. In this presentation we will describe what superconductors are, how they are made, and what could be their impact in the 21st century lifestyle.
           """
       jose:
         title: "Cosmic Wonder"
@@ -65,9 +65,9 @@ module.exports =
         title: "Technology Development for Very Large Telescopes"
         desc:
           """
-          This presentation will be held directly from the telescope in Cerro Paranal in Chile.
+          This presentation will be held directly from the telescope at Cerro Paranal in Chile.
           </br></br>
-          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European Astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. 
+          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope's (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. 
           """
 
     JulietaFierro:
