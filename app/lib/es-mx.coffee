@@ -71,7 +71,21 @@ module.exports =
           </br></br>
           Esta será una presentación en directo desde el telescopio en Cerro Paranal, Chile.
           """
-
+      oneWorld:
+        title: "Un Mundo, Un Cielo"
+        desc:
+          """
+          El público joven se emocionará al encontrarse en Pláza Sésamo con famosos amigos como Big Bird y Elmo. La diversión comienza cuando el amigo de Elmo, Hu Hu Zhu, le visita desde China y los tres llevan a la audiencia en un emocionante viaje de descubrimiento para aprender sobre el Sol, las estrellas, y la Osa Mayor. Elmo, Hu Hu Zhu despegan a la Luna en un viaje imaginario y cuando retornan a casa en la Tierra, cada uno descubre que, no importa donde uno viva, todos compartimos el mismo Cielo.
+          """
+      backToMoon:
+        title: "Vuelta definitiva a la Luna"
+        desc:
+          """
+          Vuelta Definitiva a la Luna es una presentación de domo completo que documenta el desafío Google XPRIZE Lunar. Este espectáculo educaional para planetarios tiene una duración de 24 minutos y sigue el trabajo de los equipos que hay alrededor del mundo que están compitiendo para ser el primer equipo independiente que aluniza una nave robótica –y en consecuencia gana $30 millones, el mayor premio de incentivo de la historia.
+          <br><br>
+          La competencia Google XPRIZE Lunar está diseñada para democratizar el espacio y crear nuevas oportunidades para establecer una posible presencia humana y robótica en la Luna. En Vuelta Definitiva a la Luna vemos los pasos tomados en ingeniería e innovación por equipos internacionales con el fin de alunizar una nave, desplazarla 500 metros y enviar video de alta definición de vuelta a la Tierra –con la esperanza de ganar el premio.
+          Este programa también documenta la historia de exploración lunar y examina el futuro de la presencia humana en la Luna.
+          """
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -208,8 +222,6 @@ module.exports =
       header: "Contribuidores"
       content:
         """
-        <h2><a href="http://fieldmuseum.org/">The Field Museum</a></h2>
-        <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS at Northwestern University</a></h2>
         <h2>Ariel Finkielsztein</h2>
         <h2>Vanessa Montoya</h2>
         <h2>David Krist</h2>
@@ -228,6 +240,8 @@ module.exports =
         <h2>Francisco Aguilar</h2>
         <h2>Emma Flores</h2>
         <h2>Leidamarie Tirado</h2>
+        <h2>Edgar Rodriguez Valencia</h2>
+        <h2>Leonidas Aliaga Soplin</h2>
         <h2>Michael Bravo</h2>
         <h2>Jaime Encarnacion</h2>
         <h2>Felix Morales</h2>
@@ -239,6 +253,13 @@ module.exports =
         <h2>Irving Daniel Sandoval Gonzalez</h2>
         <h2>Francisco Restrepo</h2>
         <h2>Joseph Adams</h2>
+        <h2>Liliana Marquez</h2>
+        <h2>Dimitri Acosta</h2>
+        <h2>Stephanie Aguilar</h2>
+        <h2>Phillip Slogoff-Sevilla</h2>
+        <h2>Geovannie Ojeda-Torres</h2>
+        <h2>Cristian Martinez</h2>
+        <h2>Claudia Rivera</h2>
         <h2>Astrid Trujillo</h2>
         <h2>Yesenia Herrera</h2>
         <h2>Adriana Roman</h2>

@@ -69,6 +69,21 @@ module.exports =
           </br></br>
           The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope's (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. 
           """
+      oneWorld:
+        title: "One World, One Sky"
+        desc:
+          """
+          Young audience members will be thrilled when they find themselves on Sesame Street with their famous friends, Big Bird and Elmo. The fun begins when Elmo's friend, Hu Hu Zhu, visits from China and the three of them take the audience on an exciting journey of discovery to learn about the Sun, stars, and Big Dipper. Elmo and Hu Hu Zhu blast off on an imaginary trip to the Moon and when they return home to Earth everyone discovers that, no matter where we live, we all share the same sky.
+          """
+      backToMoon:
+        title: "Back to the Moon for Good"
+        desc:
+          """
+          Back to the Moon for Good is a fulldome planetarium presentation documenting the Google Lunar XPRIZE challenge. The educational 24-minute planetarium show chronicles the teams around the world who are competing to be the first independent group to land a robotic spacecraft on the Moon - and by doing so win $30 million, the largest incentivized prize in history.
+          <br><br>
+          The Google Lunar XPRIZE competition is designed to democratize space and create new opportunities for eventual human and robotic presence on the Moon. In Back to the Moon for Good we see the engineering and innovation steps taken by the international teams competing to land a spacecraft on the Moon, travel for 500 meters, and send high definition video back to Earth – in hope of winning the prize. 
+          The program also documents the history of lunar exploration and examines the future of human presence on the Moon.
+          """
 
     JulietaFierro:
       name: "Julieta Fierro"
@@ -206,8 +221,6 @@ module.exports =
       header: "Contributors"
       content:
         """
-        <h2><a href="http://fieldmuseum.org/">The Field Museum</a></h2>
-        <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">SACNAS at Northwestern University</a></h2>
         <h2>Ariel Finkielsztein</h2>
         <h2>Vanessa Montoya</h2>
         <h2>David Krist</h2>
@@ -226,6 +239,8 @@ module.exports =
         <h2>Francisco Aguilar</h2>
         <h2>Emma Flores</h2>
         <h2>Leidamarie Tirado</h2>
+        <h2>Edgar Rodriguez Valencia</h2>
+        <h2>Leonidas Aliaga Soplin</h2>
         <h2>Michael Bravo</h2>
         <h2>Jaime Encarnacion</h2>
         <h2>Felix Morales</h2>
@@ -237,6 +252,13 @@ module.exports =
         <h2>Irving Daniel Sandoval Gonzalez</h2>
         <h2>Francisco Restrepo</h2>
         <h2>Joseph Adams</h2>
+        <h2>Liliana Marquez</h2>
+        <h2>Dimitri Acosta</h2>
+        <h2>Stephanie Aguilar</h2>
+        <h2>Phillip Slogoff-Sevilla</h2>
+        <h2>Geovannie Ojeda-Torres</h2>
+        <h2>Cristian Martinez</h2>
+        <h2>Claudia Rivera</h2>
         <h2>Astrid Trujillo</h2>
         <h2>Yesenia Herrera</h2>
         <h2>Adriana Roman</h2>
