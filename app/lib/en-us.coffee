@@ -33,7 +33,7 @@ module.exports =
         title: "The Universe through a lens"
         desc:
           """
-          Have you ever wondered how a telescope works, what is fiver optic, or simply, what is light? Ligh posesses specific properties and the study of these properties is called optics. The development of optics has been very important in the development of scientific and technical knowledge. The presence of the Sun is necessary for our eyes to be able to see. Why do you think that is? Through scientific demonstrations and activities related with optics, families will be able to understand principles linked to light and vision, which have served as the basis to the development of observation instruments.
+          Have you ever wondered how a telescope works, what is fiber optic, or simply, what is light? Ligh posesses specific properties and the study of these properties is called optics. The development of optics has been very important in the development of scientific and technical knowledge. The presence of the Sun is necessary for our eyes to be able to see. Why do you think that is? Through scientific demonstrations and activities related with optics, families will be able to understand principles linked to light and vision, which have served as the basis to the development of observation instruments.
           """
       ursala:
         title: "The nanoscopic world in our daily life"
