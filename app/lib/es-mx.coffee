@@ -23,6 +23,7 @@ module.exports =
       organizers: "Organizadores:"
 
     talks:
+      shows: "Espectáculos"
       julieta:
         title: "El universo, ¿también evoluciona?"
         desc:
@@ -47,6 +48,13 @@ module.exports =
           """
           Mientras daba su clase de astronomía este enero recién pasado, Steve Fossey descubrió fortuitamente una supernova en M82, hermosa y colorida galaxia. El evento ya ha sido identificado como una supernova de tipo Ia, que es una clase de explosión estelar normalmente utilizada para medir distancias a escalas cosmológicas. Se presenta ante nosotros una maravillosa oportunidad para mejor entender el cómo las reacciones termonucleares operan en estas extremas condiciones.
           """
+        alt:
+          title: "Estrellas que Explotan y la Forma de Nuestra Galaxia —¡en 3D!"
+          pretext: "Incluye un diálogo con "
+          desc: 
+            """
+            Mira un par de películas cortas producidas en el Laboratorio de Visualización Espacial de Adler (SVL, por sus siglas en inglés). El Astrofísico Nuclear Claudio Ugalde conducirá una discusión inmediatamente después de las películas.
+            """
       juan:
         title: "¿Qué son los Superconductores?"
         desc:
@@ -55,6 +63,7 @@ module.exports =
           """
       jose:
         title: "Maravilla Cósmica"
+        pretext: "Narrado en vivo por "
         desc:
           """
           Emprende un viaje de descubrimientos increíble mientras ves cómo el más tecnológicamente avanzado teatro de domo se transforma en un observatorio virtual en "Maravilla Cósmica"

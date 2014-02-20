@@ -23,6 +23,7 @@ module.exports =
       organizers: "Organizers:"
 
     talks:
+      shows: "Shows"
       julieta:
         title: "The Universe: Does it also evolve?"
         desc:
@@ -47,6 +48,13 @@ module.exports =
           """
           While teaching his astronomy class this January, Steve Fossey discovered a supernova in M82, a beautiful starburst galaxy. The event has been identified as a Type Ia supernova, which is a kind of stellar explosion, and is used in our measurement of cosmological distances. This new supernova provides a wonderful opportunity to better understand how thermonuclear reactions operate in these extreme environments.
           """
+        alt:
+          title: "Exploding Stars and the Shape of our Galaxy  —in 3D!"
+          pretext: "Includes a discussion with "
+          desc:
+            """
+            Watch a couple shorts produced in the Adler's Space Visualization Laboratory (SVL) . Nuclear Astrophysicist Claudio Ugalde will lead a discussion afterwards.
+            """
       juan:
         title: "What are superconductors?"
         desc:
@@ -55,6 +63,7 @@ module.exports =
           """
       jose:
         title: "Cosmic Wonder"
+        pretext: "Narrated live by "
         desc:
           """
           Take an exciting journey of discovery as the world’s most technologically advanced dome theater transforms into a virtual observatory in "Cosmic Wonder".
