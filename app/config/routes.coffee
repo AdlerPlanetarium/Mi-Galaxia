@@ -19,6 +19,7 @@ App.Router.map ->
     @route 'claudio_ugalde'
     @route 'juan_carlos_campuzano'
     @route 'roberto_castillo'
+    @route 'carlos_wagner'
   @resource 'resources', ->
     @route 'nasa'
     @route 'the_adler'

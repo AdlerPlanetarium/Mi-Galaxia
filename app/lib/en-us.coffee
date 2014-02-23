@@ -76,7 +76,7 @@ module.exports =
           """
           This presentation will be held directly from the telescope at Cerro Paranal in Chile.
           </br></br>
-          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope's (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. 
+          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope's (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution.
           """
       oneWorld:
         title: "One World, One Sky"
@@ -90,7 +90,7 @@ module.exports =
           """
           Back to the Moon for Good is a fulldome planetarium presentation documenting the Google Lunar XPRIZE challenge. The educational 24-minute planetarium show chronicles the teams around the world who are competing to be the first independent group to land a robotic spacecraft on the Moon - and by doing so win $30 million, the largest incentivized prize in history.
           <br><br>
-          The Google Lunar XPRIZE competition is designed to democratize space and create new opportunities for eventual human and robotic presence on the Moon. In Back to the Moon for Good we see the engineering and innovation steps taken by the international teams competing to land a spacecraft on the Moon, travel for 500 meters, and send high definition video back to Earth – in hope of winning the prize. 
+          The Google Lunar XPRIZE competition is designed to democratize space and create new opportunities for eventual human and robotic presence on the Moon. In Back to the Moon for Good we see the engineering and innovation steps taken by the international teams competing to land a spacecraft on the Moon, travel for 500 meters, and send high definition video back to Earth – in hope of winning the prize.
           The program also documents the history of lunar exploration and examines the future of human presence on the Moon.
           """
 
@@ -167,6 +167,12 @@ module.exports =
       bio:
         """
         I was born in the city of Concepción in Chile and I received my degree of Mechanical Civil Engineer from the University of Concepción. I am an amateur astronomer and have been building telescopes for more than 35 years. For the past 26 years, I've been connected with the Southern European Observatory. I started my professional career in 1987, working on the site study for the Very Large Telescope (VLT). I then worked as an engineer for the La Silla observatory. Since 2003 I have worked at the Paranal Observatory as part of the instrumentation group. We are responsible for the cryogenics and optics for the telescope. I am also the lead engineer for several of the telescope's instruments.
+        """
+    CarlosWagner:
+      name: "Carlos Wagner"
+      bio:
+        """
+        Carlos Wagner is a Professor at the Enrico Fermi Institute and at the Kavli  Institute for Cosmological Physics, University of Chicago. He is also the head of the High Energy Physics Theory Group at Argonne National Laboratory.  After making his Diploma Thesis in Physics at the Instituto Balseiro, Bariloche, Argentina, he received his Ph. D from the University of Hamburg,  Germany, in 1989. Since then he has held postdoctoral positions in different research institutions, including Purdue University, the Max Planck Institute in Munich and the CERN Laboratory in Geneva, where he became a staff member. in the year 2000 he moved to the Chicago area and he now lives with his wife, Marcela Carena, and two children in Naperville, IL. In the year 2009 he was named a Fellow of the American Physics Society for his contributions to the theory of generation of mass of elementary particles and of the generation of the matter antimatter asymmetry of the Universe. He now concentrates mostly on the theoretical analysis of the properties of the newly discovered Higgs boson particle at CERN and its possible implications for the search for new physics at the Large Hadron Collider (LHC) and for the search for Dark Matter at the LHC and at other direct detection experiments.
         """
 
   event:

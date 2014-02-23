@@ -51,7 +51,7 @@ module.exports =
         alt:
           title: "Estrellas que Explotan y la Forma de Nuestra Galaxia —¡en 3D!"
           pretext: "Incluye un diálogo con "
-          desc: 
+          desc:
             """
             Mira un par de películas cortas producidas en el Laboratorio de Visualización Espacial de Adler (SVL, por sus siglas en inglés). El Astrofísico Nuclear Claudio Ugalde conducirá una discusión inmediatamente después de las películas.
             """
@@ -169,6 +169,12 @@ module.exports =
       bio:
         """
         Nací en la ciudad de Concepción en Chile y me titulé de Ingeniero Civil Mecánico en la Universidad de Concepción. Soy astrónomo aficionado y he estado construyendo telescopios desde hace más de 35 años, estando ligado al Observatorio Europeo Austral por más de 26 años. Mi carrera profesional la inicie en el año 1987 participando en el estudio de sitio para el VLT (Very Large Telescope) y luego trabajando como ingeniero en el grupo de operaciones del Observatorio La Silla hasta el año 2002. Desde el año 2003 trabajo en el Observatorio Paranal e integro el grupo de instrumentación responsable del área de criogenia, opto-mecánica y soy primer responsable de varios instrumentos.
+        """
+    CarlosWagner:
+      name: "Carlos Wagner"
+      bio:
+        """
+        Carlos Wagner es Profesor en el Instituto Enrico Fermi y en el Instituto Kavli para Física Cosmológica de la Universidad de Chicago. También encabeza el Grupo de Teoría Física de Alta Energía del Laboratorio Argonne. Luego de haber trabajado en su Tesis de Diploma en Física en el Instituto Balseiro en Bariloche, Argentina, recibió su Doctorado de la Universidad de Hamburgo, en Alemania el año 1989. Desde entonces ha ejercido la posición de post doctorado en diferentes instituciones, incluída la Universidad de Purdue, el Instituto Max Planck en Munich y el Laboratorio CERN en Ginebra, donde llegó a ser parte del personal. En el año 2000 se mudó a Chicago y hoy vive con su esposa Marcela Carena y sus dos hijos en Naperville, IL. En el 2009 fue nombrado Miembro de la Sociedad Americana de Física debido a sus contribuciones a la teoría de generación de masa de las partículas elementales, así como de generación de asimetría entre materia y antimateria del Universo. Hoy se concentra mayormente en el análisis teorético de las propiedades de la recién descubierta partícula bosón Higgs en CERN, y su posible rol en la búsqueda de nueva física en el Gran Colisionador de Hadrones (LHC, por sus siglas en inglés), y en la búsqueda de Materia Oscura en el LHC, así como en otros experimentos de detección directa.
         """
 
   event:
