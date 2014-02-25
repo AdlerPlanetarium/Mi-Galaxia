@@ -174,6 +174,12 @@ module.exports =
         """
         Carlos Wagner is a Professor at the Enrico Fermi Institute and at the Kavli  Institute for Cosmological Physics, University of Chicago. He is also the head of the High Energy Physics Theory Group at Argonne National Laboratory.  After making his Diploma Thesis in Physics at the Instituto Balseiro, Bariloche, Argentina, he received his Ph. D from the University of Hamburg,  Germany, in 1989. Since then he has held postdoctoral positions in different research institutions, including Purdue University, the Max Planck Institute in Munich and the CERN Laboratory in Geneva, where he became a staff member. in the year 2000 he moved to the Chicago area and he now lives with his wife, Marcela Carena, and two children in Naperville, IL. In the year 2009 he was named a Fellow of the American Physics Society for his contributions to the theory of generation of mass of elementary particles and of the generation of the matter antimatter asymmetry of the Universe. He now concentrates mostly on the theoretical analysis of the properties of the newly discovered Higgs boson particle at CERN and its possible implications for the search for new physics at the Large Hadron Collider (LHC) and for the search for Dark Matter at the LHC and at other direct detection experiments.
         """
+    AlvaroChavarria:
+      name: "Alvaro E. Chavarria"
+      bio:
+        """
+        Alvaro E. Chavarria is a post-doctoral Fellow at the Kavli Institute for Cosmological Physics (KICP), University of Chicago. He obtained is B.S. from Duke University in 2007 and Ph.D. from Princeton University in 2012. He has devoted his career to the detection of weakly-interacting particles from astronomical sources. His doctoral work was on the measurement of neutrinos from the Sun with the Borexino detector. At KICP he is involved in the development and deployment of charge-coupled devices (CCDs) in a low-radioactivity environment in the SNOLAB underground laboratory. These devices could detect the flux of WIMPs, particles that may constitute the dark matter of the Universe.
+        """
 
   event:
     title: "Event Page"

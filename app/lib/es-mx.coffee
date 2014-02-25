@@ -176,6 +176,12 @@ module.exports =
         """
         Carlos Wagner es Profesor en el Instituto Enrico Fermi y en el Instituto Kavli para Física Cosmológica de la Universidad de Chicago. También encabeza el Grupo de Teoría Física de Alta Energía del Laboratorio Argonne. Luego de haber trabajado en su Tesis de Diploma en Física en el Instituto Balseiro en Bariloche, Argentina, recibió su Doctorado de la Universidad de Hamburgo, en Alemania en el año 1989. Desde entonces ha ejercido posiciones de post doctorado en diferentes instituciones, incluída la Universidad de Purdue, el Instituto Max Planck en Munich y el Laboratorio CERN en Ginebra, donde llegó a ser parte del personal jerárquico de la institución. En el año 2000 se mudó a Chicago y hoy vive con su esposa Marcela Carena y sus dos hijos en Naperville, IL. En el 2009 fue nombrado Miembro de la Sociedad Americana de Física debido a sus contribuciones a la teoría de generación de masa de las partículas elementales, así como de generación de asimetría entre materia y antimateria del Universo. Hoy se concentra mayormente en el análisis teorético de las propiedades de la recién descubierta partícula bosón Higgs en CERN, y su posible rol en la búsqueda de nueva física en el Gran Colisionador de Hadrones (LHC, por sus siglas en inglés), y en la búsqueda de materia oscura en el LHC, así como en otros experimentos de detección directa de materia oscura.
         """
+    AlvaroChavarria:
+      name: "Álvaro E. Chavarría"
+      bio:
+        """
+        Álvaro E. Chavarría es Miembro de post-doctorado en el Instituto Kavli de Física Cosmológica  (KICP, por sus siglas en inglés), de la Universidad de Chicago. Él obtuvo su Bachillerato en Ciencia en la Universidad Duke en el año 2007 y su Doctorado en la Universidad de Princeton en el año 2012. Ha dedicado su carrera a la detección de partículas de interacción débil provenientes de fuentes astronómicas. Su trabajo de Doctorado se refiere a la medición de neutrinos que vienen del Sol, utilizando el detector Borexino. En KICP, Álvaro está involucrado en el desarrollo y despliegue de dispositivo de carga acoplada (CCDs, por sus siglas en inglés), en ambiente de baja radioactividad, en el laboratorio subterráneo SNOLAB. Estos dispositivos pueden detectar el flujo de WIMPs, partículas que posiblemente constituyen la materia oscura del Universo.
+        """
 
   event:
     title: "Event Page"
