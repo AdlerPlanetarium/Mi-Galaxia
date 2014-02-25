@@ -76,6 +76,18 @@ module.exports =
           """
           La creación del Observatorio Europeo Austral (ESO, por sus siglas en inglés) y el emplazamiento de observatorios en Chile ha permitido a la comunidad astronómica europea estar a la vanguardia en la innovación de técnicas astronómicas. La ESO ha sido pionera en la aplicación de nuevas técnicas en la construcción de grandes telescopios. For example, la óptica activa hizo posible la construcción del VLT (Very Large Telescope) así como sus imágenes de alta resolución. El constante mejoramiento en la eficiencia de detectores e instrumentos ha permitido a la ESO desarrollar el ELT (Extremely Large Telescope). La ESO en Chile también ha creado la necesidad de preparar personal especializado tanto en astronomía como en instrumentación. Los esfuerzos de la ESO también han impuesto la necesidad de que Chile proteja sus cielos de contaminación. Esta será una presentación en directo desde el telescopio en Cerro Paranal, Chile.
           """
+      carlos:
+        title: "Partículas, masa y materia"
+        desc:
+          """
+          Entre las grandes preguntas que existen en la física de partículas, hay preguntas relacionadas con el origen de la masa y la existencia de la materia en el Universo. El descubrimiento del bosón Higgs realizado en el Gran Colisionador de Hadrones, nos está ayudando a responder la primera de estas preguntas. La respuesta a la segunda pregunta es más difícil, ya que para entender el origen de la materia común y corriente, los bloques fundamentales de los átomos, y de la materia oscura que es sólo visible a través de interacciones gravitacionales, se requiere de nueva física. Tome parte en una conversación con el Dr. Carlos Wager, quien encabeza el Grupo de Teoría Física de Alta Energía, quien describirá las ideas que impulsan su trabajo de investigación.
+          """
+      alvaro:
+        title: "Detectando partículas provenientes del espacio"
+        desc:
+          """
+          Álvaro Chavarría, Ph.D. está interesado en le detección de partículas de interacción débil que provienen del espacio. Él estará discutiendo su trabajo como miembro del Instituto Kavli para Física Cosmológica en la Universidad de Chicago, y responderá sus preguntas en relación al tema.
+          """
       oneWorld:
         title: "Un Mundo, Un Cielo"
         desc:

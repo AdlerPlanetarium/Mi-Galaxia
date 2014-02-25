@@ -76,6 +76,18 @@ module.exports =
           """
           The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European Astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. This presentation will be held directly from the telescope at Cerro Paranal in Chile.
           """
+      carlos:
+        title: "Particles, mass and matter"
+        desc:
+          """
+          Among the biggest questions in particle physics are the ones related to the origin of mass and to the existence of matter in the Universe. The discovery of the Higgs at the Large Hadron Collider is helping us answer the first question. The answer to the second question is more difficult, since the understanding of the origin of ordinary matter, the building blocks of atoms, and of dark matter, which is visible only via its gravitational interactions, demands new physics. Join Dr. Carlos Wagner, Head of the High Energy Physics Theory Group, as he describes the ideas that drive his research.
+          """
+      alvaro:
+        title: "Detecting particles from space"
+        desc:
+          """
+          Alvaro Chavarria, Ph.D., is interested in the detection of weakly interacting particles from space. He will be discussing his work as a Fellow of the Kavli Institute for Cosmological Physics at the University of Chicago, and answering questions related to it.
+          """
       oneWorld:
         title: "One World, One Sky"
         desc:
