@@ -74,11 +74,7 @@ module.exports =
         title: "El Desarrollo de Tecnologías Para Grandes Telescopios"
         desc:
           """
-          La creación del Observatorio Europeo Austral (ESO, por sus siglas en inglés) y el emplazamiento de observatorios en Chile ha permitido a la comunidad astronómica europea estar a la vanguardia en la innovación de técnicas astronómicas. La ESO ha sido pionera en la aplicación de nuevas técnicas en la construcción de grandes telescopios. La óptica activa puesta en funcionamiento en el NTT (New Technology Telescope) en el año 1989 posibilitó la construcción de los espejos monolíticos del VLT (Very Large Telescope). El desarrollo de la aplicación de óptica adaptativa ha permitido estar a la vanguardia en la adquisición de imágenes de alta resolución. El constante mejoramiento en la eficiencia de detectores e instrumentos ha empujado a la ESO al desarrollo del ELT (Extremely LArge Telescope).
-          </br></br>
-          La ESO en Chile también ha creado la necesidad de preparar personal especializado tanto en astronomía como en instrumentación astronómica y también ha impuesto la necesidad de que Chile proteja sus cielos de contaminación.
-          </br></br>
-          Esta será una presentación en directo desde el telescopio en Cerro Paranal, Chile.
+          La creación del Observatorio Europeo Austral (ESO, por sus siglas en inglés) y el emplazamiento de observatorios en Chile ha permitido a la comunidad astronómica europea estar a la vanguardia en la innovación de técnicas astronómicas. La ESO ha sido pionera en la aplicación de nuevas técnicas en la construcción de grandes telescopios. For example, la óptica activa hizo posible la construcción del VLT (Very Large Telescope) así como sus imágenes de alta resolución. El constante mejoramiento en la eficiencia de detectores e instrumentos ha permitido a la ESO desarrollar el ELT (Extremely Large Telescope). La ESO en Chile también ha creado la necesidad de preparar personal especializado tanto en astronomía como en instrumentación. Los esfuerzos de la ESO también han impuesto la necesidad de que Chile proteja sus cielos de contaminación. Esta será una presentación en directo desde el telescopio en Cerro Paranal, Chile.
           """
       oneWorld:
         title: "Un Mundo, Un Cielo"

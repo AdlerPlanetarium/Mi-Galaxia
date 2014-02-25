@@ -74,9 +74,7 @@ module.exports =
         title: "Technology Development for Very Large Telescopes"
         desc:
           """
-          This presentation will be held directly from the telescope at Cerro Paranal in Chile.
-          </br></br>
-          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope's (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution.
+          The creation of the European Southern Observatory (ESO) and the placement of observatories in Chile has allowed the European Astronomy community to be in the innovation vanguard of astronomical techniques. The ESO has pioneered the application of new techniques in the construction of large telescopes. For example, active optics made the construction of the Very Large Telescope (VLT) mirrors possible and enabled its very high resolution images. The continuous improvement on efficiency of detectors and instruments has allowed the ESO to develop the Extremely Large Telescope (ELT). The ESO in Chile has also created the need to prepare specialized staff, not only in astronomy but also in instrumentation. The ESO's efforts have also imposed the need for Chile to protect its skies from pollution. This presentation will be held directly from the telescope at Cerro Paranal in Chile.
           """
       oneWorld:
         title: "One World, One Sky"
