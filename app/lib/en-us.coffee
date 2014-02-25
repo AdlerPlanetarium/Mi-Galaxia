@@ -473,3 +473,27 @@ module.exports =
         <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Activities for elementary & middle school students in Spanish</a></h2>
         <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">High School Physics tips in Spanish</a></h2>
         """
+    zooniverse:
+      title: "Zooniverse"
+      header: "Zooniverse"
+      content:
+        """
+        <div id="zooniverse">
+          <div class="row">
+            <div class="col-md-5">
+              <a href='http://www.diskdetective.org/?utm_source=Zooniverse%20Home&utm_medium=Web&utm_campaign=Homepage%20Catalogue'>
+              <img src="./images/disk-detective.jpg"/>
+              Disk Detective
+              </a>
+              <p>Find the Birthplace of Planets <br> Help comb our galaxy, looking for stars that could be harbouring planet-forming disks.</p>
+            </div>
+            <div class="col-md-5">
+              <a href='http://www.galaxyzoo.org/?utm_source=Zooniverse%20Home&utm_medium=Web&utm_campaign=Homepage%20Catalogue&lang=en'>
+              <img src="./images/galaxy-zoo.jpg"/>
+              Galaxy Zoo
+              </a>
+              <p>How do galaxies form? <br> NASA's Hubble Space Telescope archive provides hundreds of thousands of galaxy images.</p>
+            </div>
+          </div>
+        </div>
+        """

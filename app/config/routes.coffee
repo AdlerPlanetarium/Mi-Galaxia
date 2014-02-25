@@ -26,6 +26,7 @@ App.Router.map ->
     @route 'the_adler'
     @route 'role_models'
     @route 'organizations'
+    @route 'zooniverse'
     @route 'planetariums'
     @route 'additional'
 

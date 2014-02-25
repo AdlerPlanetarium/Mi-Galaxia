@@ -1,4 +1,4 @@
-module.exports =
+ module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
     callout: "Mi Galaxia <br> es su Galaxia"
@@ -462,4 +462,28 @@ module.exports =
         <h2><a href="http://ciencianet.com/">Datos divertidos y actividades (es)</a></h2>
         <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades en español para estudiantes de escuela primaria y secundaria</a></h2>
         <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudiantes de preparatoria (high-school) (es)l</a></h2>
+        """
+    zooniverse:
+      title: "Zooniverse"
+      header: "Zooniverse"
+      content:
+        """
+        <div id="zooniverse">
+          <div class="row">
+            <div class="col-md-5">
+              <a href='http://www.diskdetective.org/?utm_source=Zooniverse%20Home&utm_medium=Web&utm_campaign=Homepage%20Catalogue'>
+              <img src="./images/disk-detective.jpg"/>
+              Disk Detective
+              </a>
+              <p>Descubre donde nacen los planetas. <br> Ayúdenos con la búsqueda de estrellas con discos protoplanetarios donde se lleva acabo la formación de planetas.</p>
+            </div>
+            <div class="col-md-5">
+              <a href='http://www.galaxyzoo.org/?utm_source=Zooniverse%20Home&utm_medium=Web&utm_campaign=Homepage%20Catalogue&lang=es'>
+              <img src="./images/galaxy-zoo.jpg"/>
+              Galaxy Zoo
+              </a>
+              <p>¿Como se forman las galaxias? <br> El archivo del telescopio espacial Hubble de NASA nos provee cientos de miles de imágenes galácticas.</p>
+            </div>
+          </div>
+        </div>
         """
