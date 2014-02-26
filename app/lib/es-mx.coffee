@@ -475,14 +475,14 @@
               <img src="./images/disk-detective.jpg"/>
               Disk Detective
               </a>
-              <p>Descubre donde nacen los planetas. <br> Ayúdenos con la búsqueda de estrellas con discos protoplanetarios donde se lleva acabo la formación de planetas.</p>
+              <p>Descubre dónde nacen los planetas. <br>Ayúdanos en la búsqueda de estrellas con discos protoplanetarios donde se lleva a cabo la formación de planetas.</p>
             </div>
             <div class="col-md-5">
               <a href='http://www.galaxyzoo.org/?utm_source=Zooniverse%20Home&utm_medium=Web&utm_campaign=Homepage%20Catalogue&lang=es'>
               <img src="./images/galaxy-zoo.jpg"/>
               Galaxy Zoo
               </a>
-              <p>¿Como se forman las galaxias? <br> El archivo del telescopio espacial Hubble de NASA nos provee cientos de miles de imágenes galácticas.</p>
+              <p>¿Cómo se forman las galaxias? <br> El archivo del telescopio espacial Hubble de NASA nos provee con cientos de miles de imágenes galácticas.</p>
             </div>
           </div>
         </div>
