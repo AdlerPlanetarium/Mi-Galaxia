@@ -254,7 +254,7 @@ module.exports =
         """
         <h2><a href="http://fieldmuseum.org/">The Field Museum</a></h2>
         <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">Northwestern University SACNAS</a></h2>
-        <h2><a href="https://www.facebook.com/neiusacnas.chapter">Northwestern Illinois University SACNAS</a></h2>
+        <h2><a href="https://www.facebook.com/neiusacnas.chapter">Northeastern Illinois University SACNAS</a></h2>
         <h2><a href="http://www.shpe-uic.org/">University of Illinois at Chicago Society of Hispanic Professional Engineers</a></h2>
         <h2>Ariel Finkielsztein</h2>
         <h2>Vanessa Montoya</h2>
