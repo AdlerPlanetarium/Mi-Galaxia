@@ -1,4 +1,4 @@
- module.exports =
+module.exports =
   home:
     title: "Mi Galaxia es Su Galaxia"
     callout: "Mi Galaxia <br> es su Galaxia"
@@ -255,6 +255,7 @@
         <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">Northwestern University SACNAS</a></h2>
         <h2><a href="https://www.facebook.com/neiusacnas.chapter">Northeastern Illinois University SACNAS</a></h2>
         <h2><a href="http://www.shpe-uic.org/">University of Illinois at Chicago Society of Hispanic Professional Engineers</a></h2>
+        <h2><a href="http://observatori.uv.es/">Observatorio Astronómico de la Universidad de Valencia</a></h2>
         <h2>Ariel Finkielsztein</h2>
         <h2>Vanessa Montoya</h2>
         <h2>David Krist</h2>
@@ -457,11 +458,12 @@
       header: "Recursos adicionales"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto (es)</a></h2>
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto — Videos del Observatorio Astronómico de la Universidad de Valencia para la S.E.A. (Sociedad Española de Astronomía) (es)</a></h2>
+        <h2><a href="http://observatori.uv.es/">Observatorio Astronómico de la Universidad de Valencia</a></h2>
         <h2><a href="http://www.tudiscovery.com/">Discovery en español</a></h2>
         <h2><a href="http://ciencianet.com/">Datos divertidos y actividades (es)</a></h2>
         <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Actividades en español para estudiantes de escuela primaria y secundaria</a></h2>
-        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudiantes de preparatoria (high-school) (es)l</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">Consejos de física para estudiantes de preparatoria (high-school) (es)</a></h2>
         """
     zooniverse:
       title: "Zooniverse"

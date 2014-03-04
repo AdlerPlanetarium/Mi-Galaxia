@@ -256,6 +256,7 @@ module.exports =
         <h2><a href="https://northwestern.collegiatelink.net/organization/sacnasatnu">Northwestern University SACNAS</a></h2>
         <h2><a href="https://www.facebook.com/neiusacnas.chapter">Northeastern Illinois University SACNAS</a></h2>
         <h2><a href="http://www.shpe-uic.org/">University of Illinois at Chicago Society of Hispanic Professional Engineers</a></h2>
+        <h2><a href="http://observatori.uv.es/">Astronomical Observatory of the University of Valencia</a></h2>
         <h2>Ariel Finkielsztein</h2>
         <h2>Vanessa Montoya</h2>
         <h2>David Krist</h2>
@@ -467,11 +468,12 @@ module.exports =
       header: "Additional Resources"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1-Minute Astronomy in Spanish </a></h2>
+        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1-Minute Astronomy in Spanish — Videos produced by the Astronomical Observatory of the University of Valencia for the Spanish Astronomical Society</a></h2>
+        <h2><a href="http://observatori.uv.es/">Astronomical Observatory of the University of Valencia</a></h2>
         <h2><a href="http://www.tudiscovery.com/">Discovery in Spanish</a></h2>
         <h2><a href="http://ciencianet.com/">Fun facts and activities in Spanish</a></h2>
         <h2><a href="http://www.cientec.or.cr/ciencias/experimentos/index.html">Activities for elementary & middle school students in Spanish</a></h2>
-        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">High School Physics tips in Spanish</a></h2>
+        <h2><a href="http://www.aps.org/programs/education/upload/7-mitos-en-la-escuela-secondaria-sobre-la-fisica.pdf">High School Physics tips in SpanishHigh School Physics tips in Spanish</a></h2>
         """
     zooniverse:
       title: "Zooniverse"
