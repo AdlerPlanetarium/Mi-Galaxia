@@ -468,7 +468,7 @@ module.exports =
       header: "Additional Resources"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">1-Minute Astronomy in Spanish — Videos produced by the Astronomical Observatory of the University of Valencia for the Spanish Astronomical Society</a></h2>
+        <h2><a href="http://www.conec.es/2014/01/el-universo-en-un-minuto-diez-v%C3%ADdeos-de-sesenta-segundos-para-comprender-mejor-el-cosmos/">The Universe in One Minute — Videos produced by the Astronomical Observatory of the University of Valencia for the Spanish Astronomical Society</a></h2>
         <h2><a href="http://observatori.uv.es/">Astronomical Observatory of the University of Valencia</a></h2>
         <h2><a href="http://www.tudiscovery.com/">Discovery in Spanish</a></h2>
         <h2><a href="http://ciencianet.com/">Fun facts and activities in Spanish</a></h2>

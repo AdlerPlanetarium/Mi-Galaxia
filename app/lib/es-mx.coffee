@@ -458,7 +458,7 @@ module.exports =
       header: "Recursos adicionales"
       content:
         """
-        <h2><a href="http://www.youtube.com/playlist?list=PLUzsaJ4M7976xT1Cfh6NXEeelovUx7ReU">Astronomía en un minuto — Videos del Observatorio Astronómico de la Universidad de Valencia para la S.E.A. (Sociedad Española de Astronomía) (es)</a></h2>
+        <h2><a href="http://www.conec.es/2014/01/el-universo-en-un-minuto-diez-v%C3%ADdeos-de-sesenta-segundos-para-comprender-mejor-el-cosmos/">El universo en un minuto — Videos del Observatorio Astronómico de la Universidad de Valencia para la S.E.A. (Sociedad Española de Astronomía) (es)</a></h2>
         <h2><a href="http://observatori.uv.es/">Observatorio Astronómico de la Universidad de Valencia</a></h2>
         <h2><a href="http://www.tudiscovery.com/">Discovery en español</a></h2>
         <h2><a href="http://ciencianet.com/">Datos divertidos y actividades (es)</a></h2>
