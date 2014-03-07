@@ -195,6 +195,9 @@ module.exports =
     title: "Event Page"
     content: "Spanish Content"
 
+    program:
+      title: "Programa"
+
     about:
       title: "Detalles"
       header: "Inspírate con la ciencia"
@@ -205,10 +208,9 @@ module.exports =
         a examinar lejanas galaxias en plena colisión con el fin de entender el cómo es que estamos hechos de polvo de estrellas, el <a href="http://www.adlerplanetarium.org">Planetario Adler</a> nos inspira a preguntarnos, a observar y a descubrir.
         A través de este evento y la <a href="/#/resources/the_adler">continua participación</a> de ustedes, esperamos:</p>
         <ul>
-          <li>Fortalecer la relación entre el Planetario Adler y la comunidad latina</li>
-          <li>Facilitar el encuentro con científicos latinos que inspiren los jóvenes a conectarse y explorar la ciencia, tecnología, ingeniería y otras carreras relacionadas con las matemáticas</li>
-          <li>Contribuir a cerrar la brecha de logros que existe entre estudiantes latinos y no latinos</li>
-          <li>Crear un espacio público donde familias latinas puedan practicar su español en relación con temas de ciencia</li>
+          <li>Alentar a las familias latinas a que juntos experimenten ciencia en su propio idioma</li>
+          <li>Dar a la juventud latina la oportunidad de interactuar e inspirarse con científicos latinos que sirven como modelos a seguir</li>
+          <li>Explorar el Universo en formas que sobrepasan barreras de idiomas y fronteras</li>
         </ul>
         """
     gettingHere:

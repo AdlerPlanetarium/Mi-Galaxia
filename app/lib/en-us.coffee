@@ -195,6 +195,9 @@ module.exports =
     title: "Event Page"
     content: "Content for the event page"
 
+    program:
+      title: "Program"
+
     about:
       title: "About"
       header: "Get Inspired by Science"
@@ -205,10 +208,9 @@ module.exports =
           From exploring planets around other stars to seeing faraway galaxies collide to understanding why we are all made of stardust, the Adler Planetarium inspires us to wonder, observe, and discover. Through this event and <a href="/#/resources/the_adler">continued engagement</a>, we hope to:
         </p>
         <ul>
-          <li>Strengthen the relationship between The Adler Planetarium and the Latino community</li>
-          <li>Provide Latino scientist role models for Latino youth to connect with and be inspired by to explore science, technology, engineering, and math related careers</li>
-          <li>Address the achievement gap between Latino and non-Latino students</li>
-          <li>Create a public space where Latino families can utilize the Spanish language in relation to science subjects</li>
+          <li>Encourage Latino families to experience science together in their own language</li>
+          <li>Provide Latino youth with a chance to interact with and be inspired by Latino scientist role models</li>
+          <li>Explore the Universe in ways that go beyond borders and language barriers</li>
         </ul>
         """
 
