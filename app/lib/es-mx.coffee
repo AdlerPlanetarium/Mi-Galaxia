@@ -201,6 +201,7 @@ module.exports =
     about:
       title: "Detalles"
       header: "Inspírate con la ciencia"
+      photos: "Fotos del evento"
       content:
         """
         <p>El Planetario Adler, en conjunto con organizaciones de la comunidad latina, da la bienvenida a familias de habla española al apasionante y universal mundo de la ciencia.

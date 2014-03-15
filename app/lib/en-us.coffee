@@ -201,6 +201,7 @@ module.exports =
     about:
       title: "About"
       header: "Get Inspired by Science"
+      photos: "Photos from the event"
       content:
         """
         <p>
