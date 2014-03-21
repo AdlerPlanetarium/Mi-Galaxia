@@ -214,6 +214,8 @@ module.exports =
           <li>Explorar el Universo en formas que sobrepasan barreras de idiomas y fronteras</li>
         </ul>
         """
+    press:
+      title: "Preza"
     gettingHere:
       title: "Cómo llegar"
       header: "Cómo llegar"

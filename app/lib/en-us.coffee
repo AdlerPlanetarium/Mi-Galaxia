@@ -214,7 +214,8 @@ module.exports =
           <li>Explore the Universe in ways that go beyond borders and language barriers</li>
         </ul>
         """
-
+    press:
+      title: "Press"
     gettingHere:
       title: "Getting Here"
       header: "Getting Here"

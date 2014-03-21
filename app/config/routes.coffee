@@ -6,6 +6,7 @@ App.Router.map ->
     @route 'contact_us'
     @route 'contributors'
     @route 'organizers'
+    @route 'press'
   @resource 'scientists', ->
     @route 'julieta_fierro'
     @route 'luis_nasser'
